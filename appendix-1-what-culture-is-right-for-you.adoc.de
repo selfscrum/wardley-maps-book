@@ -1,0 +1,129 @@
+[#appendix-1-what-culture-is-right-for-you]
+
+= Anhang 1 - Welche Kultur ist die richtige für Sie?
+
+== Das Problem
+Während der Jahre 2005-2006 mit der Implementierung einer Pionier-Siedler-Stadtplaner-Struktur in einem Hightech-Startup in Old Street, London (damals eine unfruchtbare Einöde der Technologie), war eine bemerkenswerte Beobachtung, dass die verschiedenen Komponenten der Struktur unterschiedliche Kulturen zu haben schienen. Eine neuere Reihe von Beobachtungen (2014-2016) durch die Untersuchung der Unternehmensdoktrin hat uns gezeigt, dass die in Unternehmen verwendeten Prinzipien nicht die gleichen sind und nicht einmal notwendigerweise innerhalb eines Unternehmens einheitlich sind, und dies scheint die Anpassungsfähigkeit der Organisation zu beeinflussen.
+
+Um es einfach auszudrücken: Wenn ich eine Liste von universell nützlichen Prinzipien nehme, die aus dem Mapping abgeleitet wurden (siehe Abbildung 1), und dann Unternehmen mit einem einfachen Ampelsystem vergleiche (sind Sie gut darin oder nicht), dann gibt es Unterschiede (Abbildung 2 und 3).
+
+.Doktrin, eine Liste von universell nützlichen Prinzipien
+[#img-fig1-docrtine-a-list-of-universally-useful-principles] 
+[caption="Abbildung 1: ",link=https://XXXXXXXXX.jpeg]
+image::XXXXXXXXXXX.jpeg[Abbildung 1 - Doktrin, eine Liste von universell nützlichen Prinzipien,900,600,align=center]
+
+.Doktrin innerhalb eines Web-Giganten
+[#img-fig2-doctrine-within-a-web-giant] 
+[caption="Abbildung 2: ",link=https://XXXXXXXXX.jpeg]
+image::XXXXXXX.jpeg[Abbildung 2 - Doktrin innerhalb eines Web-Riesen,900,600,align=center]
+
+.Doktrin innerhalb eines Bankenriesen
+[#img-fig3-doctrine-within-a-banking-giant] 
+[caption="Abbildung 3: ",link=https://XXXXXXXXX.jpeg]
+image::XXXXXXX.jpeg[Abbildung 3 - Doktrin innerhalb eines Bankriesen,900,600,align=center]
+
+Nun können wir nicht sagen, welche Prinzipien wichtiger sind und die Liste der Lehren selbst wird ständig erweitert. Wenn sich z. B. die Technologie weiterentwickelt, dann gibt es eine ständige Co-Evolution der Praktiken und einige dieser Praktiken sind stattdessen universell nützliche Prinzipien, z. B. die Konzentration auf die Bedürfnisse der Benutzer oder die Verwendung geeigneter Methoden (z. B. XP vs. Lean vs. Six Sigma).
+
+Es lohnt sich, dies ein wenig näher zu erläutern. Die Praxis selbst ist in der Regel mit einer bestimmten Implementierung eines zugrundeliegenden Systems verbunden, d. h. die beste architektonische Praxis für Compute as a Product beinhaltet Disaster-Recovery-Tests und Kapazitätsplanung. Die Praxis selbst entwickelt sich - sie erscheint nicht vollständig geformt - und daher haben wir neuartige, aufkommende, gute und beste Praxis, d. h. alle vier Stufen eines sich entwickelnden Kapitals (siehe Abbildung 4).
+
+.Die Stufen des Kapitals und die von uns verwendeten Etiketten
+[#img-fig4-The stages-of-capital-and-the-labels-we-use] 
+[caption="Abbildung 4: ",link=https://XXXXX.jpeg]
+image::XXXXXXX.jpeg[Abbildung 4 - Die Stufen des Kapitals und die von uns verwendeten Etiketten,900,600,align=center]
+
+Wenn sich die Technologie weiterentwickelt, kann sich eine neue Praxis aufgrund einer Änderung eines Merkmals mitentwickeln. Beim Übergang von Compute as a Product (Stufe III, siehe Abbildung 4 oben) zu Compute as a Utility (Stufe IV, siehe Abbildung 4 oben) war das Merkmal, das sich geändert hat, die MTTR (Mean Time to Recovery). Wenn in der alten Welt ein Server kaputt ging, konnte es Monate dauern, bis eine neue Maschine zur Verfügung stand. In der neuen Welt kann es nur noch Sekunden dauern. Dies ermöglichte eine neue Reihe von Praktiken (die wir im Laufe der Zeit als DevOps bezeichneten) und beinhaltete Design for Failure, Continuous Deployment, verteilte Systeme und Chaos-Engines (zufällige Einführung von Fehlern in das System). Diese Praktiken haben sich dann selbst weiterentwickelt und werden nun als gute (und schließlich beste) architektonische Praxis für Compute as a Utility angesehen.
+
+Dies lässt sich am besten anhand einer Karte erkennen, daher habe ich den Prozess in Abbildung 5 hervorgehoben. Es ist erwähnenswert, dass eine wichtige Form der Trägheit gegenüber einer Änderung einer zugrunde liegenden Technologie die bewährten Verfahren sind, die mit der weniger entwickelten Technologie existierten. Es ist nicht nur bereits vorhandenes Kapital (d. h. versunkene Kosten), das einen Widerstand gegen Veränderungen verursacht (wie z. B. die Umstellung von einem Produkt auf einen Nutzen), sondern auch die Praktiken, die mit der bisherigen Vorgehensweise verbunden sind.
+
+.Eine Landkarte der Co-Evolution mit Technologie
+[#img-fig5-a-map-of-co-evolution-with-technology] 
+[caption="Abbildung 5: ",link=https://XXXXXXXXXXXX.jpeg]
+image::XXXXXXXXX.jpeg[Abbildung 5 - Eine Karte der Co-Evolution mit Technologie,900,600,align=center]
+
+Manchmal tauchen im Strudel einer sich verändernden Technologie eine Reihe von Praktiken auf, die über den Kontext hinausgehen und universell nützlich sind, z. B. sich auf die Bedürfnisse der Benutzer zu konzentrieren oder klein zu denken, d. h. die Details zu kennen. Manchmal sind diese Praktiken in kontextspezifischeren Praktiken versteckt, d.h. das Denken in kleinen Dimensionen, das sich sowohl in Mikrodiensten als auch in der Verwendung von zellbasierten Strukturen versteckt. Diese Praktiken sind nicht abhängig von der zugrunde liegenden Technologie und dem spezifischen Kontext. Diese Praktiken nennen wir universell nützliche Prinzipien und die Doktrin ist einfach eine Sammlung von universell nützlichen Prinzipien. Das Auftauchen solcher Prinzipien ist oft zufällig oder als Prozess des Umdenkens der Menschen, wie wir Dinge tun. Die Prinzipien haben eine kontextabhängige Seite, d.h. meine Benutzerbedürfnisse sind nicht notwendigerweise die gleichen wie Ihre Benutzerbedürfnisse, aber insgesamt wird ein Fokus auf die Benutzerbedürfnisse als universell nützlich angesehen.
+
+Was im Wettbewerb zählt, ist aber auch Ihre Konkurrenz. Dass Sie in diesen Prinzipien hoffnungslos unterlegen sind, spielt keine Rolle, solange Ihre Konkurrenten das auch sind. Wenn wir alle die Bedürfnisse der Benutzer ignorieren, dann hat niemand einen Vorteil. Es wird erst dann zum Problem, wenn eine andere Art von Unternehmen (wie z.B. der Web-Gigant) in unsere Branche (z.B. Banking) eintritt. Schließlich sind diese Prinzipien nicht einmal innerhalb eines Unternehmens einheitlich. Es kann durchaus sein, dass einige Teile einen anderen Führungsstil und andere Schwerpunkte haben.
+
+Insgesamt sollten diese Aussagen nicht überraschen - "Kulturen und damit verbundene Prinzipien sind zwischen Organisationen und innerhalb von Organisationen unterschiedlich und dies kann sich auf die Leistung auswirken".
+
+Leider führt uns das zu der Frage "Welche Kultur ist die richtige für Sie". Das Problem bei dieser Frage liegt in ihrem Auspacken.
+
+== Welche Kultur ist die richtige für Sie?
+Zunächst einmal müssen wir definieren, was Kultur ist, um zu unterscheiden, was vielleicht richtig oder vielleicht falsch ist? Im Jahr 1952 haben die amerikanischen Anthropologen Kroeber und Kluckhohn die Konzepte und Definitionen von Kultur in der akademischen Welt kritisch überprüft und eine Liste mit 164 verschiedenen Definitionen zusammengestellt. Eine Durchsicht der populären Wirtschaftspresse zeigt, dass der Begriff heute ebenso, wenn nicht sogar noch nebulöser ist. Trotzdem schreiben wir der "Kultur" fast mystische Eigenschaften und Kräfte zu, mit Memen wie "culture eats strategy for breakfast".
+
+Die Materie selbst ist kompliziert in Bezug auf viele verschiedene Komponenten, die sie beeinflussen, von erlernten bis zu ererbten Verhaltensweisen, von sozialen bis zu persönlichen Konstrukten, von Schichten bis zu Manifestationen, von Determinismus bis Relativismus, von der semantischen bis zur symbolischen Geschichte. Es ist auch insofern komplex, als viele seiner Eigenschaften emergent erscheinen, wie bei vielen sich entwickelnden Prozessen. Das Feld ist auch in der Wirtschaftspresse mit vielen unangemessenen Konzepten übersät, die einer Überprüfung nicht standhalten, wie z. B. die Vorstellung, dass Kultur homogen ist (wie eine Sache), dass sie gleichmäßig unter den Mitgliedern jeder sozialen Gruppe (einschließlich Organisationen) verteilt ist, dass Individuen nur eine einzige Kultur besitzen oder dass Kultur einfach nur Gewohnheit ist oder dass Kultur irgendwie fixiert ist und nicht vergänglich und zeitlos.
+
+Im besten Fall können wir sagen, dass Kultur viele Dinge enthält, von Erfahrungen, erlerntem Verhalten, Wissen, Bedeutungen, Beziehungen, Hierarchien (d. h. Machtstrukturen), Fähigkeiten (d. h. Fertigkeiten), Werten, Besitz, Aspekten des Glaubens (d. h. ethische Position relativ zu anderen), Prinzipien und Einstellungen. Es hat viele Ebenen, vom Individuum über die Gruppe und die Organisation bis hin zur Nation. Es hat viele Perspektiven, die je nach Kontext variieren können.
+
+Bezogen auf die Fragestellung lassen sich die Probleme damit wie folgt formulieren :-
+
+# mit dem Wort "Kultur" und seiner Definition.
+# mit den Worten "was richtig ist", da dies ein gewisses Maß an Richtigem erfordert und die Akzeptanz, dass es viele Rechte und viele Unrechte geben kann, die sich beide mit dem Kontext ändern können.
+# mit den Worten "für Sie", da es viele Perspektiven gibt. Es gibt auch die abgeleitete Implikation, dass Kultur gelenkt werden kann, weil es keinen Sinn macht, zu wissen, was richtig ist, wenn man nicht dorthin gelangen kann. Das Problem hier ist, dass viele Teile vielleicht immer nur emergent sind, d.h. wir können vielleicht einen Anstoß geben, aber keine Richtung erzwingen.
+
+Dieses chaotische Thema verhindert jedoch nicht, dass es eine florierende und lukrative Industrie von Selbsthilfe-Ratgebern, Leistungswertmatrizen, Acht- oder Zehn-Schritte-Prozessen und Erklärungen darüber gibt, was eine erfolgreiche Kultur ausmacht - kurzfristige Erfolge, die Befähigung von Mitarbeitern, die Schaffung eines Gefühls der Dringlichkeit, die Kommunikation der Vision, Matrizen für den Weg vom Guten zum Großen usw. Am beunruhigendsten ist, dass viele der Merkmale, die in positiven Fallbeispielen als mit dem Erfolg verbunden beschrieben werden, auch bei denen zu finden sind, die gescheitert sind. Dies führt auch zu dem berüchtigten Problem der Ergebnisverzerrung (outcome bias), bei dem wir einen bestimmten Ansatz übernehmen, nur weil andere, die wir als erfolgreich ansehen, diesen Ansatz verwendet haben, und schließlich zur Bestätigungsverzerrung (confirmation bias), bei der der Beweis, dass ein solcher Ansatz funktioniert, darin besteht, dass andere ihn jetzt übernehmen. Dies scheint zu einer endlosen Flut von Memen und dem Wunsch zu führen, "große Namen" dazu zu bringen, einen Ansatz abzusegnen
+
+Aus meiner persönlichen Erfahrung heraus hat mich das Ergebnis einer ausgiebigen Lektüre der Wirtschaftspresse vor eine von zwei Möglichkeiten gestellt: Entweder ich schließe mich einem Glaubenskult um den neuesten Management-Guru an oder ich werfe entsetzt die Hände hoch und ziehe mich in den Sumpf zurück, in dem ich lebe. Glücklicherweise kam die Anthropologie zur Rettung. Der einzige Unterschied zwischen der Anthropologie und der Wirtschaftspresse, wenn es um das Thema Kultur geht, ist, dass die Anthropologie sich auf Beobachtungen stützt und sich bis ins kleinste Detail auf Beobachtungen konzentriert, während die populäre Wirtschaftspresse mit einer Hypothese zu beginnen scheint und Fallbeispiele findet, die dazu passen.
+
+Diese Frage der Beobachtung liefert mir einen Weg ins Feld, denn bei Maps geht es um Beobachtung. Schon der Beginn des Strategiezyklus (Abbildung 6) ist das erste O von OODA - die Beobachtung, aus der Zusammenhänge gelernt und Muster entdeckt werden können, die dann wieder angewendet werden.
+
+.Der Strategiezyklus
+[#img-fig6-the-strategy-cycle] 
+[caption="Abbildung 6: ",link=https://XXXX.jpeg]
+image::XXXXXXXXXXXXXX.jpeg[Abbildung 6 - Der Strategiezyklus,900,600,align=center]
+
+== Können wir Kultur abbilden?
+Es sind nicht nur die Aktivitäten und die Praxis, die sich weiterentwickeln. Aus der obigen Abbildung 4 könnten wir Wissen als eine Form von Kapital abbilden. Als primitives Beispiel habe ich eine schnelle Karte der Populationsgenetik unter Verwendung der Wissensachse hinzugefügt. Sie werden vielleicht nicht damit einverstanden sein, wie entwickelt die Komponenten sind, Sie könnten zusätzliche Komponenten hinzufügen, die fehlen, aber das ist der Sinn von Karten. Unsere sich entwickelnden Systeme höherer Ordnung sind auf sich entwickelnden Komponenten niedrigerer Ordnung aufgebaut, seien es Aktivitäten, Praktiken, Daten oder Wissen.
+
+.Populationsgenetik als Wissen
+[#img-fig7-population-genetics-as-knowledge] 
+[caption="Abbildung 7: ",link=https://XXXXXXXXX.jpeg]
+image::XXXXXXXXX.jpeg[Abbildung 7 - Populationsgenetik als Wissen,900,600,align=center]
+
+In gleicher Weise müssen wir akzeptieren, dass Kultur viele Komponenten hat und nicht nur eine Sache ist. Sie ist ein Konstrukt, das auf Konstrukten aufbaut. Die Frage ist, ob diese Komponenten abgebildet werden können oder ob Mapping helfen kann Wir wissen bereits, dass sich Mapping als nützlich erwiesen hat, wenn es darum geht, eine Wettbewerbslandschaft zu verstehen, Praktiken zu untersuchen, zu bestimmen, was allgemein nützliche Prinzipien zu sein scheinen (z. B. Doktrin) und andere Formen von Kapital zu untersuchen (z. B. Wissen oder Daten). Karten haben von Natur aus eine Perspektive, und es können viele Ebenen verwendet werden, vom Individuum bis hin zum Nationalstaat. Karten sind um das Konzept der Evolution herum konzipiert, und aus diesem Grund können Karten sowohl das Komplizierte als auch das Komplexe (emergente Verhaltensweisen) unterstützen. Karten sind ein kontextbewusster Mechanismus der Kommunikation und des Lernens sowohl für vergangene Aktionen als auch für potenzielle zukünftige Verhaltensweisen
+
+Auf den ersten Blick scheinen diese Konzepte des Kontexts und der universellen Muster gut zu den Ideen der Kultur zu passen. Wir haben bereits einige recht fortschrittliche Überlegungen zur Landschaft, zur Doktrin und zur Trägheit. Wir können sogar die Haltung durch organisatorische Strukturen wie Pioniere - Siedler - Stadtplaner darlegen. Aber es gibt Einschränkungen bei Karten. Die Technik ist unvollkommen (alle Karten müssen, um nützlich zu sein, unvollkommene Darstellungen sein). Wir wissen auch, dass Karten selbst das Verhalten verändern können, von der Bekämpfung von Vorurteilen bis hin zur Trägheit. Karten haben das Potenzial, ein sichtbares Artefakt der Kultur zu sein und ebenso sehr ein Teil der Landschaft wie ein Mittel zu ihrer Visualisierung. Die größte Einschränkung ist, dass Karten von der Entwicklung des Kapitals abhängen.
+
+Allerdings entwickeln sich Ideen, die Bedeutungen zwischen ihnen und sogar unsere Werte und ethischen Konstrukte. In Edgar Scheins "Organisationskultur: Ein dynamisches Modell" bezieht er sich direkt auf die sich verändernde Natur von Werten, von befürworteten Werten über Annahmen bis hin zu unbewussten Reaktionen.
+
+In Bezug auf die Abbildung kann eine ähnliche Evolutionsskala gewonnen werden, indem man die Beschriftungen von verschiedenen Kapitalformen (über Praktiken, Daten und Wissen) kombiniert. Ausgehend von der obigen Abbildung 4 habe ich die folgenden Beschriftungen hervorgehoben (Abbildung 8), um eine Skala von :- zu erstellen
+
+* Stufe I: Konzept (und Beobachtung) - ein befürworteter Wert
+* Stufe II : Aufstrebend - die Entwicklung eines befürworteten Wertes als aufstrebendes Thema
+* Stufe III : Konvergenz - der Konflikt zwischen auftauchenden Themen, um eine Annahme oder eine Reihe von Annahmen zu bilden
+* Stufe IV : Akzeptiert - die unbewusste Reaktion, wenn der einst vertretene Wert zur akzeptierten Norm geworden ist und als selbstverständlich angesehen wird.
+
+.Etiketten für ethische Werte
+[#img-fig8-labels-for-ethical-values] 
+[caption="Abbildung 8: ",link=https://XXXXXXX.jpeg]
+image::XXXXXXX.jpeg[Abbildung 8 - Etiketten für ethische Werte,900,600,align=center]
+
+Wie bei jeder Form von Kapital können wir dies einfach abbilden und mit anderen Formen von Kapital kombinieren. Am Beispiel der allgegenwärtigen Tasse Tee können wir nicht nur die physischen Komponenten, jegliche Praktiken, jegliches Wissen, jeglichen Kapitalfluss (d.h. Finanzen) in die Diskussion einbeziehen, sondern auch Überlegungen zu Wert und Ethik wie fairer Handel oder grüne Energie (siehe Abbildung 9). In dieser Abbildung habe ich die x-Achse (in rot) mit den Bezeichnungen versehen, die für die Diskussion über ethisches Kapital verwendet werden.
+
+.Erweitern der Tasse Tee
+[#img-fig9-expanding-the-cup-of-tea] 
+[caption="Abbildung 9: ",link=https://XXXXXXX.jpeg]
+image::XXXXXXXXXX.jpeg[Abbildung 9 - Erweitern der Teetasse,900,600,align=center]
+
+Da die Beschriftungen auf der x-Achse einfach Notationen für die Stufen I bis IV des Kapitals sind, habe ich in der Abbildung oben die alternativen Beschriftungen angegeben, aber normalerweise verwende ich einfach die Beschriftungen für Aktivitäten (von der Entstehung bis zum Nutzen) wie in Abbildung 10, egal ob ich über Aktivitäten, Praxis, Daten, Wissen oder sogar ethische Werte spreche. Das ist für mich eine ausreichend gute Darstellung.
+
+.Eine normale Karte mit ethischen Werten
+[#img-fig10-a-normal-map-including-ethical-values] 
+[caption="Abbildung 10: ",link=https://XXXXXXXXXX.jpeg]
+image::XXXXXXXXXXXXXXX.jpeg[Abbildung 10 - Eine normale Karte mit ethischen Werten,900,600,align=center]
+
+Da das Mapping selbst aus dem Strategiezyklus abgeleitet ist, ist es den Maps inhärent, dass der bestehende Zustand aus einer Schleife um den Zyklus abgeleitet ist, d. h. vergangene Aktionen informieren die Gegenwart. Dies würde bedeuten, dass Kultur (wie auch andere Formen von Kapital) in einer Organisation nicht nur eine Reihe von sich entwickelnden Komponenten ist, die interagieren, sondern auch eine Folge vergangener Handlungen (d. h. Schleifen). Die Möglichkeiten von heute werden durch vergangene Kontexte und Entscheidungen begrenzt. Das bedeutet, dass Kultur nicht an einem Standard gemessen werden kann, da sie von der Landschaft abhängt, sich mit der Geschichte verändert und von Natur aus emergent ist, so wie es auch die Strategie ist
+
+Das bedeutet jedoch nicht, dass es keine Muster gibt und somit auch keine klimatischen Muster (Spielregeln), kontextspezifische Muster (Methoden zur Manipulation bestimmter Kontexte) und universell nützliche Prinzipien (d.h. Doktrin)
+
+Schließlich unterscheidet das Mapping zwischen den Bedürfnissen (es beschreibt eine Kette von Bedürfnissen in einer Landschaft) und den Wünschen (d. h. oft, wie wir die Landschaft beeinflussen oder manipulieren wollen). Dieser Unterschied zwischen Wünschen und Bedürfnissen ist auch in der Kultur vorhanden, d.h. die allgemeinen Wünsche der Armen und der Mittelschicht mögen identisch sein, aber die Bedürfnisse können sehr unterschiedlich sein. Alles hat eine kulturelle Bedeutung, wenn es darum geht, eine Landschaft zu beschreiben.
+
+== Nächste Schritte
+Obwohl alle Karten eine unvollkommene Darstellung eines Raums sind, haben sie einen Nutzen für die Kommunikation, das Lernen und die Mustererkennung. Einige der Komponenten der Kultur (ob Prinzipien oder Einstellungen oder ethische Werte) können unter der Annahme, dass sich Werte wie oben beschrieben entwickeln, kartiert werden. Einige der Komponenten der heutigen Kultur sind eine Folge vergangener Entscheidungen in einer vergangenen Landschaft. Auf die gleiche Weise, wie wir technische Schulden gegenüber vergangenen Entscheidungen und Trägheit gegenüber Veränderungen aufgrund vergangener Erfolge haben, sollten wir auch kulturelle Schulden und Trägheit gegenüber Veränderungen aufgrund von ethischem Kapital sehen.
+
+Natürlich habe ich mich in dieser Diskussion speziell auf Aktivitäten (eine Art von Kapital) mit besonderem Bezug auf Technologie konzentriert, während Ko-Evolution mit vielen Formen von Kapital auftreten kann, d.h. Ko-Evolution von Praktiken (und damit das Auftreten von Prinzipien) kann aufgrund von sich entwickelndem Wissen oder Daten oder sogar Praktiken selbst (in einer reizvollen rekursiven Wendung) auftreten.
+
+Dies ist jedoch eine gefährliche Linie der Untersuchung. Wie wir bereits wissen, können wettbewerbsfähige Märkte leicht abgebildet und manipuliert werden, indem man von einer lokalen Industrie bis hin zum Nationalstaat spielt. Das Problem ist nicht, ob wir die Kultur einer lokalen Organisation abbilden und manipulieren können, um eine günstige Veränderung herbeizuführen, da wir dies einfach tun können, indem wir jemandem die Liste der Doktrin geben und ihn bitten, das Unternehmen zu untersuchen. Das Problem ist, ob wir die ethischen Werte eines größeren Systems wie eines Nationalstaates manipulieren können, wenn wir es einmal kartiert haben
+
+Seit über einem Jahrzehnt habe ich gezögert, mehr zu diesem Thema zu erklären. Die Zeiten haben sich jedoch geändert. Mapping hat sich so weit verbreitet, dass ich die Tür ein bisschen mehr öffnen sollte.
+

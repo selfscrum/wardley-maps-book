@@ -1,0 +1,241 @@
+[#chapter-13-something-wicked-this-way-comes]
+= Kapitel 13 - Etwas Böses auf diesem Weg kommt
+
+Es mag für einige unglücklich sein, aber ich werde dieses Kapitel 13 mit der Ankündigung beginnen, dass ich Ihnen keine Antwort auf das Szenario geben werde - noch nicht. Stattdessen werde ich Ihnen eine Analyse geben, nur für den Fall, dass Sie ein wenig Hilfe brauchen. Wenn Sie ein Zauberer sind, der das Szenario bereits durchgearbeitet hat, die _richtige_ Strategie bestimmt hat und eine Lösung hat, dann ist das in Ordnung, dann können Sie _Unlucky 13_ überspringen und direkt zum nächsten Kapitel übergehen. Dies ist eher für den Rest von uns Normalsterblichen gedacht, die sich, wie ich, bei Problemen wie dem Szenario völlig verloren vorkommen. Ich werde keine zusätzlichen Informationen verwenden, außer denen, die bereits zur Verfügung gestellt wurden - mit anderen Worten, es gibt keine im letzten Absatz eingefügte mysteriöse Figur, die das Verbrechen begangen hat, siehe all die widerlichen Kriminalromane, bei denen man sich fragt _"woher kam das?"_ +
+
+Ich werde diese Analyse auch ziemlich detailliert erklären. Ich entschuldige mich im Voraus, wenn das langweilig ist, aber ich habe ein ganzes Leben damit verbracht, Mathematik-Texte zu lesen, die sagen - "_es ist also offensichtlich, dass_" - nur um immer wieder festzustellen, dass es für mich nicht offensichtlich ist. Ich werde damit beginnen, eine Karte der Umgebung zu erstellen und sie mit einigen dieser grundlegenden klimatischen Muster zu verwenden. Ich werde auch ein wenig über die Marktposition einfügen, das wird im Laufe der Arbeit klar werden. Denken Sie daran, dass Karten nur ein Kommunikationsmittel sind, und Sie können sie nach Belieben mit Anmerkungen versehen und anpassen +
+
+Von dieser Grundkarte aus werden wir den Zustand des Unternehmens und seine vorgeschlagene Strategie untersuchen. Zum Schluss werden wir mit Hilfe von Zeitdreher-Magie (für alle Harry-Potter-Fans da draußen) die Uhr zurückspulen und Ihnen die Möglichkeit geben, noch einmal Ihren Auftrag zu wählen und zu entscheiden, was Sie dem Vorstand sagen wollen.
+
+== Eine Karte des Szenarios
+
+Zu Beginn müssen wir eine grundlegende Karte erstellen. Das Unternehmen spricht leider nicht viel über die Bedürfnisse der Benutzer, aber wir können daraus schließen, dass es bei dem Benutzerbedürfnis entweder darum geht, Geld zu sparen oder grün zu sein (möglicherweise sogar eine gesetzliche Anforderung). Dieses Bedürfnis erfordert eine Form der Effizienzanalyse, die von der Firma als Produkt angeboten wird - Phoenix. Wir wissen auch, dass der Markt, obwohl er recht groß ist (301 Millionen Pfund), viel kleiner ist als der anwendbare Markt (3 Milliarden Pfund) und dass der Markt der Kunden noch nicht ganz ausgereift ist. Daher füge ich für den Anfang einfach *Client*, der eine *Effizienzanalyse* benötigt, zu unserer Karte hinzu und positioniere die Teile ungefähr dort, wo sie meiner Meinung nach sein sollten (siehe Abbildung 167) +
+
+.Starten der Karte
+[#img-fig167-starting-the-map] 
+[caption="Abbildung 167: ",link=https://cdn-images-1.medium.com/max/1600/1*9jvpcRPr2XpoiClGnFRhNA.jpeg]
+image::1_9jvpcRPr2XpoiClGnFRhNA.jpeg[Abbildung 167 - Starten der Karte,900,600,align=center]
+
+Ich weiß auch, dass Phoenix eine Art von Sensor benötigt und dieser Sensor scheint ein sehr teures Produkt zu sein. Der Hinweis, dass es sich dabei nicht um eine Form von Ressourcenbeschränkung handelt, ist, dass eine preiswertere Version in China angeboten wird. Ich weiß auch, dass der Sensor (oder zumindest das System, das den Sensor verwendet) eine Art von benutzerdefiniertem Datensatz benötigt, der von unserem internen IT-Team erstellt wird. Ich bin mir nicht ganz sicher, wie das funktioniert, aber für den Moment werde ich das als Bedarf für den Sensor anhängen +
+
+Schließlich ist mir bewusst, dass Phoenix über eine Art Systemlogik verfügt, die auf der bewährten Verwendung der Sensoren basiert. Ich weiß, dass das Ändern des Sensors auf mehrere Warensensoren _"ein komplettes Neuschreiben von Phoenix erfordern würde"_ (der CDO sagte uns das). Also kann ich jetzt meine Map mit diesen Komponenten erweitern (Abbildung 168). Sie ist nicht perfekt, das ist keine Map jemals. Ich habe die Sensorlogik als Praxis markiert (d. h. sie scheint damit verbunden zu sein, wie wir Sensoren verwenden) und die Umweltdaten als Daten +
+
+.Erweitern der Karte mit Praxis und Daten
+[#img-fig168-extending-the-map-with-practice-and-data] 
+[caption="Abbildung 168: ",link=https://cdn-images-1.medium.com/max/1600/1*t9D0IjPVzjdRn2yVvP7NIg.jpeg]
+image::1_t9D0IjPVzjdRn2yVvP7NIg.jpeg[Abbildung 168 - Erweitern der Karte mit Praxis und Daten,900,600,align=center]
+
+Der Marketingleiter sagte uns auch, dass die USA ein reiferer Markt seien und Brasilien im Bereich einer solchen Effizienzanalyse-Software weniger entwickelt sei. Ich gehe davon aus, dass die Märkte wettbewerbsfähig sind (d. h., dass es einen Wettbewerb zwischen Angebot und Nachfrage gibt), insbesondere da wir über die Gründung eines Unternehmens in Brasilien sprechen. Es ist ein bisschen ein Glücksspiel, aber ich gehe davon aus, dass der Marketingleiter zumindest ein kleines bisschen seine Hausaufgaben gemacht hat. Wir können nun diese Märkte markieren, mit Linien (rot gestrichelt), um zu beschreiben, wie sie sich verändern - siehe Abbildung 169 +
+
+.Hinzufügen von Märkten
+[#img-fig169-adding-markets] 
+[caption="Abbildung 169: ",link=https://cdn-images-1.medium.com/max/1600/1*hFBWH6PfILLSw1tzTY7wWA.jpeg]
+image::1_hFBWH6PfILLSw1tzTY7wWA.jpeg[Abbildung 169 - Hinzufügen von Märkten,900,600,align=center]
+
+Wir wissen auch, dass eine Reihe von _"eher handelsüblichen Sensoren"_ in China auf den Markt gebracht wurden und dass es jetzt einen _"Datensatz auf dem Markt gibt"_, von dem ich annehme, dass es sich dabei um eine Art Produkt oder eine Mietvereinbarung handelt. Natürlich gibt es hier eine Reihe von Annahmen, aber diese könnten mit ein paar Fragen geklärt werden. Ich habe diese Änderungen in der Karte in Abbildung 170 markiert +
+
+.Hinzufügen von China und des Datensatzes
+[#img-fig170-adding-china-and-the-data-set] 
+[caption="Abbildung 170: ",link=https://cdn-images-1.medium.com/max/1600/1*ZxtSnTOxupmXtInSr9WvJg.jpeg]
+image::1_ZxtSnTOxupmXtInSr9WvJg.jpeg[Abbildung 170 - Hinzufügen von China und dem Datensatz,900,600,align=center]
+
+Es ist zwar keine perfekte Karte, aber sie gibt uns eine Art Überblick über die Umgebung und ist sicherlich etwas, das wir verwenden können, um die Annahmen, die ich gemacht habe, zu hinterfragen. Es gibt jedoch noch ein bisschen mehr hinzuzufügen +
+
+Aus den Kommentaren zum US-Wettbewerber, den Plänen des Unternehmens, dass die eigene Cloud-Lösung von Phoenix bis 2023 nur 10 % des Umsatzes ausmachen soll, dem Stolz auf das _"technologische Wunderwerk, das sie geschaffen haben"_ und der Aussage, dass _"Sicherheitsbedenken von einigen Kunden aufgrund ihres Cloud-Ansatzes angeführt werden"_, können wir schließen, dass diese Gruppe eine gewisse Trägheit gegenüber dem Cloud-Wechsel haben wird. Wir wissen auch genauer, dass wir auch hier auf Widerstand stoßen werden, da die Commodity-Sensoren als _"nicht gut genug für die Aufgabe"_ beschrieben werden und ein alternativer Weg, _"viele der billigeren Sensoren"_ zu verwenden, trotz der Kosten der Sensoren, des Preisunterschieds und der Bedenken der Kunden bezüglich der Kosten, weithin abgelehnt wird. Wir sollten diese Trägheit in unsere Karte aufnehmen (Abbildung 171) +
+
+.Hinzufügen von Trägheit
+[#img-fig171-adding-inertia] 
+[caption="Abbildung 171: ",link=https://cdn-images-1.medium.com/max/1600/1*bDFz0YqTcM9JF1MT6u1EKA.jpeg]
+image::1_bDFz0YqTcM9JF1MT6u1EKA.jpeg[Abbildung 171 - Hinzufügen von Trägheit,900,600,align=center]
+
+In unserem Markt haben wir einen US-Player, der auch auf dem reiferen US-Markt tätig ist. Sie bieten bereits Funktionen an, die wir nicht haben (wir gehen davon aus, dass dies einige Benutzerbedürfnisse befriedigt, die wir möglicherweise nicht kennen), sie haben Unternehmen, die neuartige Komponenten und möglicherweise Produkte auf ihrer API aufbauen, und das System, das sie anbieten, ist eher ein Dienstprogramm +
+
+Es basiert aber immer noch auf den teuren Sensoren und wir können davon ausgehen, dass sie ihre eigene Systemlogik entwickelt haben, die der unseren entspricht. Ich habe dies in Abbildung 172 eingefügt +
+
+.Der US-Spieler
+[#img-fig172-the-us-player] 
+[caption="Abbildung 172: ",link=https://cdn-images-1.medium.com/max/1600/1*5u3XGD0p8hXK0zf5GsHpdQ.jpeg]
+image::1_5u3XGD0p8hXK0zf5GsHpdQ.jpeg[Abbildung 172 - Der US-Spieler,900,600,align=center]
+
+Der Wechsel zu mehr Utility-Versionen erfordert vier Faktoren - Konzept, Technologie, Eignung und Einstellung (siehe xref:chapter-9-charting-the-future[chapter 9 - _charting the future_]). In diesem Fall sind Konzept, Eignung und Technologie eindeutig vorhanden, da wir einen US-Wettbewerber haben, der den Service anbietet. In Bezug auf die Einstellung ist es dann eine Frage, ob Ihre Kunden mit der aktuellen Methode der Bereitstellung unzufrieden sind. Es sind nicht die 90 % der Kunden, die Phoenix als gut bis sehr zufrieden bewerten, die mich beunruhigen, sondern die 10 %, die das nicht tun. Insbesondere die Sorge um _"hohe Kosten des Systems im Markt, wie in der Kundenbefragung festgestellt wurde"._ Ich gehe daher davon aus, dass wir uns fest auf dem Weg zum Nutzen befinden, da die Faktoren vorhanden zu sein scheinen und ein Akteur diesen Schritt bereits vollzieht +
+
+Der US-amerikanische Anbieter behauptet, sich "jedes Jahr zu verdoppeln", und das erwartete Umsatzwachstum von £15 Mio. auf £25 Mio. spricht in gewisser Weise dafür, insbesondere wenn wir das Potenzial für Größenvorteile und Preissenkungen berücksichtigen. Leider haben wir keine Informationen, um diese Überlegung zu bestätigen. Wir sollten anmerken, dass sie eine _"ziemlich aktive Entwickler-Community"_ haben, die um ihre API herum wächst, und dass ihnen vorgeworfen wurde, _"die Geschäftsmodelle einiger dieser Produktfirmen aufzufressen"_. Im Gegensatz dazu, dass dies ein verzweifelter Akt der Kannibalisierung ist, ist es eher Teil eines ILC-ähnlichen Gameplays (wie in xref:chapter-5-the-play-and-a-decision-to-act[chapter 5 - _the play and a decision to act_] beschrieben) +
+
+Das ist äußerst gefährlich, denn je größer dieses Ökosystem wird, desto innovativer, effizienter und kundenorientierter wird der Konkurrent. Sie sind uns bereits voraus, sowohl bei den Versorgungsformen, der Bereitstellung einer API als auch bei den Kernfunktionen. Lassen Sie uns diesen kleinen Wermutstropfen in unsere Karte aufnehmen +
+
+.Ökosystembewegungen des US-Spielers
+[#img-fig173-ecosystem-moves-of-the-us-player] 
+[caption="Abbildung 173: ",link=https://cdn-images-1.medium.com/max/1600/1*ODsQkAUgi-a-r0BtJMVO3g.jpeg]
+image::1_ODsQkAUgi-a-r0BtJMVO3g.jpeg[Abbildung 173 - Ökosystemzüge des US-Spielers,900,600,align=center]
+
+In den vom CFO vorgelegten "P and L" haben wir Umsatzprognosen bis zum Jahr 2021, ein sehr wünschenswertes Stückchen Denken. Wir wissen, dass die Verlagerung vom Produkt zum Nutzen dazu neigt, ein punktuelles Gleichgewicht zu demonstrieren, und so ist es nicht unvernünftig, anzunehmen, dass die Wachstumsrate des US-Players anhalten wird. Das ist in der Regel eines der Dinge, die schwer zu akzeptieren sind, weil wir uns mit der Illusion eines wahrgenommenen langsamen Wechsels von einem Produkt zu einem anderen Produkt anfreunden (siehe xref:chapter-10-i-wasnt-expecting-that[Chapter 10 -_ I wasn't-expecting that_]). Es kann 20 bis 30 Jahre, manchmal auch mehr, dauern, bis sich eine Produktindustrie entwickelt und dann 10 bis 15 Jahre, bis alles wieder abgebaut ist. Bei Phoenix läuft dieser Krieg schon länger, egal ob das Unternehmen sich dessen bewusst ist oder nicht +
+
+Wenn man zusätzlich ein ILC-Modell hinzufügt, dann wird diese Wachstumsrate wahrscheinlich noch verstärkt, weil der US-Spieler sich weiter vor Phoenix ausbreiten wird. Daher können wir unsere vorhergesagten Umsätze addieren und die US-Umsätze in dieselbe Grafik extrapolieren - siehe Abbildung 174 +
+
+.Umsatzprognosen
+[#img-fig174-revenue-forecasts] 
+[caption="Abbildung 174: ",link=https://cdn-images-1.medium.com/max/1600/1*qlZevb4nq89lD0Zge9Ghsw.jpeg]
+image::1_qlZevb4nq89lD0Zge9Ghsw.jpeg[Abbildung 174 - Umsatzprognosen,900,600,align=center]
+
+Es gibt ein paar Kommentare, die erwähnenswert sind. Die erste (*Punkt 1*) ist, dass der US-Player bis 2020 oder so in etwa die gleiche Umsatzgröße wie Phoenix haben wird. Das Problem ist, dass der US-Player ein vollständig cloudbasierter Dienst mit einem großen Ökosystem sein wird, das sie nutzen, um zukünftige Veränderungen zu spüren. Unser Phoenix-Cloud-Service wäre gerade erst auf den Markt gekommen und wir wären ein Startup, ein Minnow, nachdem wir 45 Millionen Pfund in einen Zukunftsmarkt investiert haben, der von diesem US-Riesen dominiert wird. Selbst im Jahr 2023 werden unsere Cloud-Umsätze voraussichtlich nur 10 % unseres Gesamtumsatzes ausmachen. Das ist verhängnisvoll +
+
+Hinzu kommt, dass der aktuelle Markt nur knapp über 300 Mio. £ liegt (*Punkt 2*) und bis 2020 werden die kombinierten Umsätze von Phoenix und dem US-Player diesen Wert bei weitem übersteigen. Selbst bei einem Wachstum des aktuellen Marktes können wir davon ausgehen, dass wir uns ein Kopf-an-Kopf-Rennen mit dem US-Player liefern werden. Einer von uns wird nicht das bekommen, was wir uns erhoffen. Leider werden wir die Rolle des David mit unserer treuen Schleuder gegen einen Goliath spielen, der mit einer ganzen Armee von Brüdern aufgetaucht ist, die mit Allzweck-Maschinengewehren bewaffnet sind. Das wird nicht schön für uns werden. Leider kommt es noch schlimmer +
+
+In xref:chapter-9-charting-the-future[chapter 9 - _charting the future_] - haben wir das Konzept der Ko-Evolution von Praxis und Aktivität diskutiert. Wenn wir unsere Karte betrachten, können wir das gleiche Muster auf Sensoren anwenden. Die in China erhältlichen Commodity-Sensoren werden wahrscheinlich eine ganz neue Reihe von Praktiken auslösen. Unser CIO deutete dies mit der Aussage _"eine mögliche Lösung könnte darin bestehen, viele der billigeren Sensoren zu verwenden"_ an, was unser CDO mit der üblichen Trägheit eines an eine vergangene Praxis Verhafteten abtat - "_erforderlich ist eine komplette Neuschreibung von Phoenix"._ Ob es uns gefällt oder nicht, eine neue aufkommende Praxis ist im Kommen und unsere bestehende Systemlogik muss neu geschrieben werden (siehe Abbildung 175) +
+
+.Ko-Evolution der Praxis mit der Aktivität
+[#img-fig175-co-evolution-of-practice-with-activity] 
+[caption="Abbildung 175: ",link=https://cdn-images-1.medium.com/max/1600/1*HdiuCShT49QmMpP9xNpiEg.jpeg]
+image::1_HdiuCShT49QmMpP9xNpiEg.jpeg[Abbildung 175 - Ko-Evolution von Praxis und Aktivität,900,600,align=center]
+
+Das bedeutet nicht nur, dass wir es in Zukunft mit einem Goliath zu tun haben werden, sondern auch, dass die gesamte Systemlogik von Phoenix und unser Code, der auf jahrelanger guter bis bester Praxis mit diesen sehr teuren Sensoren basiert, veraltet sein wird. Ich habe das alles in der Karte unten (Abbildung 176) zusammengefasst, wobei ich die Linie zwischen der mitentwickelten Praxis und unserem Produkt weggelassen habe, da sie ziemlich redundant ist. Natürlich wird jemand vorschlagen, das irgendwann in der Zukunft zu tun, aber ich möchte mich lieber darauf konzentrieren, wohin die Zukunft geht, d. h. auf den Nutzen und nicht auf die Sinnlosigkeit. Wir werden diese Karte nutzen, um die Unternehmensstrategie zu untersuchen +
+
+Nun mag man über die Position von Teilen auf der Karte streiten oder über Komponenten, die übersehen wurden, oder über Annahmen, die gemacht wurden, aber das ist der ganze Sinn einer Karte. All dies in einer visuellen Form darzustellen, die wir dann hinterfragen können +
+
+.Die Karte
+[#img-fig176-the-map] 
+[caption="Abbildung 176: ",link=https://cdn-images-1.medium.com/max/1600/1*K8Np9WqRcYX_2VpAf0zHLg.jpeg]
+image::1_K8Np9WqRcYX_2VpAf0zHLg.jpeg[Abbildung 176 - Die Karte,900,600,align=center]
+
+== Überprüfung der Strategie
+
+Mit unserer Karte in der Hand, lassen Sie uns nun die Strategie des Unternehmens betrachten. Ich habe jeden Punkt, der sich auf die Strategie in Abbildung 177 bezieht, markiert und wir werden jeden Punkt der Reihe nach durchgehen +
+
+.Die Strategie
+[#img-fig177-the-strategy] 
+[caption="Abbildung 177: ",link=https://cdn-images-1.medium.com/max/1600/1*oePj2ZNcGQIM98-fN4TOnA.jpeg]
+image::1_oePj2ZNcGQIM98-fN4TOnA.jpeg[Abbildung 177 - Die Strategie,900,600,align=center]
+
+* Punkt 1: Schaffung eines digitalen "cloudbasierten" Dienstes für die Bereitstellung der Software.* Wenn unser Cloud-Dienst 2020 auf den Markt kommt, sind wir wahrscheinlich ein kleiner Fisch gegen einen Riesen mit einem gut entwickelten Ökosystemmodell. Wenn sie ein ILC-Modell betreiben, was möglich scheint, dann werden sie uns an Innovation übertreffen, effizienter, kundenorientierter und größer sein. Sie werden uns weit voraus sein und unsere Cloud-Bemühungen erwähnen nicht einmal den Aufbau einer API oder das Betreiben irgendeiner Form von Ökosystemspiel. Um dem Ganzen die Krone aufzusetzen, bringen wir sogar ein altes Lizenzierungsmodell mit und eine Systemlogik, die wahrscheinlich veraltet und durch eine mitentwickelte Praxis ersetzt wird. Im Hinblick darauf, es falsch zu machen, ist dies eine fabelhafte Art, 45 Millionen Pfund zu verschwenden +
+
+* Punkt 2: Untersuchung der Verwendung des verfügbaren Datenkonvertierungsprodukts, um die Effizienz zu verbessern und die Kosten zu senken.* Ein ziemlich vernünftiger Vorschlag zur Kosteneffizienz, aber keiner, der in einem solchen Kampf ganz oben auf der Prioritätenliste stehen sollte +
+
+* Punkt 3: Ausweitung des bestehenden Produkts auf Märkte in Übersee, wie z. B. Brasilien.* Das mag zwar einen kurzfristigen Gewinn bringen, aber es ist auch ein gefährlicher Weg. Unser Geschäftsmodell in einem reiferen Markt wird aufgefressen werden, aber anstatt uns dem zu stellen, nehmen wir unser Modell und versuchen, es auf einem weniger reifen oder aufstrebenden Markt erneut anzuwenden. Das Einzige, was passieren wird, ist, dass unser Konkurrent beide Märkte auffrisst und wir einfach nur Geld ausgeben, um den Grundstein dafür zu legen, dass er den Schwellenmarkt angreifen kann. Für unsere Aktionäre wäre es wahrscheinlich günstiger, die Hälfte des Geldes an den Konkurrenten für die Vermarktung in Brasilien zu geben und die andere Hälfte an die Aktionäre zurückzugeben, als eine zukünftige Verbindlichkeit aufzubauen. Das ist nicht so schlimm wie die Cloud-Bemühungen, aber das wird die Trägheit gegenüber Veränderungen erhöhen, weil man glaubt, dass der kurzfristige Gewinn bedeutet, dass unser bisheriges Modell immer noch erfolgreich ist +
+
+* Punkt 4: Erhöhung des Entwicklungsaufwands für unsere bestehende Produktlinie, einschließlich eines erweiterten Berichtswesens und anderer innovativer Funktionen.* Es ist immer wertvoll, sich auf die Bedürfnisse der Benutzer zu konzentrieren, aber in diesem Fall gehen wir das Problem unseres Mitbewerbers nicht an, sondern überspielen es sehr kurzfristig. Wenn der Mitbewerber ein ILC-Modell verwendet, stehen wir leider im Wettbewerb mit dem gesamten Ökosystem, das auf der API des Mitbewerbers aufgebaut hat. Wenn dazu zum Beispiel 200 Softwarefirmen gehören, dann muss unser armes Produktentwicklungsteam gegen die Macht von 200 Softwareteams antreten. Diese Situation wird nur noch schlimmer, wenn das Ökosystem wächst. Dies ist ein Weg, auf dem man Geld ausgibt und trotzdem mit immer größeren Margen verliert +
+
+* Punkt 5: Führen Sie eine umfangreiche Marketingkampagne durch, um unsere Lösung auf dem bestehenden Markt bekannt zu machen.* Das löst zwar keines der Probleme, aber es könnte uns zumindest einen kurzfristigen Umsatzschub verschaffen +
+
+* Punkt 6: Behalten Sie die Sensoren aus China im Auge* Obwohl nicht explizit erwähnt oder als Strategie hervorgehoben, ist es erwähnenswert, dass der Ansatz darin besteht, ein wachsames Auge auf die Sensoren zu haben. Angesichts der ziemlich vorhersehbaren Auswirkungen, die diese haben werden, ist dies weniger als ermutigend +
+
+Wenn Sie die Strategie durcheinander bringen wollen, dann hat der CEO einen glorreichen Job gemacht. Glücklicherweise gibt es auch einige Chancen, die es zu berücksichtigen gilt. Erstens ist der Markt in Brasilien eine Chance, aber unser altes Geschäftsmodell wieder zu verwenden, ist vielleicht nicht die klügste Idee +
+
+Zweitens: Es gab ein Interesse an der Übernahme dieses Unternehmens. Nur weil Sie wissen, dass es ein zukünftiges Zugwrack ist, bedeutet das nicht, dass andere das auch wissen (denken Sie daran, dass die meisten keine Karte haben). Als jemand, der ein wenig im Bereich M & A gearbeitet hat, ist es überraschend häufig und lukrativ, mit einem Unternehmen konfrontiert zu werden, das auf eine Klippe zusteuert, während es _"positiven Lärm über die Tochtergesellschaft von Analysten und auch ein gewisses Interesse von Dritten an einer möglichen Übernahme gibt"_. Sie sind ein Vorstandsmitglied des Konglomerats und sollten versuchen, die Chance zu maximieren +
+
+Drittens bewegt sich die Systemlogik in Richtung Legacy und wir werden unseren eigenen DevOps-Moment mit einer neuen Praxis haben. Zum Glück sind wir nicht die Einzigen, die damit konfrontiert sind, denn das US-Unternehmen hat das gleiche Problem. Vielleicht sind sie nicht so schlau, wie wir denken? Vielleicht arbeiten sie an einer Lösung? Wir wissen es nicht, aber dies ist eine potenzielle Schwachstelle +
+
+Und schließlich gibt es eine letzte Möglichkeit im Datensatz. Ja, ein Produkt ist jetzt verfügbar, aber das bedeutet nicht, dass wir nicht versuchen können, dieses zu übertreffen und Daten in eine Form von Nutzen zu verwandeln, indem wir mit offenen Daten arbeiten (*Punkt 1*, Abbildung 178) +
+
+.Daten in ein Dienstprogramm verwandeln
+[#img-fig178-turning-data-into-a-utility] 
+[caption="Abbildung 178: ",link=https://cdn-images-1.medium.com/max/1600/1*zdNsfnlQrFHRruhUm0obYQ.jpeg]
+image::1_zdNsfnlQrFHRruhUm0obYQ.jpeg[Abbildung 178 - Daten in ein Dienstprogramm verwandeln,900,600,align=center]
+
+Die von der Tochtergesellschaft skizzierte Strategie muss ernsthaft überarbeitet werden. Bevor wir jedoch voreilige Schlüsse ziehen, sollten wir uns das Unternehmen noch einmal ansehen. Die Strategie mag schlecht sein, aber die Frage ist, ob das Unternehmen in dem Zeitrahmen erholbar ist?
+
+== Lehrmeinung prüfen
+
+Wenn ich ein Gefühl für ein Unternehmen und seine Fähigkeit bekommen möchte, sich anzupassen, mit dem Unerwarteten umzugehen, zu lernen und selbst gegenüber dem Wettbewerb resilient zu sein, dann schaue ich mir die universellen Prinzipien an, die es anwendet. Ich suche nicht nach der Resilienz gegenüber bekannten Szenarien, sondern nach der Fähigkeit, sich an das Unbekannte anzupassen und mit dem Fluss der Evolution zurechtzukommen. In diesem Fall spricht der CEO über die Werte des Unternehmens, zu denen _"Verantwortung, Integrität, Transparenz, Mitgefühl, Empathie, Anpassungsfähigkeit und Entschlossenheit gehören."_ +
+
+Diese Werte scheinen alle durchaus vernünftig zu sein, allerdings gibt es zwei Dinge zu beachten. Erstens: Unternehmen sind oft sehr gut darin, das eine zu sagen und dann etwas anderes zu tun. Zweitens sind Führungskräfte und Berater oft sehr gut darin, mit einfachen "Wahrheiten" aufzuwarten, hinter denen keine Daten stehen. Ich kann dies nur in Bezug auf das beurteilen, wofür ich Beweise habe, daher die Wardley-Doktrin in xref:chapter-11-a-smorgasbord-of-the-slightly-useful[chapter 11 - _a smorgasbord of the slightly useful_.] +
+
+Nehmen wir zum Beispiel _Empathie_. Es scheint, als sollte es eine Rolle spielen, aber tut es das? Ist es ein universelles Prinzip? Welche Beweise habe ich, dass es in allen Fällen funktioniert und nicht kontextspezifisch ist? Vielleicht spielt Empathie in einem Pflegeheim eine größere Rolle als am Fließband in einer Fabrik? Ich weiß es nicht und kann das daher nicht beurteilen. Es gibt jedoch eine Menge Dinge, die mir in dem Szenario gesagt wurden und die ich kommentieren kann. Ich habe die Bereiche der Lehre in Abbildung 179 mit einem *grünen* (für ein warmes Gefühl), *bernsteinfarbenen* (für Besorgnis) und *roten* (Potenzial zum Auslösen von Alarmglocken) Motiv hervorgehoben +
+
+.Doktrin
+[#img-fig179-doctrine] 
+[caption="Abbildung 179: ",link=https://cdn-images-1.medium.com/max/1600/1*G7pDYxLoSeNGVw6HNyIjlA.jpeg]
+image::1_G7pDYxLoSeNGVw6HNyIjlA.jpeg[Abbildung 179 - Doctrine,900,600,align=center]
+
+=== Gelbe Warnung
+
+Meine Problembereiche sind :- +
+
+_Design für ständige Weiterentwicklung_ +
+
+Wenn jemand davon spricht, dass die _"Organisation kürzlich umstrukturiert wurde"_, dann ist das für mich ein Signal, dass die Organisation mit der ständigen Weiterentwicklung nicht zurechtkam. Vielleicht haben sie sich zu einer Struktur reformiert, die das jetzt tut, aber ich sehe keine Beweise für das eine oder das andere +
+
+_Klein denken (wie in Teams)_ +
+
+Angesichts der obigen Ausführungen lässt die Diskussion darüber, wie die _"digitale Gruppe in den nächsten zwei Jahren signifikant wachsen wird"_, eine Augenbraue hochziehen. Ich würde gerne mehr wissen, reden wir über eine große Abteilung oder eine zellbasierte Arbeitsweise (z. B. zwei Pizzen) +
+
+_Eine Vorliebe für Neues (neugierig sein, angemessene Risiken eingehen)_ +
+
+Die Diskussion über die Sensoren und wie _"es sich lohnt, den Markt im Auge zu behalten"_ hebt eine weitere Augenbraue. Ich würde erwarten, dass mehr gezielte Maßnahmen für diese Änderung ergriffen werden. Die Verwendung des Datensatzes tröstet mich etwas +
+
+_Hören Sie auf Ihre Ökosysteme (fungiert als zukünftige Sensing-Engines)_ +
+
+Wenn Ihre Kunden über die _"hohen Kosten des Systems auf dem Markt besorgt sind, wie in der Kundenumfrage festgestellt wurde"_, dann ist eine Antwort wie _"Der Erneuerungspreis wird für die nächsten zwei Jahre eingefroren"_ nicht ermutigend +
+
+_Strategie ist iterativ und nicht linear (schnelle reaktive Zyklen)_ +
+
+Es gibt nichts Iteratives an der vorgeschlagenen Strategie. Das mag nur an der Art und Weise liegen, wie sie präsentiert wird, aber es ist eine Frage wert +
+
+_Die Strategie ist komplex (es wird Unsicherheiten geben)_ +
+
+Es wird kein Konzept der Unsicherheit vorgestellt. Es handelt sich vielmehr um eine Reihe von Handlungsanweisungen und einen Plan, der weit in die Zukunft reicht +
+
+_Seien Sie demütig (hören Sie zu, seien Sie selbstlos, haben Sie Standhaftigkeit)_ +
+
+Angefangen von _"maßgeblich am Erfolg des Unternehmens beteiligt zu sein"_ über das Zitat _"einigen Leuten ist die Anpassung an diese neue Welt nicht so leicht gefallen"_ bis hin zu der Feststellung, dass das Unternehmen _"eindeutig stolz auf seine Leistungen ist, auf das technologische Wunderwerk, das es geschaffen hat, und auf seine Fähigkeit, seine Vision zu verwirklichen"_, ist da ein Hauch von Anspruch und vielleicht auch ein bisschen Arroganz zu spüren.
+
+=== Alarmstufe Rot!
+
+Meine Bereiche, die mir Sorgen bereiten, verblassen im Vergleich zu den Bereichen, die mich schreiend aus der Tür rennen und den Klaxon auslösen lassen könnten. Dazu gehören :- +
+
+_Fokus auf hohes Situationsbewusstsein (verstehen, was in Betracht gezogen wird)_ +
+
+Ich sehe keine Beweise dafür und eine einfache Kartierung der Umgebung hat Bedenken aufgeworfen, die nicht einmal diskutiert werden. Ich würde klare Beweise dafür sehen wollen, dass das Unternehmen seine Umgebung tatsächlich versteht +
+
+_Verwenden Sie eine gemeinsame Sprache (notwendig für die Zusammenarbeit)_ +
+
+Ich sehe eine Fülle von verschiedenen Grafiken, aber keinen konsistenten Mechanismus der Diskussion, außer verbalen Geschichten, die oft mit Fachausdrücken gespickt sind. Ich würde gerne verstehen, wie wir tatsächlich kommunizieren +
+
+_Annahmen in Frage stellen (ansprechen und hinterfragen)_ +
+
+Eine äußerst berechtigte Herausforderung über Sensoren wurde vom CIO gegeben, aber abgetan und sogar als _"schon mehrmals diskutiert"_ beschrieben. Das greifbare Gefühl der _"Frustration mit der Gruppe und dem CIO zu diesem Thema"_ deutet auf ein Team hin, das nicht zuhört. Die Antworten, die auf die Herausforderung gegeben werden, sind allesamt Symbole für Trägheit - bereits bestehende Praxis, Vermögenswerte usw. Ich würde hier nachhaken +
+
+_Fokus auf Anwenderbedürfnisse_ +
+
+Das Fehlen einer Beschreibung der Benutzerbedürfnisse ist bezeichnend. Aussagen wie _"Die Fluktuationsrate war in den letzten Jahren mit 9 % hoch. Das Vertriebsteam glaubt, dass dies auf einen Mangel an neuen Funktionen und hohe Kosten für die Erneuerung der Softwarelizenzen zurückzuführen ist"_ sind schön und gut, aber mich interessiert nicht, was das Vertriebsteam denkt, sondern was der Anwender braucht und will +
+
+_Denken Sie schnell, preiswert, zurückhaltend und elegant (FIRE, früher FIST)_ +
+
+Eine Investition von 45 Millionen Pfund in eine Cloud über zwei Jahre ist nicht das, was ich von einem Unternehmen erwarten würde, das den FIRE-Prinzipien folgt. Das mag eine einfache Folge der Zusammenfassung auf Vorstandsebene sein, aber ich würde Beweise dafür sehen wollen, dass wir uns nicht an den Bau eines Todessterns machen +
+
+_Bewältigung von Trägheit (z. B. bestehende Praxis, politisches Kapital, frühere Investitionen)_ +
+
+Während die Trägheit klar zu sein scheint, wird die einzige Herausforderung an sie (z. B. Sensoren) zurückgeschlagen. Der CEO mischt sich sogar ein und spricht von geistigem Eigentum. Ich würde hier noch ein paar Fragen stellen wollen +
+
+_Verwenden Sie einen systematischen Mechanismus des Lernens (eine Vorliebe für Daten)_ +
+
+Ich sehe keinen Beweis dafür, dass dies der Fall ist und dass die Lehren aus der Vergangenheit angewendet werden. Es gibt kein Konzept für klimatische Muster oder Lernen. Ich würde das mehr erforschen wollen +
+
+_Die Landschaft ausnutzen_ +
+
+Ich sehe keine Anzeichen für ein Verständnis, geschweige denn für die Nutzung der Landschaft. Es könnte in mentalen Modellen und einer Form von intrinsischem gemeinsamen Verständnis existieren, aber ich bin davon nicht überwältigt.
+
+~ By the pricking of my thumbs ~
+
+Meiner Analyse nach führt die Strategie in die falsche Richtung, und ich habe erhebliche Bedenken bezüglich des Unternehmens selbst. Ich würde nicht darauf vertrauen, dass dieses Unternehmen entweder in die richtige Richtung geht oder in der Lage ist, sich an die ungewisse Zukunft anzupassen. Die einzige Person, der ich etwas Vertrauen entgegenbringe, ist der CIO, den das Unternehmen so verzweifelt versucht, loszuwerden. Aber das bin ich. Ihre Analyse ist vielleicht anders. Vielleicht haben Sie etwas gesehen, was ich nicht gesehen habe. Nehmen wir also dieses unglückliche Kapitel 13, beschwören wir ein wenig dunkle Magie herauf und machen wir noch einmal einen Zeitsprung.
+
+=== Die Aufgabe
+
+Sie haben in 45 Minuten ein Gespräch mit dem Vorstand. So lange haben Sie Zeit, Ihre Entscheidungen zu treffen. Die Uhr tickt. Suchen Sie also eine Stoppuhr und starten Sie sie +
+
+Ihre erste Aufgabe ist es, festzustellen, ob sich das Unternehmen in die richtige Richtung bewegt. Sie sollten feststellen, ob Sie mit der in Abbildung 180 angegebenen Prioritätenreihenfolge einverstanden sind. Wenn nicht, schreiben Sie auf, wie Ihre Prioritätsreihenfolge aussehen würde. Wenn Sie sich für "andere" entscheiden, dann schreiben Sie auf, was diese anderen sind +
+
+.Vorrangige Reihenfolge
+[#img-fig180-priority-order] 
+[caption="Abbildung 180: ",link=https://cdn-images-1.medium.com/max/1600/1*EgVhf-sVxcyx2t_HO7lHPQ.jpeg]
+image::1_EgVhf-sVxcyx2t_HO7lHPQ.jpeg[Abbildung 180 - Prioritätsreihenfolge,900,600,align=center]
+
+Sobald Sie Ihre Prioritätenreihenfolge festgelegt haben, besteht Ihre nächste Aufgabe darin, zu bestimmen, was Sie dem Vorstand sagen werden.
+
+== Ein Hinweis an den Leser
+
+Versuchen Sie die Übung und nehmen Sie sich die fünfundvierzig Minuten Zeit dafür. Wenn Sie nicht weiterkommen, geben Sie sich etwas mehr Zeit, aber setzen Sie sich ein Zeitlimit, nicht mehr als eineinhalb Stunden. Zwingen Sie sich, eine Entscheidung zu treffen +
+
+Obwohl ich einige Analysen geliefert habe, gibt es immer noch eine Menge zu bedenken. Was ist richtig für das Unternehmen? Was ist richtig für das Konglomerat, in dem Sie ein Vorstandsmitglied sind? Welche Optionen stehen Ihnen offen? Wie teilen Sie dies dem Unternehmen und dem Vorstand mit? Wenn Sie sich schwer tun, dann erkennen Sie, dass das gut ist. Dies ist eine Lernübung, und man lernt nicht, wenn man sich nicht selbst herausfordert und sich schwierigen Problemen stellt +
+
+Im nächsten Kapitel werde ich Ihnen meine Lösung vorstellen. Das heißt aber nicht, dass meine Lösung die richtige ist. Es könnte unzählige bessere Möglichkeiten geben, mit diesem Fall umzugehen. Vielleicht haben Sie eine gefunden? Vielleicht haben Sie eine andere Analyse? Alles, was ich Ihnen sagen kann, ist, wie ich den Fall lösen würde, und durch das Medium der Map meine Argumentation und meine Entscheidungen zu erklären. Da es sich um eine Karte handelt, steht es Ihnen frei, alle Annahmen, die ich gemacht habe, in Frage zu stellen. Das ist ja gerade der Sinn einer Map, und ich begrüße die Herausforderung, weil sie mir die Möglichkeit gibt, zu lernen.
+

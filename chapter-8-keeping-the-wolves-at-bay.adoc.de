@@ -1,0 +1,231 @@
+[#chapter-8-keeping-the-wolves-at-bay]
+
+= Kapitel 8 - Die Wölfe in Schach halten
+
+Um meine Forschung weiter zu finanzieren, nahm ich ein paar weitere bezahlte Jobs an, was im Grunde bedeutete, dass ich ein Auftragskiller wurde. Cloud Computing kollidierte mit der Technologieszene und es herrschte eine Menge Verwirrung. Daher hatte ich einen ständigen Strom von Konferenzen - darunter auch einige, die tatsächlich bezahlt wurden - zusammen mit vielen Gelegenheiten für Gelegenheitsarbeiten. Es war ein wilder Westen in der Computerbranche mit leider einigen ziemlich zwielichtigen Praktiken und Ausbeutung in der Branche. Ich versuchte, keinen Schaden anzurichten, aber ich hatte eine Achillesferse in der Einfachheit.
+
+== Die Gefahr, es sich einfach zu machen
+
+Eines der Hindernisse beim Mapping war, dass einige Leute es als komplex empfanden. Das ist nicht wirklich überraschend, denn Sie setzen die Leute einer Welt aus, die den meisten nicht vertraut ist. Nur wenige in der Geschäftswelt haben praktische Erfahrung mit Situationsbewusstsein oder der Verwendung von Karten. Viele verstehen nicht, warum es wichtig sein könnte. Es kostet auch Zeit und Mühe, sich mit der Erstellung einer Karte vertraut zu machen. Eine häufige Antwort ist _"können Sie die Karte für uns erstellen"_, basierend auf der Idee, dass sie dann ihre allgemeine Strategie darauf anwenden. Das artet immer in _"können Sie uns zeigen, welche Züge wir machen können"_ aus, auf die sie dann ihren generalistischen Intellekt anwenden werden. Am Ende wird daraus _"welchen Zug sollten wir machen"_ und dann ein allgemeines zustimmendes Nicken +
+
+Die Verwirrung über Cloud Computing hatte jedoch eine Gelegenheit für eine neue Denkweise und hoffentlich ein neues Lernen geschaffen. Leider kann das Aufstapeln der Komplexität des Mappings auf eine verwirrte Person, die keine Verbindung zum Situationsbewusstsein hat, zu mehr Verwirrung führen. Die meisten Leute wollten einfach nur Antworten, denen sie zustimmen konnten, z. B. wie sie ihr Bedürfnis, in der Cloud zu sein, lösen können, ohne das Boot zu sehr zu schaukeln. Ich vermute, das ist der Grund, warum es eine Menge fragwürdiger Bemühungen im Bereich der privaten Cloud gab +
+
+Daher suchte ich nach Möglichkeiten, das Mapping zu vereinfachen, um es schmackhafter und vertrauter zu machen. Ich begann mit Spot Painting. Ich nahm ein Geschäftsprozessdiagramm oder eine Box und ein Kabel für ein bestehendes System, wie z. B. unser elbisches selbstfahrendes Auto in xref:img-fig36-elvish-self-driving-car-box-and-wire[figure 36] (xref:chapter-4-doctrine[chapter 4]) und färbte dann verschiedene Teile ein, je nachdem, ob sie eher Genesis oder Commodity waren. Ich würde so etwas wie Abbildung 83 produzieren +
+
+."Spot"-Bild eines elbischen selbstfahrenden Autos
+[#img-fig83-spot-painting-of-an-elvish-self-driving-car] 
+[caption="Abbildung 83: ",link=https://cdn-images-1.medium.com/max/1600/1*htf8w2KSVjY6_fgD1_QAvw.jpeg]
+image::1_htf8w2KSVjY6_fgD1_QAvw.jpeg[Abbildung 83 - "Spot"-Bild eines elbischen selbstfahrenden Autos,900,600,align=center]
+
+Solche kommentierten Diagramme waren nicht nur bunt, sondern auch vertrauter und weniger bedrohlich für die Leute, die die Originale geschrieben hatten. Sie ermöglichten es mir, die Konzepte der Evolution relativ einfach in eine Organisation einzuführen, und so konnten wir eine Diskussion darüber führen, welche Methoden zu verwenden sind. Aber ohne Position und Bewegung waren diese Diagramme nicht hilfreich für eine effektive Herausforderung und ein kontinuierliches Lernen von ökonomischen Mustern oder Spielformen. Es gab einen Kompromiss zwischen Einfachheit und Nützlichkeit.
+
+== Die einfache Falle
+
+Das Ashby'sche Gesetz der erforderlichen Vielfalt beschreibt, dass der Steuerungsmechanismus eines Systems in der Lage sein muss, das zu steuernde System abzubilden. Organisationen sind sowohl komplizierte als auch komplexe Dinge. Sie sind im Allgemeinen _kompliziert_, weil sie einen großen Umfang haben, viele Komponenten enthalten, die eine Spezialisierung erfordern und schwer zu erfassen und zu steuern sind. Sie sind auch _komplex_, weil es viele emergente Verhaltensweisen gibt. Sie haben z. B. viele Komponenten im unerforschten Raum, für die es Unsicherheiten gibt und die Sie nicht vorhersagen können. Das Beste, was Sie hier tun können, ist, sich vorzutasten. Das Mapping bietet Ihnen zwar ein Fenster dazu, aber Sie müssen eine Managementfähigkeit haben, die damit umgehen kann +
+
+Es gibt leider eine andere Lösung für Ashbys Gesetz. Anstatt mit einer komplizierten Umgebung zurechtzukommen, die Komplexität enthält, treffen Sie die Wahl, so zu tun, als sei das, was verwaltet wird, einfach. Im Geschäftsleben mögen wir Dinge wie 2x2-Diagramme nicht, weil sie die Realität abbilden, sondern weil sie diese verschleiern und daher leicht zu verstehen sind. Wir tauschen unsere Fähigkeit, kontinuierlich etwas über die Umgebung zu lernen, gegen die Illusion von Einfachheit und leichter Verwaltung +
+
+Es ist wichtig, hier eine Unterscheidung zu treffen. Etwas Kompliziertes (wie eine Maschine) in kleine, aber handhabbare Komponenten zu zerlegen oder einen Mechanismus zu verwenden, um unsichere Veränderungen in einer komplexen Umgebung zu erfassen, ist nicht dasselbe wie der Versuch, ein solches System zu verwalten, indem man so tut, als sei es eine 2x2-Matrix. Wie Einstein sagen würde _"Alles sollte so einfach wie möglich gemacht werden, aber nicht einfacher"_ +
+
+Schließlich wurde ich vor die Wahl gestellt. Verwende ich weiterhin diese "Spot"-Diagramme und mache damit die Konzepte der Evolution zugänglicher und akzeptiere einfach die Fehler (und das Geld) oder gehe ich einen langsameren Weg und versuche, die Organisationen zu einem höheren Verständnis von Position und Bewegung zu bewegen? Wenn sie sich wehrten, könnte ich einen Kompromiss eingehen und ihnen die schwere Arbeit abnehmen, indem ich einfach eine Karte und die Ergebnisse bereitstelle. Ich wusste jedoch bereits, dass sie dadurch von mir abhängig werden würden, was der Beraterweg war, den ich zu bekämpfen versuchte. Mein Ziel war es, Menschen von den Fesseln der Berater zu befreien und sie nicht noch mehr anzuketten. Dieser Kompromiss kam nicht in Frage. Ich musste den langsameren Weg gehen. Ich denke gerne, dass ich mich hier behauptet habe, aber angesichts der Tatsache, dass nur sehr wenige Unternehmen abbilden, die Rechnungen steigen und die Kunden sich für die vereinfachten Konzepte interessieren, kann man mit Fug und Recht behaupten, dass ich ins Wanken geriet.
+
+== Ich habe mein Mojo gefunden
+
+Meine Rettung war eine bezahlte Arbeit, die mir besonders am Herzen liegt. Es ging um die Frage von Effizienz versus Effektivität, und um überhaupt eine Hoffnung auf eine Erklärung zu haben, müssen wir zuerst drei Konzepte einführen - wertbasierte Entwicklung, Preisgranularität und Fluss. Danach können wir sie alle miteinander verbinden, um diese Frage zu untersuchen. Ich werde in der Geschichte herumspringen müssen, um das zu tun, aber hoffentlich kann ich alles zusammenhalten.
+
+=== Wertbasierte Entwicklung
+
+Im Jahr 2003 baute und betrieb das Unternehmen, das ich leitete, kleine Systeme für andere. Es gab keine großen Systeme, diese waren eher in der Größenordnung von £100k - £2M und deckten ein paar Millionen Benutzer ab. Unsere Kunden wollten in der Regel eine detaillierte Spezifikation darüber erstellen, was sie genau brauchten, um sicherzustellen, dass wir liefern. Das hört sich nicht schlecht an, aber selbst in diesem kleinen Maßstab befanden sich einige der Komponenten in diesen Projekten im unerforschten Raum und daher wusste niemand genau, was gewünscht wurde. Leider hatte ich damals nicht die Sprache, um das zu erklären. Daher bauten und betrieben wir die Systeme und hatten zwangsläufig einige Spannungen wegen der Änderungskontrolle und Streitigkeiten darüber, welche Funktion in einem bestimmten Vertrag enthalten war oder nicht +
+
+Während einer dieser Diskussionen wies ich den Kunden darauf hin, dass wir um einen Tisch saßen und uns über ein Stück Papier stritten, aber keiner von uns darüber sprach, was die Anwender brauchten. Der Vertrag war hier nicht wirklich der Kunde, sondern die Endanwender des Kunden. Wir mussten diese Diskussion ändern und uns auf den Endbenutzer konzentrieren. Ich schlug vor, dass wir eine Wertmetrik erstellen sollten, die auf dem Endbenutzer basiert, etwas, auf das wir beide hinarbeiten könnten. Die Idee stieß auf taube Ohren, da der Kunde mit dem Vertrag beschäftigt war, aber zumindest war der Samen gepflanzt. Es dauerte nicht lange, bis ein anderes Projekt die Gelegenheit bot, diese Idee zu testen. Der Kunde gab mir eine Spezifikation und fragte, wie viel es kosten würde, sie zu bauen Ich antwortete - _"Wie klingt kostenlos?"_ +
+
+Sie waren etwas schockiert, aber dann fügte ich hinzu _"Allerdings müssen wir für den Betrieb des Systems bezahlt werden. Wir müssen ein Maß für den Wert oder den Wert bestimmen, und ich werde dafür bezahlt"_. Es gab ein bisschen "um" und "ah", aber schließlich einigten wir uns darauf, eine Methode der wertorientierten Entwicklung auszuprobieren +
+
+In diesem Fall war es das Ziel des Systems, Leads für eine teure Reihe von Großformatdruckern (LFPs) zu liefern. Der Kunde wollte mehr Leads. Seine potenziellen Endbenutzer wollten eine Möglichkeit, mehr über diese Drucker zu erfahren und sie zu testen. Ich würde etwas bauen, das diese beiden unterschiedlichen Anforderungen miteinander verbindet. Aber anstatt dass der Kunde im Voraus bezahlt und das gesamte Risiko trägt, würde ich es kostenlos entwickeln und eine Gebühr für jeden neu erzeugten Lead nehmen +
+
+Wir (d. h. der Kunde und mein Unternehmen) konzentrierten uns nicht mehr darauf, was in einem Vertrag drin oder draußen war, sondern auf eine einzige Aufgabe, nämlich mehr Leads zu generieren. Wir hatten beide einen Anreiz dafür. Ich hatte auch einen neuen Anreiz für Kosteneffizienz, denn je effizienter ich das System machte, desto mehr Gewinn blieb mir. Wir wurden uns einig und so baute und betrieb ich ein System, das es den Kunden ermöglichte, ein Bild hochzuladen, es auf einem Großformatdrucker zu testen und die Lieferung ihres Drucks plus Informationen über die Leistung des Kits plus einen Verkaufsanruf zu erhalten. Das System florierte +
+
+In drei Monaten hatten wir mehr Leads generiert, als der Kunde normalerweise in einem Jahr hatte, und das wurde immer schneller. Es war atemberaubend. Der Umsatz des Kunden schoss in die Höhe, aber auch mein Umsatz, da das System auf einer Metrik von Leads basierte. Je mehr Erfolg sie hatten, desto mehr Erfolg hatte ich. Es war eine Win-Win-Situation, so dachte ich zumindest. Leider führte dies zu zwei Problemen und einem Kopfschmerz +
+
+Die Probleme wurden dadurch verursacht, dass der Kunde auf dieses Interesse nicht vorbereitet war und die internen Budgetierungssysteme nicht für einen so variablen Erfolg ausgelegt waren. Was hat die Budgetierung damit zu tun? Nun, für den Kunden bedeutete der Erfolg mehr Leads, was sich in mehr Umsatz niederschlug. Das war aus Sicht der Budgetierung gut. Aber je mehr Erfolg der Kunde hatte, desto mehr stieg mein Honorar, da es auch auf Leads basierte. Das war aus Sicht der Budgetierung schlecht. Das System wurde so erfolgreich, dass es ein internes Budget überschritt, das der Kunde für die Kosten festgelegt hatte, und dies führte zu einem internen Konflikt mit der Forderung, das System abzuschalten, bis ein neues Budget zugewiesen wurde (ein sehr langwieriger Prozess). Ein umsatzbringendes System abschalten, weil es besser läuft als erwartet und eine willkürliche Budgetzahl überschritten hat? Das ist es, was passiert, wenn eine unflexible Einheitsgröße für die Budgetierung auf die Realität trifft +
+
+Bevor Sie jetzt sagen: "Das ist doch albern" - eigentlich ist es das nicht. Im Laufe der Zeit neigen Unternehmen dazu, einen Korpus an Arbeit und Prozessen - den Unternehmenskorpus - aufzubauen, der dazu dient, vergangene Misserfolge zu verhindern. Das geschieht alles mit vernünftigen Absichten. Der Wunsch, Geld effektiv auszugeben und der Wunsch, zu wissen, dass die Ressourcen gut genutzt werden. Diese Masse an guten Absichten sind oft die Ursache für viele Probleme, wenn man versucht, das System zu verändern. Dieser Korpus kann zu einer Leiche werden, einem Zombie, der Innovationen abtötet, wann immer man sie findet. Ich hatte versucht, das System zu verändern, indem ich einen wertorientierten Ansatz einführte, und ich hätte wissen müssen, dass dies zu Spannungen mit dem Korpus, in diesem Fall dem Budgetierungssystem, führen würde. Diese Lektion habe ich schnell gelernt +
+
+Ich habe in den letzten zehn Jahren oft wertorientierte Ansätze (oft auch "Outcome" genannt) verwendet, und ich bevorzuge sie sogar. Während sie dazu neigen, das Problem einer übermäßigen Fokussierung auf Verträge zu lösen, sind sie immer auf andere Hindernisse gestoßen, wie z. B., dass ein Kunde nicht in der Lage war, eine Metrik des Wertes oder den Zweck des Systems zu beschreiben oder sogar Konflikte und Politik innerhalb interner Prozesse. Dessen müssen Sie sich bewusst sein und es abmildern +
+
+Neben Problemen wie der mangelnden Vorbereitung auf den Nachfrageschub oder den Firmenkorpus gab es auch die Kopfschmerzen, die dieser wertorientierte Ansatz verursachte. Dies war meine Migräne. Es war ein gewisses finanzielles Risiko mit diesem Projekt verbunden und es waren einige Investitionen erforderlich. Ich musste mich nicht nur um die Entwicklung, sondern auch um den Betrieb kümmern. Das beinhaltete eine Menge Kapitalinvestitionen zusammen mit Kosten, die entweder nicht wirklich variabel waren oder solche, die ich nur erahnen konnte. Um das Risiko zu minimieren, teilten wir uns gemeinsame Komponenten mit anderen Projekten, aber in einer großen, heterogenen Anwendungsumgebung verkompliziert das nur die Zuordnung der Kosten. Die Frage, wie viel uns ein Benutzer, der unsere Anwendung besucht, in Bezug auf Rechenleistung, Stromverbrauch und Nutzung des Rechenzentrums kosten würde, war eine unglaublich schwierige Frage +
+
+In meinen Risikomodellen hatte ich auch keine klare Möglichkeit, die Betriebskosten bei der Skalierung zu bestimmen. Ich musste viele Schätzungen über schrittweise Änderungen vornehmen und darüber, wie viele Rechenressourcen von einer Anwendung genutzt werden würden, die noch nicht gebaut worden war. Das Finanzmodell glich eher einer Kunst als einer Wissenschaft. Ein Teil dieser Ungewissheit landete als "Polster" in der Metrik, z. B. der Preis pro Lead, den ich berechnen würde. Glücklicherweise hatten andere Bereiche bessere Kostenmodelle. Im obigen LFP-Beispiel waren die Vertriebssysteme und sogar der Druck variabler (d. h. Preis pro Abzug oder Preis pro Paket), weil wir Erfahrung mit dem Betrieb eines Online-Foto- und Druckdienstes hatten. Das bringt mich zum nächsten Thema der Preisgranularität.
+
+=== Preisgranularität
+
+Mit einem wertbasierten Ansatz habe ich dann einen starken Anreiz dazu: -
+
+* die Betriebskosten des Projekts zu reduzieren, denn je billiger es ist, desto mehr Gewinn mache ich.
+* zuverlässigkeit bieten, denn wenn das System ausfiel, verdiente ich kein Geld.
+* sicherstellen, dass das System die Wertmetrik maximiert. Im Fall von LFP war diese Metrik "Leads generieren".
+
+Aber ich hatte auch Fragen, wo ich investieren sollte. Im Fall von LFP lief es sehr gut (das war vor den Budgetschwindeleien) und so entschied ich mich, zusätzliche 100.000 Dollar zu investieren. Aber wo soll ich das Geld am besten einsetzen? In die Verbesserung der Zuverlässigkeit der Website? Senkung der Betriebskosten der Anwendung durch besseren Code? Maximierung der Anzahl der Benutzer durch Marketing? Verbesserung der Umwandlung von Benutzern in Leads? Welche Entscheidung bringt mir die bessere Rendite? Diese Frage ist besonders schwer zu beantworten, wenn Sie die Betriebskosten einer Anwendung nicht effektiv über das Winken mit der Hand hinaus bestimmen können oder wenn andere Daten auch nur vermutet werden +
+
+Einer der großen Vorteile von Zimki (unserem Platform-as-a-Service-Spiel im Jahr 2006) war nicht nur seine serverlose Natur und wie Sie einfach Code über eine Online-IDE schreiben konnten, sondern auch seine Preisgranularität war bis auf die Funktion. Das war kein Zufall, denn ich hatte ein echtes Bedürfnis, dies zu wissen. Jede Anwendung ist nichts anderes als eine High-Level-Funktion, die andere Funktionen aufruft. Wenn ich eine Funktion in Zimki entwickelte, konnte ich bei jedem Aufruf dieser Funktion genau sehen, wie viel sie mich gekostet hatte. Mir wurden die Netzwerk-, Speicher- und Rechenressourcen berechnet, die von dieser Funktion verwendet wurden. Das war eine ziemliche Offenbarung. Es änderte das Verhalten erheblich, denn plötzlich konnte ich in dem Meer von Code, das meine Anwendung darstellt, einzelne Funktionen finden, die mich unverhältnismäßig mehr kosteten +
+
+Soweit ich weiß, war diese Preisgestaltung pro Funktion im Jahr 2006 in der IT-Welt beispiellos und wir sahen keine vergleichbare Preisgranularität, bis AWS Lambda 2014 eingeführt wurde. Nun war ich natürlich auch der Anbieter von Zimki und hinter den Kulissen gab es eine komplexe Reihe von Warenkorbkonzepten und alle möglichen Finanzinstrumente, um diese Kostenzahlen bereitstellen zu können. Aber das war für den Entwickler abstrahiert. Alles, was sie sahen, waren die Kosten, die jedes Mal anfielen, wenn ihre Funktion lief, egal wie sehr sie skalierte. Es gab keine Kapitalinvestition und das machte die Betriebskosten einer Anwendung zu einer überschaubaren Größe.
+
+== Durchfluss
+
+Ich werde nun die Ideen der wertbasierten (Ergebnis-)Entwicklung und der Preisgranularität kombinieren, um eine Idee einzuführen, die als Fluss bekannt ist. Um dies zu tun, werden wir das LFP-Projekt wieder aufgreifen, aber dieses Mal mit einer Karte und dem Wissen, was eine Utility-Plattform bringen kann. Damals, als wir tatsächlich am LFP-Projekt arbeiteten, hatte ich das Mapping-Konzept noch nicht vollständig entwickelt und Zimki war noch nicht veröffentlicht. Daher ist dies eine nachträgliche Analyse und eher ein "Was hätte passieren können" als ein "Was ist passiert" +
+
+Gehen wir also zurück ins Jahr 2008. Wir wissen, wie man Karten erstellt (das wussten wir schon 2005). Stellen wir uns vor, dass Zimki (2005 eingeführt) überlebt hat oder eine andere gleichwertige Plattform als Service entstanden ist. Stellen wir uns nun ein Szenario vor, in dem der Kunde mit dem LFP-Projekt aufgetaucht ist und bereit ist, dieses mit Hilfe der wertbasierten Entwicklung zu erstellen (wie es 2003 geschah) +
+
+In Abbildung 84 habe ich eine Karte des wertbasierten LFP-Projekts erstellt. Ich werde die Punkte auf dieser Karte nicht markieren, hoffentlich haben Sie jetzt genug Erfahrung, um sie zu lesen +
+
+.Karte des LFP-Projekts
+[#img-fig84-map-of-the-lfp-project] 
+[caption="Abbildung 84: ",link=https://cdn-images-1.medium.com/max/1600/1*cgm57o5y6O2jkF4eFvTBVg.jpeg]
+image::1_cgm57o5y6O2jkF4eFvTBVg.jpeg[Abbildung 84 - Karte des LFP-Projekts,900,600,align=center]
+
+Die Karte beginnt mit unserem Kunden, der mehr Leads und schließlich Verbraucher braucht, die sein Produkt kaufen. Die Umwandlung vom Lead zum tatsächlichen Kauf eines Druckers liegt außerhalb des Rahmens dieses Projekts, da dies innerhalb der Vertriebsorganisation des Kunden geschah. Wir konzentrieren uns ausschließlich auf die Generierung von Leads. Der andere Nutzertyp in dieser Karte ist der Verbraucher, der hoffentlich einen dieser teuren Drucker kaufen wird. Sie haben andere Bedürfnisse, sie wollen sich über die richtige Art von Drucker für ihre geschäftlichen Aktivitäten informieren und ihn testen, bevor sie etwas kaufen, das sie auch benutzen werden. In diesem Projekt zielen wir darauf ab, einen Online-Mechanismus für den Verbraucher bereitzustellen, um sich über den Drucker zu informieren (eine Microsite), zusammen mit einer Methode, um ihn zu testen (die Testanwendung) +
+
+Der Test ist ein hochauflösendes Bild, das der Benutzer hochlädt und das dann mit dem Drucker seiner Wahl ausgedruckt wird. Ihr Poster (dieses ist großformatig) würde dann zusammen mit einem grafischen Standardposter (das den vollen Funktionsumfang zeigt), relevanten Marketingbroschüren und einem arrangierten Verkaufsgespräch an den Benutzer verteilt werden. Der Plattformbereich - der mir ursprünglich Kopfzerbrechen bereitete, weil ich keine variablen Betriebskosten für die Nutzung der Anwendung anbieten konnte - entwickelt sich immer mehr zu einem Dienstprogramm +
+
+Nehmen wir also an, wir entscheiden uns für eine Versorgungsplattform. Ich werde nun einige Finanzindikatoren zu dieser Karte hinzufügen. Siehe Abbildung 85 +
+
+.Finanzielle Indikatoren im LFP-Projekt
+[#img-fig85-financial-indicators-in-the-lfp-project] 
+[caption="Abbildung 85: ",link=https://cdn-images-1.medium.com/max/1600/1*Ob3NdXdDe3pNDivJU8ixwA.jpeg]
+image::1_Ob3NdXdDe3pNDivJU8ixwA.jpeg[Abbildung 85 - Finanzielle Indikatoren im LFP-Projekt,900,600,align=center]
+
+Von der Karte aus hoffen wir, dass die Benutzer unsere Microsite besuchen, die die Vorteile des Besitzes eines Großformatdruckers anpreist. Dies überzeugt hoffentlich einige dieser Besucher, den Drucker zu testen. Um einen Besucher in einen tatsächlichen Lead zu verwandeln, muss der Benutzer einen Drucker testen. Wir haben also mehrere Konversionsraten, z.B. von der Microsite zur Testanwendung und vom Besucher zum Lead. Zu Beginn sind diese unbekannt, aber wir können sie erahnen +
+
+Normalerweise erfordert der Betrieb einer Microsite all diese schwer zu kalkulierenden Kosten, aber in der Welt der Utility-Plattformen ist Ihre Anwendung einfach eine Funktion, die auf der Plattform läuft, und ich werde für die Nutzung bezahlt. Die Betriebskosten meiner Microsite sind im Grunde die Anzahl der Besucher x die durchschnittlichen Kosten der Microsite-Funktion. Denken Sie daran, dass eine Anwendung aus vielen Funktionen besteht und die Benutzer darin navigieren können, was bedeutet, dass einige "wandernde" Benutzer teurer werden als andere. Aber wir können das bewältigen, indem wir einen Durchschnitt für unsere Microsite nehmen +
+
+Das Gleiche wird für meine "Test the Printer"-Anwendung (Test) gelten, aber in diesem Fall werden die Benutzer konvertierte Besucher von der Microsite zusammen mit denen, die direkt besuchen, umfassen. Jede Nutzung der Testanwendung (eine Funktion) wird Kosten verursachen. Aber wie bei der Microsite ist dies eine Variable. Natürlich könnten sich die tatsächlichen Funktionskosten der Testanwendung stark von denen der Microsite unterscheiden, je nachdem, was die Anwendungen tun und wie gut der Code geschrieben wurde, aber zumindest hätten wir einen granularen Preis für jeden Aufruf. Schließlich verursacht jeder Besucher, der einen Drucker testet, Vertriebs- und Druckkosten für mich, aber auch Einnahmen, da er ein Lead geworden ist +
+
+Dies ist nicht der einzige Weg, über den jemand ein Poster ausdrucken kann. Der Besucher kommt vielleicht nicht von der Microsite, sondern geht stattdessen direkt zur Testanwendung durch Mundpropaganda oder wenn wir die Testanwendung als API offenlegen. Es gibt eine Reihe von möglichen Flüssen durch die Karte +
+
+Wenn Sie sich eine beliebige Karte ansehen, kann es darin viele Formen von Flüssen geben, seien es finanzielle oder andere. Es können Umsatzströme oder Risikoströme sein. Wenn beispielsweise die Versorgungsplattform aufgrund eines katastrophalen Ereignisses ausfällt, wirkt sich das auf meine Microsite und meine Testanwendung aus, was sich auf die Kundenbedürfnisse auswirkt und jegliche Lead-Generierung stoppt. Dies würde für mich eine finanzielle Strafe in Form von entgangenen Einnahmen bedeuten. Wenn mir hingegen die Broschüren ausgehen, wirkt sich das auf den Vertrieb aus und ich habe die Wahl, ob ich die Drucke jetzt verschicke oder warte, bis die Broschüren wieder verfügbar sind. In Abbildung 86 habe ich ein Beispiel für den Fluss innerhalb einer Karte vom potenziellen Kunden über seinen Bedarf zur Microsite bis hin zur Testanwendung und zum Vertrieb dargestellt +
+
+.Ablauf des LFP-Projekts
+[#img-fig86-flow-of-the-lfp-project] 
+[caption="Abbildung 86: ",link=https://cdn-images-1.medium.com/max/1600/1*1j1Ru_T3q7UyIw7kAiC4KQ.jpeg]
+image::1_1j1Ru_T3q7UyIw7kAiC4KQ.jpeg[Abbildung 86 - Ablauf des LFP-Projekts,900,600,align=center]
+
+Es ist wichtig zu beachten, dass die Schnittstellen zwischen den Komponenten in einer Karte diese Kapitalflüsse darstellen, egal ob es sich um physisches, finanzielles, informationelles, wissensbasiertes, risikoreiches, zeitliches oder soziales Kapital handelt. Es kann alles sein, womit wir handeln. Dinge sind selten kostenlos. Wann immer Sie einen Dienst nutzen, handeln Sie mit etwas, sei es mit Informationen oder sozialem Kapital (z. B. Loyalität zu einem System) oder auch nur mit Ihrer Zeit (z. B. um neue Einträge zu erstellen, um den Inhalt zu bearbeiten) +
+
+Durch die Verwendung des Konzepts des Flusses ist es relativ einfach, ein Finanzmodell für das System zu erstellen. In Abbildung 87 habe ich das Skelett eines solchen Modells für die obige Karte erstellt +
+
+.Aufbau eines Finanzmodells für LFP
+[#img-fig87-building-a-financial-model-for-lfp] 
+[caption="Abbildung 87: ",link=https://cdn-images-1.medium.com/max/1600/1*qINuD0aSi78SsGLak80hPw.jpeg]
+image::1_qINuD0aSi78SsGLak80hPw.jpeg[Abbildung 87 - Aufbau eines Finanzmodells für LFP,900,600,align=center]
+
+Das ist wie Manna vom Himmel für jemanden, der versucht, ein Geschäft aufzubauen. Natürlich habe ich die Investition in die Entwicklung des Codes, aber wenn die Anwendung variable Betriebskosten verursacht, kann ich eine Gelddruckmaschine bauen, die mit den Benutzern wächst. Es ändert auch meinen Investitionsschwerpunkt - will ich in die Steigerung des Marketings für mehr Benutzer investieren, oder in die Konversionsrate, oder ist die Testanwendung vielleicht so schlecht geschrieben (oder eine Funktion darin), dass die Investition in die Verbesserung des Codes mir bessere Erträge bringt? Plötzlich ändert sich die ganze Art und Weise, wie ich ein Geschäft aufbaue und investiere +
+
+Nun zurück zu der Zeit, als wir LFP im Jahr 2003 ursprünglich aufgebaut haben. Es gab keine Versorgungsplattform, ich hatte keine Karten und ich hatte kein Konzept für den Fluss. Stattdessen hatten ich und mein CFO eine Unmenge an Tabellenkalkulationen, um zu berechnen, was das oben genannte tat, und um mit all den schrittweisen Investitionen und den erforderlichen Kapitalkosten fertig zu werden. Was im Jahr 2003 ein Albtraum war, ist 2016 ein Kinderspiel +
+
+Wann immer Sie etwas Neues aufbauen, geht es darum, die Betriebskosten so weit wie möglich über das Kapital zu stellen, um das Risiko zu reduzieren, dass das System nicht genutzt wird oder schnell wächst. Sie wollen die Kosten so nah wie möglich an den Pfad der Umsatzgenerierung binden, besonders in jedem wertbasierten System, wenn Sie auf einen ungewissen Ausgang setzen. Es wird jedoch immer eine gewisse Investition anfallen, z. B. das Schreiben der Anwendung oder die Vermarktung der Microsite. Diese Art der Modellierung kann Ihnen dabei helfen, herauszufinden, welche Optionen die Gleichung verbessern und wo Sie daher für die Zukunft investieren sollten.
+
+== Effizienz vs. Effektivität
+
+Nachdem wir die Konzepte der wertbasierten Entwicklung, der Preisgranularität und des Flusses eingeführt haben, lassen Sie uns nun zu unserer Hauptgeschichte zurückkehren +
+
+Da war ich also im Jahr 2008 mit einem Verständnis für die Bedeutung von Landkarten und für den Kapitalfluss innerhalb dieser Landkarten. Das half mir, eine Frage von Effizienz versus Effektivität in einem Projekt eines meiner Kunden zu erklären. Darauf war ich ziemlich stolz. Leider gibt es ein Problem +
+
+Hoffentlich entdecken Sie, dass Karten ein recht nützliches strategisches Werkzeug sein können. Die Informationen, die sie enthalten, können sehr sensibel sein. Ich werde sicherlich nicht das Vertrauen eines Kunden brechen, indem ich seine schmutzige Wäsche offenlege. Aus diesem Grund sind viele der Maps, die ich in diesem Buch verwende, leicht verzerrt und lassen den ursprünglichen Besitzer nicht erkennen, es sei denn, ich war derjenige, der die Show geleitet hat. Es macht mir nichts aus, dass Sie alle Fehler und Versäumnisse kennen, die ich gemacht habe, aber nicht jeder ist so. Wenn Ihnen das unangenehm ist und Sie die Beruhigung brauchen, dass "die große Firma X Y gemacht hat", dann müssen Sie sich jemand anderen suchen, der Ihnen hilft +
+
+Um dieses Problem der Vertraulichkeit zu überwinden, wird im nächsten Abschnitt eine hypothetische Geschichte erzählt, die sich auf ein modernes Unternehmen bezieht, um eine Geschichte aus der Vergangenheit zu erzählen, die ich in einen Technologiekontext gesetzt habe. Ja, Karten sind Teil des Geschichtenerzählens, aber wie J.R.R Tolkien beim Schreiben des Herrn der Ringe sagte: _"Ich habe klugerweise mit einer Karte begonnen."_ +
+
+Unsere Geschichte beginnt, wie viele andere auch, mit einer Herausforderung und leider ohne Karten. Das Unternehmen expandierte und musste seine Rechenressourcen erhöhen. Es hatte dafür ein Prozessflussdiagramm erstellt (Abbildung 88), das eine Anfrage nach mehr Rechenleistung bis hin zu den Aktionen beinhaltete, die erforderlich waren, um diese Nachfrage zu erfüllen +
+
+.Der Prozessablauf
+[#img-fig88-the-process-flow] 
+[caption="Abbildung 88: ",link=https://cdn-images-1.medium.com/max/1600/1*50ZiKcifqGtTjbzdUvB6dA.jpeg]
+image::1_50ZiKcifqGtTjbzdUvB6dA.jpeg[Abbildung 88 - Der Prozessablauf,900,600,align=center]
+
+Der Prozess hatte jedoch einen Engpass. Sobald die Server am "Wareneingang" angeliefert wurden, mussten sie modifiziert werden, bevor sie ins Regal gestellt werden konnten. Dies war zeitaufwendig und manchmal fehleranfällig. Man konzentrierte sich darauf, die Effizienz des Prozessablaufs zu verbessern, da dies für die zukünftige Umsatzgenerierung wichtig war. Es lag ein Vorschlag auf dem Tisch, in Robotertechnik zu investieren, um den Prozess der Modifizierung der Server zu automatisieren. Der Vorschlag war zwar teuer, aber die Vorteile waren beträchtlich, vor allem angesichts der beträchtlichen zukünftigen Einnahmen, die auf dem Spiel standen. Es wurde ein stark positiver ROI berechnet +
+
+Ich möchte, dass Sie das oben Gesagte einen Moment lang bedenken und entscheiden, ob ein Vorschlag, in die Verbesserung der Effizienz eines ineffizienten Prozesses zu investieren, sinnvoll ist, insbesondere wenn der Nutzen des Vorschlags die Kosten bei weitem übersteigt und Ihr zukünftiger Umsatzstrom in Gefahr ist? +
+
+Ich hatte mich mit dem Unternehmen getroffen, über das Konzept der Evolution gesprochen und es wäre fair zu sagen, dass sie kein Interesse am Mapping hatten. Ich hatte das "Spot"-Diagramm erwähnt und wir vereinbarten, den Vorschlag durch diese Linse zu betrachten. Ich habe dieselben ersten Schritte unternommen (siehe Abbildung 89) und den Prozess "erspäht". Während der Bestell- und Wareneingangsprozess ziemlich industrialisiert war, war der Modifizierungsteil des Prozesses sehr individuell +
+
+.Punktdiagramm des Prozesses
+[#img-fig89-spot-diagram-of-the-process] 
+[caption="Abbildung 89: ",link=https://cdn-images-1.medium.com/max/1600/1*LgVC5TOKXHK_-AT3toM6kw.jpeg]
+image::1_LgVC5TOKXHK_-AT3toM6kw.jpeg[Abbildung 89 - Punktdiagramm des Prozesses,900,600,align=center]
+
+Es ist wichtig, hier eine Minute Pause zu machen und sich das obige Diagramm genau anzusehen. Versuchen Sie zu sehen, ob Ihnen etwas Interessantes oder Merkwürdiges auffällt, bevor Sie mit dieser Geschichte fortfahren +
+
+Ich werde jetzt das obige Diagramm in eine Karte umwandeln und hoffentlich wird das Problem klarer. Beginnen wir mit dem Bedarf des Benutzers an mehr Rechenleistung. Dieser hat eigentlich zwei Bedürfnisse, die Bestellung eines Servers und das Racking des Servers, sobald er geliefert wurde. Offensichtlich erfordert die Montage des Geräts (d. h. Racking, Hinzufügen von Strom und Verkabelung) Modifikationen am Server, daher das Interesse der Unternehmen an der Automatisierung mit Robotik. Beide Ketten sind an der Stelle "Server" und "Wareneingang" miteinander verbunden. Ich habe dies in Abbildung 90 mit beiden Strömen eingezeichnet +
+
+.Abbilden des Vorschlags
+[#img-fig90-mapping-the-proposal] 
+[caption="Abbildung 90: ",link=https://cdn-images-1.medium.com/max/1600/1*cf52oob3JzEgioXE8w5tEw.jpeg]
+image::1_cf52oob3JzEgioXE8w5tEw.jpeg[Abbildung 90 - Kartierung des Vorschlags,900,600,align=center]
+
+Machen Sie hier noch einmal eine Minute Pause und schauen Sie sich das obige Diagramm genau an. Versuchen Sie, ob Ihnen dieses Mal etwas Interessantes oder Merkwürdiges auffällt, bevor Sie mit dieser Geschichte fortfahren +
+
+Erwähnenswert ist, dass die Racks als Sonderanfertigung betrachtet wurden. Nachforschungen ergaben, dass das Unternehmen schon immer maßgefertigte Racks verwendet hatte, und es hatte sogar eine befreundete Firma, die sie für das Unternehmen anfertigte. Dies war nur ein Teil des Firmenkorpus, ein Geist aus einer längst vergangenen Zeit, der immer noch in der Firma herumspukte. Wenn Sie die Firma fragten, warum sie speziell angefertigte Racks benutzten, würden sie Ihnen sagen, dass sie das schon immer so gemacht haben, dass sie so arbeiten und die Racks für sie entworfen wurden. Sie würden Ihnen auch sagen, dass Racks für das vorliegende Projekt, bei dem es um Automatisierung ging, irrelevant waren +
+
+Graben wir jedoch ein wenig mehr und wir kommen zu dem Grund, warum die Server modifiziert werden mussten. Es stellte sich heraus, dass Standardserver dafür ausgelegt sind, in Standard-Racks zu passen. Sie passten nicht in die speziell angefertigten Racks, die das Unternehmen so liebevoll gebaut hatte. Daher mussten zusätzliche Platten angebracht werden, Löcher in die Server gebohrt werden - das war die Modifikation, die erforderlich war. Um es klar zu sagen: Auf dem Tisch lag der Vorschlag, in Robotik zu investieren, um Standard-Server so zu _anpassen_, dass sie in _selbstgebaute_ Racks passen, die das Unternehmen kaufte. Macht der Vorschlag noch Sinn? Ist es eine gute Investition? Gibt es Alternativen? Höre ich Sie schreien _"Standard-Racks verwenden?"_ +
+
+Die Frage ist nun, ob wir einfach Standard-Racks verwenden sollten? Dadurch werden die Racks offensichtlich in Richtung der Ware verschoben (wo sie auch sein sollten) und der Modifikationsteil verschwindet, obwohl wir immer noch Montage, Verkabelung und Strom haben. Es scheint aber viel besser zu sein (siehe Abbildung 91) +
+
+.Verwendung von Standard-Racks
+[#img-fig91-using-standard-racks] 
+[caption="Abbildung 91: ",link=https://cdn-images-1.medium.com/max/1600/1*F1ZTahWwWoiDCZpGeVa3tg.jpeg]
+image::1_F1ZTahWwWoiDCZpGeVa3tg.jpeg[Abbildung 91 - Verwendung von Standardracks,900,600,align=center]
+
+Allerdings haben Sie immer noch ein Problem, nämlich den Altbestand. Werden Sie alle Racks migrieren? Was ist mit unseren versunkenen Kosten? Wie werden wir unsere bestehenden Systeme pflegen? Es wird eine lange Liste von Gründen geben, die gegen die vorgeschlagene Änderung sprechen. Bevor Sie sagen: "Das ist doch Blödsinn, wir sollten einfach wechseln", denken Sie an das Beispiel des Budgets, des Firmenkorpus und erwarten Sie nicht, dass Sie ein System ohne Widerstand ändern können +
+
+In diesem Fall sollten wir trotz Widerständen einen Schritt weiter gehen. Computing wurde zu einer Ware, die von Utility Services bereitgestellt wird. Wir können diesen ganzen Ablauf vereinfachen, indem wir einfach Utility Services für jede neue Arbeit übernehmen. Wir müssen nicht über Investitionen in Roboter nachdenken oder sogar auf die Verwendung von Standard-Racks umstellen (was wiederum Kosten verursacht, die unerschwinglich sein könnten). Dieser gesamte Teil der Wertschöpfungskette sollte im Laufe der Zeit verschwinden, zusammen mit allen zusätzlichen Kosten, die sich dahinter verbergen könnten (siehe Abbildung 92) +
+
+.Versteckte Kosten und Entfernen von Teilen der Wertschöpfungskette
+[#img-fig91-hidden-costs-and-removing-parts-of-the-value-chain] 
+[caption="Abbildung 92: ",link=https://cdn-images-1.medium.com/max/1600/1*3QY3HK5G9Jn-Ulwgon_n_A.jpeg]
+image::1_3QY3HK5G9Jn-Ulwgon_n_A.jpeg[Abbildung 92 - Versteckte Kosten und Entfernen von Teilen der Wertschöpfungskette,900,600,align=center]
+
+In dieser Geschichte begannen wir mit einem Vorschlag für eine Investition in die Robotik, die auf der Verbesserung der Effizienz eines bestehenden Prozesses basierte. Oberflächlich betrachtet klang das vernünftig, aber wenn sie diesen Weg eingeschlagen hätten, hätten sie mehr in die Aufrechterhaltung eines höchst ineffektiven Prozesses investiert. Aller Wahrscheinlichkeit nach hätte sich das Problem später verschlimmert, weil sich der Firmenkorpus um diese Roboterinvestition erweitert hätte. Wenn eine zukünftige Person gesagt hätte _"wir sollten diese kundenspezifischen Racks loswerden"_, dann wäre die Antwort gewesen _"aber das haben wir schon immer so gemacht und wir haben Millionen in die Robotik investiert"_ +
+
+Ich habe den "entdeckten" Prozessfluss verwendet, um uns einen Teil des Weges zu zeigen, d. h. um das kundenspezifische Rack als Problem zu identifizieren. Um diesen Bereich jedoch wirklich zu verstehen, brauchten wir eine Karte und die Abläufe darin. Das "Effiziente" wäre vielleicht, in Robotik zu investieren, aber das "Effektive" wäre, diesen gesamten Teil der Wertschöpfungskette loszuwerden. Es ist ein bisschen wie bei der Frage der Versorgungsplattform. Ich kann entweder investieren, um meine Infrastruktur und Plattformkomponenten durch Automatisierung effizienter zu machen, oder ich könnte einfach planen, diesen gesamten Teil der Wertschöpfungskette durch den Einsatz einer Versorgungsplattform loszuwerden. Oft ist das, was "effizient" ist, nicht das, was "effektiv" ist +
+
+Doch ein Wort der Warnung. Das war 2008, und die Idee, sich von individuell gebauten Racks zu verabschieden und eine Infrastruktur von einem Versorgungsunternehmen zu nutzen, wurde nicht gern gesehen. Es ist einfach, im Jahr 2016 zu sagen: "Das ist offensichtlich", aber das liegt daran, dass die meisten Leute jetzt den Vorteil der Rückschau haben. Im Jahr 2008 wurden solche Ideen als radikal und sogar gefährlich angesehen. Die notwendigen Veränderungen waren innerhalb der Organisation alles andere als willkommen, und es wurde bei jedem Schritt von den Führungskräften bis zur Basis bekämpft. Ohne den Mut und die Überzeugung des CEO und einiger "Rebellen" hätte das Unternehmen fröhlich Millionen in die Robotik gesteckt und würde noch heute kundenspezifische Racks bauen +
+
+Aus Erfahrung sollten Sie sowohl mit dem Einsatz von Vereinfachung bei der Betrachtung einer Landschaft als auch mit der vorhandenen Trägheit vorsichtig sein. Sie sollten sehr vorsichtig sein mit Prozessverbesserungen, die ausschließlich auf Effizienz ausgerichtet sind. Sie sollten extrem vorsichtig sein, wenn Sie mit dem Unternehmenskorpus umgehen +
+
+Das fragliche Unternehmen war ein Fertigungsunternehmen, das reale Szenario hatte nichts mit Computern zu tun und ja, sie waren dabei, viele Millionen auszugeben, um einen höchst ineffektiven Prozess effizienter zu machen. Das taten sie nicht, sie leben noch und es geht ihnen gut. Ich habe auch die Wölfe in Schach gehalten. Das nenne ich eine "Win-Win-Situation", außer natürlich für die Anbieter, die den Kürzeren gezogen haben.
+
+== Bevor wir weitermachen
+
+In den letzten Kapiteln sind wir um den Strategiezyklus herumgeschlichen und haben hauptsächlich den Zweck und dann die Landschaft behandelt. Sie sollten mit dem Strategiezyklus so vertraut sein, dass ich ihn nicht wiederholen muss. Wir werden uns weiterhin in einer Schleife um ihn herum bewegen und dabei manchmal in Zusammenhänge eintauchen. Wie auch immer, dies wird das letzte Mal sein, dass ich das erwähne. Wir sollten einige der Ideen aus diesem Kapitel rekapitulieren.
+
+=== Landschaft
+
+* *Seien Sie vorsichtig mit der Einfachheit.* Es gibt hier einen Balanceakt, der durch das Ashby'sche Gesetz verursacht wird. Seien Sie sich bewusst, dass Sie oft Ihre Lernfähigkeit gegen eine einfachere Verwaltung eintauschen. In manchen Fällen können Sie so weit vereinfachen, dass es schädlich wird, z. B. Einheitsgröße für alle und gruppenweite KPIs. Oft wird über das KISS-Prinzip (Keep it simple, stupid) gesprochen, aber denken Sie daran, dass Sie, wenn Sie es zu einfach halten, einige ziemlich dumme Entscheidungen treffen können.
+* Die Karte enthält *Kapitalströme*, die durch die Schnittstellen dargestellt werden. In der Regel gibt es mehrere Ströme in einer einzigen Karte. Dieses Kapital kann physisch, finanziell, Information, Wissen, Risiko, Zeit oder sozial sein. Es kann alles sein, was wir handeln und zwischen den Komponenten gehandelt wird.
+* *Karten sind ein Mittel zum Geschichtenerzählen*. Trotz meiner mürrischen Einstellung zum Geschichtenerzählen (vor allem zu der handwinkenden Art von Geschwätz, die man oft in der Strategie findet), sind Karten eine Form des visuellen Geschichtenerzählens.
+
+=== Doktrin
+
+* *Konzentrieren Sie sich auf das Ergebnis, nicht auf den Vertrag.* Wert- (ergebnis-) basierte Werkzeuge können hier nützlich sein, aber seien Sie gewarnt, sie können auch Fehler im Verständnis von Wert aufdecken und durch den Unternehmenskorpus behindert werden, z.B. durch einen Budgetierungsprozess und dessen Unfähigkeit, mit variablen Gebühren umzugehen.
+* *Verwenden Sie geeignete Tools*. Wenn ich Karten verwende und Finanzströme betrachte, dann tauche ich oft in die Finanzmodellierung ein, wenn ich mehrere Investitionspfade in Betracht ziehe, z. B. den Fokus auf die Steigerung der Besucherzahlen durch Marketing oder die Konversionsrate von einer Microsite. Wenn ich mehrere "Wo" identifiziert habe, die ich angreifen kann, tauche ich oft in die Business Model Canvas ein, um sie zu vergleichen. Scheuen Sie sich nicht davor, mehrere Tools zu verwenden. Karten sind einfach ein Leitfaden und Lernwerkzeug.
+* *Optimieren Sie den Fluss*. Wenn Sie Abläufe untersuchen, werden Sie oft Engpässe, Ineffizienzen und unrentable Abläufe finden. Es wird Dinge geben, die Sie tun, die Sie einfach nicht tun müssen.
+* Achten Sie sehr darauf, *nicht nur die Effizienz, sondern die Effektivität* zu berücksichtigen. Versuchen Sie zu vermeiden, in die Effizienzsteigerung eines ineffektiven Prozesses zu investieren, wenn Sie hinterfragen sollten, warum Sie etwas tun, und versteckte Kosten aufdecken sollten. Gehen Sie auch nicht davon aus, dass eine "offensichtliche" Änderung willkommen sein wird. Hüten Sie sich vor dem Firmenkorpus.
+* Wenn es darum geht, den Fluss zu verwalten, dann ist *Granularität Ihr Freund*. Seien Sie jedoch darauf vorbereitet, dass die meisten Unternehmen nicht annähernd den Grad an Granularität haben, den Sie benötigen, und Sie könnten sogar auf Politik stoßen, wenn Sie versuchen, dies herauszufinden. Denken Sie im Kleinen, d. h. kennen Sie die Details.
+* Jede Map kann *mehrere verschiedene Benutzer* enthalten und oft können die Bedürfnisse dieser Benutzer in Konflikt stehen, obwohl Sie versuchen sollten, sie alle zusammenzubringen.
+
+Wir haben bisher eine ganze Menge an Lehre behandelt, ich habe das (in Orange) in Abbildung 93 hervorgehoben. Obwohl wir mehrere andere Bereiche der Lehre übersprungen haben, möchte ich später im Buch mit einer formelleren Untersuchung auf sie zurückkommen +
+
+.Doktrin
+[#img-fig93-doctrine] 
+[caption="Abbildung 93: ",link=https://cdn-images-1.medium.com/max/1600/1*OdaK4FQhTP4T5hJ1JSo2mQ.jpeg]
+image::1_OdaK4FQhTP4T5hJ1JSo2mQ.jpeg[Abbildung 93 - Doktrin,900,600,align=center]
+
+Wir haben auch einen Aspekt des Gameplays erwähnt - *Handel*. Karten sind eine Form von Wissenskapital, und sie neigen dazu, einen Wert zu haben. Erwarten Sie nicht, dass die Leute sie einfach mit Ihnen teilen. Sie müssen handeln oder Ihre eigenen erstellen +
+
+Im nächsten Abschnitt werden wir uns auf das Klima konzentrieren, einschließlich gemeinsamer wirtschaftlicher Muster und Antizipation.
+
+=== Eine Übung für den Leser
+
+Ich möchte, dass Sie sich etwas Zeit nehmen und sich Abbildung 93 - Lehre ansehen. Gehen Sie jeden der orange markierten Abschnitte durch, lesen Sie alle Kapitel in diesem Buch noch einmal, die Sie brauchen, und stellen Sie sicher, dass Sie mit ihnen vertraut sind. Dann fragen Sie sich, ob es in Ihrem Unternehmen diese Formen der Doktrin gibt Wie setzen Sie sie um? Wenn nicht, warum nicht? Was hält Sie davon ab?
+
+

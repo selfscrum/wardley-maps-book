@@ -1,0 +1,235 @@
+[#chapter-17-to-infinity-and-beyond]
+= Kapitel 17 - Bis zur Unendlichkeit und darüber hinaus
+
+Ich arbeitete an der Verwendung von gedruckter Elektronik mit Papier (man denke an digitale Interaktivität innerhalb eines normalen Buches), als ich den Anruf eines Freundes über _"diesen Raumfahrer, der dich unbedingt treffen will"_ bekam. Ich war neugierig, also ging ich mit, um jemanden namens Mark bei Canonical zu treffen. Ich wusste nicht, was ich erwarten sollte. Die ersten paar Minuten waren auf jeden Fall interessant +
+
+* Shuttleworth* : _"Ich bin Mark. Mir wurde gesagt, dass Sie ein guter UX-Designer sind."_ +
+
+* Ich* : _"Ich habe keine Ahnung von Design."_ +
+
+... Stille +
+
+Es war eine peinliche Pause. Dann erkannte Mark, dass die nächste Stunde wahrscheinlich eine Verschwendung seiner Zeit war, und bat mich, ihm etwas zu erzählen, wovon ich etwas wusste. Ich sprach über die Entwicklung, die Veränderungen in der Branche und schon bald waren wir bei Diagrammen, Karten und Cloud Computing angelangt. Die Zeit verging wie im Flug. Wir redeten weiter. Ich wurde anderen vorgestellt und in einer scheinbar blitzschnellen Zeit arbeitete ich bei Canonical. Ich hatte eine Aufgabe: Ubuntu in die Cloud zu bringen. Ich rief meinen Freund an und fragte ihn, was passiert war. Steve antwortete nur _"Ich wusste, dass ihr euch vertragen würdet"_. Das Leben ist voll von angenehmen Störenfrieden wie Steve +
+
+Am ersten Tag, als ich zur Arbeit kam, war ich ganz aufgeregt und hatte den üblichen verwirrten Blick eines Kaninchens, das auf Scheinwerfer starrt. Mein Chef, der zufällig auch ein anderer Steve war, machte die üblichen Vorstellungsrunden. Das war ein interessanter Moment. Während ich mich über die Herzlichkeit der Leute freute, die ich traf, waren die ersten fünf Reaktionen auf meine Rolle, Ubuntu in die Cloud zu bringen, negativ - _"es ist eine Modeerscheinung"_, _"warum machen wir das"_ usw. Ich wusste, dass ich ziemlich schnell eine Kabale aufbauen und ein wenig Schwung erzeugen musste. Meine erste offizielle Aufgabe bestand jedoch darin, mir die geschriebene Virtualisierungsstrategie anzusehen. Es war einer dieser "_oh, was habe ich getan_"-Momente. Glücklicherweise dauerte es nicht lange, bis ich andere mit gleichen Interessen fand - Rick Clark, Soren Hansen, Nick Barcet und viele andere. Steve George (mein Chef) war auch einer der unterstützendsten Menschen, für die ich je gearbeitet habe, ein guter Freund und dann war da noch Mark. Ohne Mark wäre das alles nicht möglich gewesen +
+
+Das Problem zu Beginn war, dass Canonical auf den Server- und Desktop-Markt fokussiert war. Es hatte es mit riesigen Giganten wie RedHat und Microsoft zu tun. Es unternahm tapfere, fast heroische Anstrengungen, aber Canonical war klein. Viele wollten sich auf das Server-OS konzentrieren, um Einnahmen aus Support-Lizenzen zu generieren und für einige wenige war die Cloud eine Ablenkung. Das Problem war eine Fokussierung und was ich tun musste, war, die Denkweise zu ändern. Um dieses Problem zu erklären und warum es wichtig war, werde ich eine Reihe von Konzepten aus den Drei Horizonten bis hin zu Porter behandeln, bevor ich wieder zu Canonical zurückkehre.
+
+== Die drei Horizonte
+
+Die drei Horizonte waren ein Modell, das in der Alchemy of Growth, 1999, vorgestellt wurde. Es diskutierte drei Ansichten, die jedes Unternehmen einnehmen musste +
+
+_Horizont 1_* : das Kerngeschäft, das die größten Gewinne und Cashflows liefert, die ausgebaut und verteidigt werden müssen +
+
+_Horizont 2_* : sind die aufkommenden Chancen und Geschäfte, die das mittelfristige Wachstum vorantreiben werden. Dazu können neue Unternehmen gehören, in die Sie investieren und von denen Sie erwarten, dass sie in Zukunft erhebliche Gewinne erwirtschaften +
+
+_Horizont 3_* : Dies sind Unternehmungen, die die langfristige Zukunft des Unternehmens sichern sollen. Sie können Forschungsprojekte oder Pilotprogramme oder auch Investitionen in Start-ups umfassen +
+
+Als ich zu Canonical kam, war Horizont eins der Kern-Support-Umsatz. Horizont zwei umfasste neue Konzepte wie Online-Speicher, den App-Store und die Ausweitung auf mehr Geräte. Horizont drei war ... nun, ich bin ziemlich überzeugt, dass einige gedacht hätten, dass meine Arbeit an der Cloud in diese Kategorie fallen würde. Während dieses Modell der drei Horizonte eine vernünftige Art ist, ein Unternehmen zu untersuchen, finde ich persönlich es unzureichend. Ich stelle oft fest, dass einige es mit dem Pionier-Siedler-Stadtplaner-Modell der Organisation (xref:#chapter-4-doctrine[chapter 4]) verwechseln, indem sie Stadtplaner mit Horizont eins und Pioniere mit Horizont drei in Verbindung bringen. Um die Schwachstelle dieses Modells zu erklären, werde ich die Karte des Mappings verwenden, die ich früher in xref:#chapter-7-finding-a-new-purpose[chapter 7] eingeführt habe. Um Ihnen zu ersparen, sich durch frühere Kapitel zu wühlen, habe ich diese Karte hier in Abbildung 213 bereitgestellt +
+
+.Die Karte des Mappings
+[#img-fig213-the-map-of-mapping] 
+[caption="Abbildung 213: ",link=https://cdn-images-1.medium.com/max/1600/1*NF9miQtHdhdGrOwogRJBJg.jpeg]
+image::1_NF9miQtHdhdGrOwogRJBJg.jpeg[Abbildung 213 - Die Karte der Kartierung,900,600,align=center]
+
+Nehmen wir nun an, dass wir uns entschließen, die Landkarte des Mappings zu nutzen, um ein neues Geschäft aufzubauen. Ich werde einen Teil der obigen Landkarte nehmen und mich auf die Bereitstellung von Prognosen (d. h. die Vorwegnahme bekannter Veränderungen) für andere konzentrieren. Ich hätte mir ganz einfach ein bequemes Leben um die schwachen Signale herum aufbauen können, die ich für die Vorhersage von Veränderungen entwickelt hatte, indem ich eine kleine Boutique-Beratung gegründet hätte, die Markt- und Technologieprognosen anbietet. Die Prämisse für ein solches Geschäft ist in Abbildung 214 dargestellt. Mein Ziel mit einem solchen Unternehmen wäre es gewesen, einfach nur zu überleben (d.h. Geld zu verdienen), der Nutzer würde nach einem Vorteil gegenüber den Konkurrenten streben und diesen wahrscheinlich an der Rendite des investierten Kapitals messen. Das Unternehmen selbst würde Antizipationsdienste auf der Grundlage bekannter klimatischer (wirtschaftlicher) Muster anbieten, die Karten der Branche verwenden +
+
+.Vorhersage-Service
+[#img-fig214-forecasting-service] 
+[caption="Abbildung 214: ",link=https://cdn-images-1.medium.com/max/1600/1*w9GyHthp6fToHquCB9lunw.jpeg]
+image::1_w9GyHthp6fToHquCB9lunw.jpeg[Abbildung 214 - Vorhersagedienst,900,600,align=center]
+
+Horizont 1 wäre das Boutique-Beratungsgeschäft. Ich würde die zwanzig ungeraden gängigen Wirtschaftsmuster, von denen ich weiß, dass sie sich auf die Umwelt auswirken, schützen (d.h. nicht zu Creative Commons machen). Ich würde wahrscheinlich einen wertbasierten Mechanismus (oder ergebnisbasiert, wie es heute heißt) für die Abrechnung verwenden. Ich könnte diese Karte auch erweitern, um die Komponenten des sozialen Kapitals des Vertrauens und die Aktivitäten, die entweder für die Durchführung der Analyse oder für den Betrieb des Unternehmens erforderlich sind, detaillierter zu erfassen. Denken Sie daran, dass Sie alle Formen von Kapital abbilden können, ob Daten, Praxis, Aktivität, Wissen oder Soziales. Nehmen wir einmal an, ich hätte mich entschlossen, dieses Unternehmen aufzubauen und es auf Biegen und Brechen zu einem kleinen Erfolg zu machen. Was wäre mein Horizont 2? +
+
+In diesem Fall würde die Diffusion von Wissen und die durch den Wettbewerb von Angebot und Nachfrage verursachte Evolution viele dieser Komponenten in einen stärker industrialisierten Raum treiben. Irgendwann müsste ich mich darauf vorbereiten, dass meine Boutique-Beratung in eine Welt eintritt, in der die Produkte das Gleiche tun. Ich wüsste schon im Voraus, dass es da Trägheit geben würde. Jeder Wechsel von einer Evolutionsstufe zu einer anderen (z. B. vom Kunden zum Produkt) verursacht Trägheit durch vergangenen Erfolg. Das ist eines dieser klimatischen Muster. Ich habe diese Veränderung in Abbildung 215 dargestellt +
+
+.Horizont zwei
+[#img-fig215-horizon-two] 
+[caption="Abbildung 215: ",link=https://cdn-images-1.medium.com/max/1600/1*kwAFDXAMZNbdKZGlvdxU8g.jpeg]
+image::1_kwAFDXAMZNbdKZGlvdxU8g.jpeg[Abbildung 215 - Horizont zwei,900,600,align=center]
+
+Aber mit Voraussicht - und ich würde hoffen, dass ich das Mapping bei mir selbst anwenden würde - dann wäre es relativ trivial, die Trägheit vorauszusehen und zu überwinden. Wie sieht es mit Horizont 3 aus? In diesem Fall kommt es zu einer Divergenz. Ich könnte mich zum Beispiel auf die weitere Industrialisierung hin zu einem eher nützlichen Service konzentrieren, der über eine Art API zugänglich ist - Anticipation as a Service oder kurz AaaS. Natürlich würde eine solche Veränderung zusammen mit der Heiterkeit über das Akronym mit einer erheblichen Trägheit einhergehen, die durch jedes bestehende produktbasierte Geschäftsmodell entsteht. Alternativ könnte ich in etwas Neues expandieren, wie z. B. die Verwendung von Doktrinen für die Konkurrenzanalyse oder den Waffenverkauf von kontextspezifischem Gameplay oder sogar ein neuartiges, unerforschtes System höherer Ordnung, das ich noch nicht einmal in Betracht gezogen habe. Ich habe diese divergierenden Horizonte in Abbildung 216 dargestellt +
+
+.Horizont drei
+[#img-fig216-horizon-three] 
+[caption="Abbildung 216: ",link=https://cdn-images-1.medium.com/max/1600/1*G7zWA_puUMbvyB9vj23ltA.jpeg]
+image::1_G7zWA_puUMbvyB9vj23ltA.jpeg[Abbildung 216 - Horizont drei,900,600,align=center]
+
+Fügen wir nun das Modell Pionier - Siedler - Stadtplaner auf der Horizont-3-Karte hinzu (siehe Abbildung 217). Denken Sie daran, dass jedes Team unterschiedliche Einstellungen hat, was Pionier, Siedler und Stadtplaner repräsentieren. Jedes Team baut nicht nur, sondern betreibt und unterhält sein eigenes Werk, bis ein anderes Team es ihm wegnimmt. Wichtig ist, dass Horizont drei aus Stadtplanern oder Siedlern oder Pionieren oder aus allen besteht, je nachdem, wo ich den Schwerpunkt setze +
+
+.PST hinzugefügt zu Horizont drei
+[#img-fig217-pst-added-to-horizon-three] 
+[caption="Abbildung 217: ",link=https://cdn-images-1.medium.com/max/1600/1*XGgZTCSPJxsWAK7h3ciUrQ.jpeg]
+image::1_XGgZTCSPJxsWAK7h3ciUrQ.jpeg[Abbildung 217 - PST zum Horizont hinzugefügt drei,900,600,align=center]
+
+Die Horizonte sind kontextspezifisch. Man kann sie nicht einfach über ein PST-Modell oder sogar das Konzept der Evolution legen, indem man sagt _"Genese ist Horizont drei"_, da es davon abhängt, wo man sich befindet und welche Landschaft einen umgibt. Je nachdem, wo sich das Unternehmen auf der Landkarte befindet, könnte Horizont drei zum Beispiel entweder die Genese einer neuen Handlung sein oder die Verlagerung eines Produkts zu einer Ware oder sogar ein neues Produkt. Das setzt natürlich voraus, dass Sie mit Horizont drei die ferne Zukunft meinen. Wenn Sie bei Horizonten bleiben, die im Großen und Ganzen auf Evolution basieren (d.h. Genese zu Produkt zu Commodity), dann können Sie feststellen, dass Horizont drei manchmal Ihr Kerngeschäft ist, manchmal Ihre Zukunft und manchmal Ihre ferne Zukunft. Horizonte lassen sich nicht gut mit der Evolution vereinbaren und es wird schnell unübersichtlich, es sei denn, Sie akzeptieren eine Terminologie von Horizont eins als aktuell bis Horizont drei als weit in der Zukunft liegend und erlauben, dass sie auf verschiedenen Teilen der Landkarte existieren +
+
+Eine andere Sache, die man beachten sollte, ist, dass die Horizonte oft im Großen und Ganzen vorhersehbar sein können. Das ist es, was ich am Horizontmodell unzureichend finde, denn ohne eine Landkarte und das Erlernen gemeinsamer wirtschaftlicher (aka klimatischer) Muster wird es allzu leicht, das Offensichtliche zu übersehen. Aus diesem Grund finde ich die drei Horizonte als übergeordnetes Konzept nützlich, aber in der Praxis allein insgesamt schwach. Es hilft mir auch nicht, angemessen mit Trägheit oder Altlasten umzugehen.
+
+== Das Problem des Vermächtnisses
+
+In xref:#chapter-9-charting-the-future[Kapitel 9] haben wir die klimatischen Muster der Ko-Evolution untersucht, d. h. Praktiken können sich mit der Evolution einer Aktivität mitentwickeln. Normalerweise gibt es eine gewisse Form von Trägheit bei einer sich verändernden Aktivität, und diese kann durch die Ko-Evolution von Praktiken noch verstärkt werden. In Abbildung 218 habe ich das ursprüngliche Diagramm aus dem Kapitel genommen und einige Trägheitsbarrieren für den Wechsel vom Produkt zum Nutzen sowohl für den Computer als auch für die Plattform hinzugefügt +
+
+.Wechsel von Compute und Plattform
+[#img-fig218-change-of-compute-and-platform] 
+[caption="Abbildung 218: ",link=https://cdn-images-1.medium.com/max/1600/1*ekJklnFJGBdg_l-lOU2BuA.jpeg]
+image::1_ekJklnFJGBdg_l-lOU2BuA.jpeg[Abbildung 218 - Wechsel von Compute und Plattform,900,600,align=center]
+
+Wie bereits besprochen, gibt es viele Formen, die Trägheit annehmen kann. Die Frage, die ich uns stellen möchte, ist jedoch, was in dieser Karte als "Legacy" bezeichnet wird Die beiden offensichtlichen Bereiche für Legacy sind diejenigen, die hinter Trägheitsbarrieren gefangen sind, z. B. Compute als Produkt und Plattform als Produkt (d. h. Plattformstapel). Der nächste offensichtliche Bereich sind die damit verbundenen Praktiken, d.h. die besten architektonischen Praktiken, die mit Compute as a Product verbunden sind. Was am Anfang nicht so offensichtlich ist, ist das Problem, dass mit der Entwicklung von Komponenten, die Systeme höherer Ordnung ermöglichen, die Systeme niedrigerer Ordnung weniger sichtbar und für die meisten von uns veraltet werden. Die Abteilungen, die in den meisten Unternehmen Telefonzentralen betrieben, waren einst ein sehr wichtiger und oft sichtbarer Aspekt der Kommunikation. In vielen Unternehmen ist diese Tätigkeit entweder in den Empfang oder in die Callcenter gewandert, so wie die E-Mail die Poststelle verdrängt hat. Wir schicken uns immer noch Briefe (mehr als je zuvor), aber sie sind digital. In der obigen Abbildung wird die Rolle der Komponenten unterhalb der Plattformebene immer weniger sichtbar. Der Umgang mit und die Verwaltung von Infrastruktur wird für die meisten Unternehmen so altmodisch werden wie heute die Telefonzentrale +
+
+Daher wäre ein weiterer Bereich der Legacy die Praktiken und Aktivitäten unterhalb der Plattformschicht, zu denen Konzepte wie DevOps gehören. Im Jahr 2017 stößt eine solche Aussage tendenziell auf eine starke negative Reaktion. Die meisten reagieren mit der gleichen Form von Trägheit wie diejenigen, die 2006 gegen Cloud reagierten. Viele werden behaupten, dass DevOps mehr als nur Infrastruktur ist, da es um Entwicklung und Kultur geht. Je nachdem, von wie weit in der Zukunft Sie dies lesen, werden Sie wahrscheinlich ziemlich überrascht sein und noch wahrscheinlicher werden Sie noch nie von DevOps gehört haben +
+
+Wie bei allen solchen Dingen war DevOps ein Kind und eine Reaktion gegen die vorherrschenden Managementmethoden. Es übernahm Konzepte aus früheren Denkschulen (z. B. ITIL), einschließlich iterativer Ansätze, Verwendung von Komponenten, Konfigurationsmanagement, Service-Ansatz, Fokus auf Benutzer und Messung, während es sich gleichzeitig von diesen distanzierte. Sie fügte ihr eigenes Dogma hinzu und schuf einen eigenen Stamm. Das Gleiche wird im Plattformbereich passieren, eine neue Denkschule wird entstehen, die DevOps kopiert und darauf aufbaut, aber jegliche Beziehung dazu leugnet. DevOps wird zu "_was meine Mama und mein Papa machen_" werden, da das rebellische Kind seine Unabhängigkeit erklärt und jegliches Erbe von den Vorgängern leugnet. Viele der Gene von DevOps werden in dieser neuen Generation zu finden sein (auch wenn sie es selten zugeben werden, da sie DevOps als eine Art Strohmann-Version von sich selbst darstellen), einige der Gene werden rezessiv und neue Gene werden dominieren +
+
+Ich habe diese Hauptbereiche des Erbes auf unserer Karte in Abbildung 219 eingezeichnet. Dazu habe ich die Konzepte der Trägheit verwendet und wie industrialisierte Komponenten nicht nur Systeme höherer Ordnung ermöglichen, sondern selbst weniger sichtbar werden. Außerdem habe ich eine typische PST-Struktur eingefügt. Wie wir sehen können, existieren viele der Legacy-Bereiche innerhalb der Siedler und der Stadtplanungsteams +
+
+.Hinzufügen von Altlasten (aus Verbrauchersicht)
+[#img-fig219-adding-legacy-a-consumer-perspective] 
+[caption="Abbildung 219: ",link=https://cdn-images-1.medium.com/max/1600/1*DeV2VHz3_pe_FpBBAZLmXw.jpeg]
+image::1_DeV2VHz3_pe_FpBBAZLmXw.jpeg[Abbildung 219 - Hinzufügen von Altlasten (aus Sicht eines Verbrauchers),900,600,align=center]
+
+Es gibt auch eine Perspektive, die hier zu berücksichtigen ist. Ich betrachte das aus dem Blickwinkel von jemandem, der Rechenleistung konsumiert. Wenn ich ein großer Anbieter bin, egal ob Plattform in der Zukunft oder Utility Compute heute, dann ist vieles davon definitiv kein Legacy, genauso wenig wie es Stromerzeugungssysteme für Stromanbieter sind. Aus der Perspektive eines großen Anbieters würde Legacy dann eher wie Abbildung 220 aussehen, d. h. es besteht aus Aktivitäten (und damit verbundenen Praktiken), die hinter Trägheitsbarrieren stecken, aber nicht aus den Auswirkungen von Systemen niedrigerer Ordnung, die immer weniger sichtbar werden. Was für andere (d. h. Verbraucher) zunehmend unsichtbar wird, ist für Anbieter immer noch sehr sichtbar +
+
+.Vermächtnis aus der Sicht eines Anbieters
+[#img-fig220-legacy-from-a-provider-perspective] 
+[caption="Abbildung 220: ",link=https://cdn-images-1.medium.com/max/1600/1*ufRSuPjcNv2GMnjOC4HqtA.jpeg]
+image::1_ufRSuPjcNv2GMnjOC4HqtA.jpeg[Abbildung 220 - Legacy aus Providersicht,900,600,align=center]
+
+Trotz der unglücklichen Tendenz der Menschen, die Stadtplanung Gruppen mit Legacy zu assoziieren, sollte es aus dem oben genannten klar sein, dass dies nicht der Fall ist. Beim Cloud Computing ging es um die Industrialisierung von Stadtplanern zu Versorgungsdiensten. Das jüngste Erbe sind die Produktmodelle der Vergangenheit, ein Reich der Siedler. Wenn wir die Verbraucherperspektive aus Abbildung 219 einnehmen, dann ist die Zukunft eine Mischung aus Siedlern, die Anwendungen bauen, Pionieren, die neue Praktiken entdecken, die Finanzen mit Entwicklung kombinieren (während sie jegliches Erbe von DevOps verleugnen), und Stadtplanern, die fleißig die Imperien der Skala um Plattform-Utility-Services schaffen. Diese Zukunft habe ich in Abbildung 221 dargestellt und sie ist der Ort, an dem Unternehmen 2017 investieren sollten +
+
+.Die Zukunft, aus Sicht der Verbraucher
+[#img-fig221-the-future-from-a-consumer-perspective] 
+[caption="Abbildung 221: ",link=https://cdn-images-1.medium.com/max/1600/1*Qyo6Wrt-GEO52Ko3sIdINA.jpeg]
+image::1_Qyo6Wrt-GEO52Ko3sIdINA.jpeg[Abbildung 221 - Die Zukunft aus Verbrauchersicht,900,600,align=center]
+
+Es ist wichtig zu beachten, dass Legacy überall sein kann. Es kann durch eine kundenspezifische Aktivität verursacht werden, die sich nicht weiterentwickelt hat, oder durch ein produktbasiertes Unternehmen in einer Versorgungswelt. Legacy ist einfach die Folge eines Versäumnisses, sich weiterzuentwickeln, und es wird nicht mit einer Gruppe wie Pionieren, Siedlern oder Stadtplanern in Verbindung gebracht, sondern mit allen. Wenn es darum geht, das Erbe zu verwalten, dann ist es wirklich wichtig, diese Punkte des Wandels und die Auswirkungen der Co-Evolution zu verstehen. Das wird Ihnen zur zweiten Natur werden, aber es lohnt sich, es zu üben. Es gibt eine weitere Perspektive jenseits der drei Horizonte, jenseits von Trägheit und Vermächtnis, die wir ebenfalls diskutieren müssen. Es ist die Perspektive der Porterschen Kräfte.
+
+== Am Gepäckträger
+
+Für diejenigen, die mit den fünf Kräften von Porter nicht vertraut sind, handelt es sich um die Rivalität innerhalb der Branche, die Bedrohung durch neue Marktteilnehmer, die Bedrohung durch Substitution und die Verhandlungsmacht der Lieferanten gegenüber den Verbrauchern. In diesem Abschnitt werden wir diese fünf Kräfte durch die Linse des Friedens-, Kriegs- und Wunderzyklus untersuchen (siehe xref:#chapter-9-charting-the-future[chapter 9]) +
+
+In der Zeit des *Wunders* ist es ein Kampf, sich zu etablieren. Das Feld ist noch nicht erschlossen und es gibt keine "_Neueinsteiger_", da es keine etablierten Figuren gibt, gegen die man _"Neueinsteiger"_ sein könnte. Alles ist neu, unsicher und unerforscht. Es ist der wilde Westen, es gibt Drachen und die Heimat von gespaltenen Infinitiven. Die Verbraucher haben die Macht, und sie sind es, die entscheiden, ob diese Industrie Erfolg haben wird oder nicht, obwohl sie anfangs nicht wissen, ob sie es brauchen +
+
+In der Zeit des *Friedens* gibt es ein ständiges Tauziehen zwischen Anbieter- und Nachfragemacht um die produzierten Produkte. Die sich entwickelnden Giganten sind normalerweise gut vor neuen Marktteilnehmern in einem Spiel des relativen Wettbewerbs geschützt. Die Ausnahme ist die gelegentliche Bedrohung durch Substitution. Es ist diese Substitution durch ein anderes Produkt, die tendenziell der dominierende Faktor ist +
+
+In der Zeit des *Krieges* bedrohen neue Marktteilnehmer, die eine industrialisiertere Form des Handelns anbieten, die bestehenden Giganten, die hinter Trägheitsbarrieren feststecken. Es wird zu einem Überlebenskampf für diese Giganten und sie sind oft schlecht gerüstet. Es geht nicht darum, dass ein Produkt durch ein anderes Produkt ersetzt wird, sondern dass eine ganze Branche auf industrialisiertere Formen umgestellt wird. Es wird oft angenommen, dass der Wandel hin zur Versorgung eine Zentralisierung bedeutet, aber das ist nicht der Fall +
+
+Während das Zusammenspiel aller Konsumenten (Nachfragewettbewerb) und aller Anbieter (Angebotswettbewerb) den Evolutionsprozess vorantreibt, hängt die Frage, ob eine bestimmte Aktivität oder ein Datensatz zentralisiert oder dezentralisiert wird, von den Handlungen der einzelnen Akteure (Anbieter und Konsumenten) in diesem Markt ab. Zum Beispiel wäre es für die Hardware-Hersteller relativ trivial gewesen, Amazon-Klone und einen Preiskrieg im IaaS-Raum um 2008-2010 zu schaffen, um den Markt zu fragmentieren, indem sie die Nachfrage über die Fähigkeit von Amazon hinaus steigern, aufgrund der Beschränkung, Rechenzentren zu bauen, zu liefern. Ich hatte genau diese Gespräche mit Dell, IBM und HP in den Jahren 2008 und 2009. Ich sagte ihnen sogar, dass ihre eigene Trägheit gegen diese notwendige Veränderung ankämpfen würde und sie die Existenz des punktuellen Gleichgewichts leugnen würden, bis es zu spät wäre. Die Tatsache, dass sie nicht gehandelt haben und ihre eigene Branche verloren haben, ist ausschließlich die Schuld ihrer eigenen Führungskräfte und auch einer der Hauptfaktoren, warum es zu einer Zentralisierung im IaaS-Bereich gekommen ist +
+
+Die Zentralisierung hängt von den Handlungen bestimmter Akteure ab (in diesem Fall von der Untätigkeit der Hardware-Lieferanten und Hosting-Unternehmen). In der Zukunft kann dies in der Tat von zentral zu dezentral wechseln oder ein Gleichgewicht zwischen beiden finden (wie bei der Stromversorgung und der Eigenerzeugung). Ein solcher Wechsel der Produktionsmittel wird jedoch die Schnittstellen selbst kaum verändern, d.h. eine Verschiebung von zentraler zu Eigenerzeugung bedeutet keine Änderung der Spannung oder Frequenz für die häusliche Stromversorgung. Die zukünftigen Schnittstellen der Datenverarbeitung sind bereits definiert +
+
+Bei den Kräften von Porter ist zu beachten, dass sich das Gleichgewicht zwischen diesen Kräften bei der Entwicklung einer Komponente tendenziell verändert. Es ist auch nicht statisch innerhalb einer Evolutionsstufe - zum Beispiel das Jo-Jo zwischen Zentralisierung und Dezentralisierung mit einem entsprechenden Jo-Jo zwischen der Verhandlungsmacht von Lieferanten und Konsumenten. Als allgemeine Orientierungshilfe habe ich in Abbildung 222 die dominantesten Kräfte dargestellt, die Sie wahrscheinlich antreffen werden +
+
+.Porters Kräfte und Entwicklung
+[#img-fig222-porters-forces-and-evolution] 
+[caption="Abbildung 222: ",link=https://cdn-images-1.medium.com/max/1600/1*s2-9AX4V48wq8uh2VQC2wg.jpeg]
+image::1_s2-9AX4V48wq8uh2VQC2wg.jpeg[Abbildung 222 - Porters Kräfte und Entwicklung,900,600,align=center]
+
+== Kanonisch untersuchen
+
+Mit einem grundlegenden Verständnis der Horizonte, der Porterschen Kräfte und des Vermächtnisses können wir nun das Geschäft von Canonical untersuchen. Der erste Horizont (Kerngeschäft) bezog sich auf den Verkauf von Support für das Server-OS (Betriebssystem). Der Bereich Compute (Rechenleistung) entwickelte sich jedoch immer mehr zur Bereitstellung von Dienstprogrammen. Daher war der Support für das Server-Betriebssystem - mit Ausnahme der großen Cloud-Anbieter - wahrscheinlich zu einem Altgeschäft geworden. Stattdessen mussten wir uns auf Horizont zwei und die kommerzielle Nutzung von Gastbetriebssystemen auf diesen großen virtualisierten Computing-Umgebungen konzentrieren. Uns war klar, dass Unternehmen diesen Veränderungen träge gegenüberstehen würden, und da es sich um einen Wechsel von Produkt- zu Commodity-Formen handelte, war es wahrscheinlich, dass es sich um ein punktuelles Gleichgewicht (eine Periode schneller Veränderungen) handeln würde. Wir waren uns auch darüber im Klaren, dass die größten Bedrohungen in diesem Bereich neue Marktteilnehmer sein würden, und angesichts des Stands der strategischen Spielregeln in vielen Unternehmen würden wir wahrscheinlich eine Zentralisierung erleben. Ich habe diese Konzepte in die Karte in Abbildung 223 eingezeichnet +
+
+.Der Markt im Wandel
+[#img-fig223-the-changing-market] 
+[caption="Abbildung 223: ",link=https://cdn-images-1.medium.com/max/1600/1*2_Yg_bioLdZvY32yOSz23g.jpeg]
+image::1_2_Yg_bioLdZvY32yOSz23g.jpeg[Abbildung 223 - Der Markt im Wandel,900,600,align=center]
+
+Wir waren uns auch darüber im Klaren, dass sich ko-evolvierte Praktiken herausbilden würden, dass wir wahrscheinlich keine signifikanten Einsparungen in der IT sehen würden, sondern stattdessen eine erhöhte Entwicklungsaktivität und dass ein weiterer Horizont, die Verschiebung der Plattform vom Produkt zum Dienstprogramm, möglich war. Ich habe diese Horizonte in Abbildung 224 eingezeichnet +
+
+.Die Horizonte
+[#img-fig224-the-horizons] 
+[caption="Abbildung 224: ",link=https://cdn-images-1.medium.com/max/1600/1*nT5Y3bPP-0nCAmZJMgygwg.jpeg]
+image::1_nT5Y3bPP-0nCAmZJMgygwg.jpeg[Abbildung 224 - Die Horizonte,900,600,align=center]
+
+Wir haben verstanden, dass es wichtig ist, sich schnell zu bewegen und das Territorium des Gastbetriebssystems zu erobern. Um dabei zu helfen, mussten wir auch diejenigen unterstützen, die Anwendungen entwickeln oder Tools um diese mitentwickelten Praktiken herum aufbauen. Wenn wir Beispiele für Plattformen fanden, die in diesem Bereich spielen, mussten wir auch in diese investieren. Wir waren uns darüber im Klaren, dass viele potenzielle Kunden eine gewisse Trägheit an den Tag legen würden, weshalb wir eine Art Übergangs- oder Private-Cloud-Angebot bereitstellen mussten, auch wenn dies nicht mehr tat, als die Diskussion in Gang zu bringen +
+
+Wir wussten auch, dass unsere Konkurrenten Trägheit hatten. Sobald ich herausfand, dass die Vertriebsmitarbeiter von Red Hat Boni auf der Basis von Satellitenabonnements (für Sicherheitsupdates) erhielten, machte ich mich schnell daran, die Botschaft zu verbreiten, dass Sicherheit in der Cloud "_kostenlos_" sein sollte. Es gibt nichts Besseres, als jemandem mit seinem Bonus zu drohen, um ihn dazu zu bringen, sich gegen eine Veränderung zu wenden. Unser Fokus war innerhalb meiner Kabale klar. Mark hat einen erstaunlichen Job gemacht, dies zum Fokus des gesamten Unternehmens zu machen. Rick und andere machten sich daran, den technischen Aufwand zu betreiben, um es zu verwirklichen. Steve gab mir all die Feuerkraft und Deckung, die ich brauchte. Ich für meinen Teil konzentrierte mich hauptsächlich darauf, die Cloud-Botschaft von Ubuntu zu fördern, mich in der Community zu engagieren, Ziele hervorzuheben, die an Bord zu bringen waren, und zu versuchen, Leute davon abzuhalten, Dinge, die die Community tat, umzubauen oder ihnen im Weg zu stehen +
+
+Eine Skizze des Spiels finden Sie in Abbildung 225 und das Ergebnis in Abbildung 226. Innerhalb von achtzehn Monaten entwickelte sich Ubuntu von einem kleinen Teil des Betriebssystems zur Dominanz des Cloud-Gastbetriebssystems. Mein Anteil war eine kleine, aber entscheidende Rolle, und ich muss den großartigen Teams bei Canonical und in der Community dafür applaudieren, dass sie das geschafft haben. Ein kleines Unternehmen von dreihundert Leuten nahm es mit zwei riesigen Horden auf, aber im Gegensatz zu den Spartanern haben wir dieses Mal gewonnen. Mein stolzester Moment war, als ich einen CIO darüber sprechen hörte, dass _"die Zukunft ganz RedHat war und dann plötzlich ganz Ubuntu"_. Daran hatte ich einen kleinen Anteil +
+
+.Unser Fokus
+[#img-fig225-our-focus] 
+[caption="Abbildung 225: ",link=https://cdn-images-1.medium.com/max/1600/1*b1hrh-SMHMdMilqVdq0rjQ.jpeg]
+image::1_b1hrh-SMHMdMilqVdq0rjQ.jpeg[Abbildung 225 - Unser Fokus,900,600,align=center]
+
+.Die Ergebnisse
+[#img-fig226-the-results] 
+[caption="Abbildung 226: ",link=https://cdn-images-1.medium.com/max/1600/1*CFRRNZgJPsuai-Nr2dkZuw.jpeg]
+image::1_CFRRNZgJPsuai-Nr2dkZuw.jpeg[Abbildung 226 - Die Ergebnisse,900,600,align=center]
+
+Ich höre oft Leute darüber reden, dass Canonical Glück hatte, nun, es gibt immer ein gewisses Element von Glück, aber die Schritte waren absichtlich. Natürlich können die Leute auch sagen, dass das Timing Glück war, aber auch damit liegen sie falsch. Ich hatte eine helfende Hand beim Timing, dank Gartner. Wahrscheinlich ist es ihnen gar nicht bewusst, aber ich denke, es ist es wert, es zu erklären.
+
+== Zur Frage des Timings
+
+Ich bin kein großer Fan von Gartner, aber Abbildung 227 ist eines der nützlichsten Diagramme, die sie je erstellt haben. Es ist ein Hype-Zyklus von aufkommenden Technologien, der 2008 erstellt wurde. Es verwendet die frühere y-Achse von *Sichtbarkeit*, die später zu *Erwartungen* wurde. Wie kann sich die Achse ändern, während der Graph derselbe bleibt? Ah, das ist das Schöne daran, aber zuerst ein bisschen mehr Hintergrund +
+
+.Gartner Neue Technologien, 2008
+[#img-fig227-gartner-emerging-technologies-2008] 
+[caption="Abbildung 227: ",link=https://cdn-images-1.medium.com/max/1600/1*EYdJNB1kmtvYCJevjIATlQ.jpeg]
+image::1_EYdJNB1kmtvYCJevjIATlQ.jpeg[Abbildung 227 - Gartner emerging technologies 2008,900,600,align=center]
+
+Während meiner Zeit in der Wildnis vor Canonical hatte ich mich mit verschiedenen Möglichkeiten befasst, die Auswirkungen der Evolution zu messen. Eines der Probleme, auf die ich gestoßen war, war, dass die Evolution einer einzelnen Handlung zwei Wellen von Gelegenheiten erzeugt. Eine dieser Wellen konzentriert sich auf den *differentiellen* Wert (d.h. es ist etwas, das Sie haben, aber ich nicht) und die zweite Welle dreht sich um den *operativen* Wert (d.h. wir beide bieten dies an, aber Sie tun es effizienter). Beide Wellen scheinen ein Lernelement zu haben und dann einen starken Rückgang, wenn sich die Veränderung verbreitet und weiterentwickelt. Ich habe Beispiele für diese Wellen in Abbildung 228 dargestellt +
+
+.Ein Beispiel für verschiedene Wertewellen
+[#img-fig228-an-example-of-different-waves-of-value] 
+[caption="Abbildung 228: ",link=https://cdn-images-1.medium.com/max/1600/1*a3BKaG5jEuSqgMnxsSak9w.jpeg]
+image::1_a3BKaG5jEuSqgMnxsSak9w.jpeg[Abbildung 228 - Ein Beispiel für verschiedene Wellen des Wertes,900,600,align=center]
+
+Natürlich ist die Chance nur ein Teil der Gleichung. Es gibt Volumeneffekte und die Kosten, die besonders bei der Entwicklung von etwas Neuem anfallen. Es gibt auch ein Risiko, da der unerforschte Raum von Natur aus unsicher ist. Ich habe jedoch eine verallgemeinerte Nutzenkurve entwickelt, die für den Differenzwert in Abbildung 229 dargestellt ist. Eine fast identische Nutzenkurve scheint es für den operativen Wert zu geben, aber das tritt erst viel später in der Evolution auf und hängt mit den mitentwickelten Praktiken zusammen, die entstehen +
+
+.Eine Leistungskurve für Differenzwert
+[#img-fig229-a-benefit-curve-for-differential-value] 
+[caption="Abbildung 229: ",link=https://cdn-images-1.medium.com/max/1600/1*6UNeS6tx3Sj6hFznOFfKmQ.jpeg]
+image::1_6UNeS6tx3Sj6hFznOFfKmQ.jpeg[Abbildung 229 - Eine Leistungskurve für Differenzwert,900,600,align=center]
+
+Von der Nutzenkurve aus betrachtet, geht es in den frühen Stadien der Genese nur um Investitionen. Wenn es sich weiterentwickelt, sinken die Produktionskosten und wir beginnen, einen Teil des Nutzens zu realisieren. Wir befinden uns immer noch in der Phase der kundenspezifischen Fertigung, andere fangen an zu kopieren, aber im Allgemeinen sinken die Produktionskosten schnell genug, um jeden Differenzverlust durch Kopieren zu überwinden. Irgendwann sind die Produktionskosten niedrig genug und die Aktivität definiert genug, dass jemand ein Produkt herstellt. Auf der einen Seite sinken die Kosten für die Implementierung, aber leider sinkt auch der Differenzwert schneller, je mehr Unternehmen tatsächlich implementieren. Die Modelle, die ich entwickelt habe, hatten alle Variationen dieser Form. Ich kenne mich mit den Daten nicht gut genug aus, sehen Sie es also eher als ein mentales Modell und eine mögliche Kuriosität +
+
+Während ich diesen Bereich erforschte, wurde ich dann von Timing-Fragen fasziniert. Stellen wir uns vor, wir haben kürzlich ein Whitepaper über eine wunderbare neue Aktivität gelesen. Diese Aktivität wird als vorteilhaft beschrieben, aber sie verursacht auch Kosten. Bis ich dazu komme, die Aktivität zu implementieren, wird sie sich wahrscheinlich schon weiterentwickelt haben. Sie bietet vielleicht einen anderen Nutzen als den, den ich erwartet habe, d. h. sie kostet weniger, weil es sich um ein Produkt handelt, aber es gibt kaum einen Unterschied, da alle anderen das auch tun. Um diesen Punkt zu verdeutlichen, habe ich die Entwicklung einer Handlung auf der Nutzenkurve in Abbildung 230 eingezeichnet +
+
+.Wechselnder Nutzen mit Evolution und Implementierung
+[#img-fig230-changing-benefit-with-evolution-and-implementation] 
+[caption="Abbildung 230: ",link=https://cdn-images-1.medium.com/max/1600/1*BPcAsG7IuYe3NBjUQTdM8A.jpeg]
+image::1_BPcAsG7IuYe3NBjUQTdM8A.jpeg[Abbildung 230 - Veränderter Nutzen durch Evolution und Implementierung,900,600,align=center]
+
+Ich modellierte dann dieses Delta zwischen dem, was ich erwartete, und dem, was ich im Laufe der Zeit bekam. Das Modell, das ich verwendete, machte viele schreckliche Annahmen, es ist unangenehm nahe an Voodoo und ist ungefähr so solide wie ein Turm aus Gelee. Irgendwann in der Zukunft werde ich vielleicht darauf zurückkommen, aber normalerweise erwähne ich diesen kleinen Abstecher nicht. Allerdings gab es eine bemerkenswerte Sache über die Delta-Erwartungskurve im Zeitverlauf - sie ähnelt einem Gartner-Hype-Zyklus - siehe Abbildung 231 +
+
+.Delta-Erwartung über die Zeit (die Erwartungskurve)
+[#img-fig231-delta-expectation-over-time-the-expectation-curve] 
+[caption="Abbildung 231: ",link=https://cdn-images-1.medium.com/max/1600/1*OGs31LiuXewOY1XAKbEyKQ.jpeg]
+image::1_OGs31LiuXewOY1XAKbEyKQ.jpeg[Abbildung 231 - Delta-Erwartung über die Zeit (die Erwartungskurve),900,600,align=center]
+
+Wir haben den gleichen Gipfel der überhöhten Erwartung und den gleichen Tiefpunkt der Täuschung. Meine erste Reaktion war Entsetzen +
+Die Evolutionskurve, auf der das Mapping aufgebaut ist, verwendet Ubiquität versus Gewissheit. Wenn ich von Gartners Hype-Zyklus zur Evolution modellieren kann, dann kann ich die Punkte auf einem Hype-Zyklus nehmen und genau messen, wo sich etwas auf der Achse der Gewissheit der Evolution befindet. Für Dinge, die unsicher sind, sollte dies unmöglich sein, da die Fähigkeit, etwas, das unsicher ist, genau zu messen, der Stoff ist, aus dem Zauberer sind. Meine erste Reaktion war, dass Gartners Hype-Zyklus beweist, dass die Evolution falsch ist. Ich war zu diesem Zeitpunkt etwas perplex, vor allem, da ich das Mapping so nützlich gefunden hatte. Glücklicherweise traf ich mich mit einem Freund, der mich auf ein großes Loch in meiner Argumentation hinwies. Ich ging davon aus, dass Gartners Hype Cycle auf der Messung einer physikalischen Eigenschaft basierte. Wenn das nicht der Fall war, wenn es nur eine aggregierte Meinung war (von Beratern, Analysten oder der Industrie), dann gibt es keine Messung des Ungewissen, da es nur eine Meinung ist. Es ist eine Meinung darüber, wo etwas ist, nicht eine Messung dessen, wo es tatsächlich ist. Wie ich später herausfand, ist der Hype-Zyklus eine subjektive Meinung +
+
+Neben der stillen Erleichterung darüber, dass ich noch nicht widerlegt hatte, was ich für nützlich hielt, eröffnete dies auch eine neue Möglichkeit. Ich habe zwei Nutzenkurven - eine für den Differenzwert und eine für den Betriebswert. Beide haben ein gemeinsames Muster von Erwartung und Zeit. Wenn ich eine sich entwickelnde Komponente betrachte, dann kann die Stelle, an der sie in den frühen Stadien auf der Erwartungskurve für den differentiellen Wert erscheint, die gleiche Stelle sein, an der sie auf der Erwartungskurve für den betrieblichen Wert erscheint, wenn sie weiter entwickelt ist. Siehe Abbildung 232 +
+
+.Entwicklung eines Gesetzes über Differential- und Betriebserwartungskurven
+[#img-fig232-evolution-of-an-act-on-differential-and-operational-expectation-curves] 
+[caption="Abbildung : ",link=https://cdn-images-1.medium.com/max/1600/1*XhlJQ2VhDfDMXc0Dr0eJhw.jpeg]
+image::1_XhlJQ2VhDfDMXc0Dr0eJhw.jpeg[Abbildung - ,900,600,align=center]
+* Abb. 232 - Entwicklung einer Handlung auf Differential- und Betriebserwartungskurven.*
+
+Ich hatte auch ein schwaches Signal, indem ich Publikationstypen benutzte, die erkennen konnten, wann die Dinge wahrscheinlich beginnen, sich zu industrialisieren und in einen Krieg einzutreten (siehe xref:#chapter-9-charting-the-future[chapter 9]). Ich habe die letzte Analyse dazu, die ich 2014 durchgeführt habe, in Abbildung 233 wiedergegeben. Was ich Ihnen aufzeigen möchte, ist, dass die Verschiebung vom Produkt zum Nutzen für die Computerinfrastruktur im Jahr 2014 bereits ein Krieg war. Wohingegen der Krieg um den 3D-Druck und die Nutzung von kommodifizierten 3D-Druckern noch in weiter Ferne liegt +
+
+.Wann ist der Krieg wahrscheinlich?
+[#img-fig233-when-is-the-war-likely] 
+[caption="Abbildung 233: ",link=https://cdn-images-1.medium.com/max/1600/1*zQmhchDG7Ycev1u82241KQ.jpeg]
+image::1_zQmhchDG7Ycev1u82241KQ.jpeg[Abbildung 233 - Wann ist der Krieg wahrscheinlich?,900,600,align=center]
+
+Im Jahr 2008 wusste ich bereits (aufgrund meiner schwachen Signale), dass wir in die Kriegsphase für die Computing-Infrastruktur eintreten, während der 3D-Druck noch eine lange Zeit vor sich hat, bevor er zu industrialisieren beginnt. Ich vermutete auch, dass sowohl eine relativ neue Aktivität (z. B. 3D-Druck) als auch eine sich industrialisierende Aktivität (Cloud) an derselben Stelle auf zwei verschiedenen Erwartungskurven erscheinen könnten - eine für den Differenzialwert und eine für den Betriebswert (Abbildung 232 oben). Schauen wir uns also diesen Gartner-Hype-Zyklus noch einmal an und heben wir zwei Komponenten hervor - Cloud Computing und 3D-Druck +
+
+.Cloud Computing und 3D-Druck
+[#img-fig234-cloud-computing-and-3d-printing] 
+[caption="Abbildung 234: ",link=https://cdn-images-1.medium.com/max/1600/1*jd8aGJaoleYZhHz_6o0UVA.jpeg]
+image::1_jd8aGJaoleYZhHz_6o0UVA.jpeg[Abbildung 234 - Cloud Computing und 3D-Druck,900,600,align=center]
+
+Sie erschienen beide ungefähr an der gleichen Stelle. Das sagte mir etwas, das ich später als sehr nützlich empfunden habe. Der Hype Cycle von Gartner unterscheidet nicht zwischen differenziellem und operativem Wert, da beide auf der gleichen Kurve liegen. Warum ist das also wichtig? Nun, im Fall von Cloud Computing, das die Industrialisierung des Computing darstellt und bei dem es nur um den operativen Wert geht, sollte man im Jahr 2008 "_all in_" gehen. Wenn man sich in der frühen Phase dieser Erwartungskurve befindet, verstärkt das nur den Punkt, dass die Menschen von einer Veränderung lernen, bei der man unbedingt ein First Mover sein möchte. Das Letzte, was Sie tun wollen, ist zu warten, bis das Plateau der Produktivität erreicht ist, denn dann wäre der Krieg schon längst vorbei. Wenn Sie ein Anbieter sind, wäre das der Vorhang. Gartner weist sogar darauf hin, dass die Zeit bis zur Mainstream-Akzeptanz der Cloud schnell vergeht (hellblauer Kreis) +
+
+Im Falle des 3D-Drucks sollten Sie jedoch abwarten oder ein "Fast Follower" sein. Bis zur Industrialisierung ist es noch ein langer Weg, und es gibt eine ganze Produktphase, die es zu durchlaufen gilt. Tatsächlich wird der 3D-Druck das Plateau der Produktivität erreichen und eine relativ breite Akzeptanz als Produkt erfahren, lange bevor er industrialisiert wird. Irgendwann in der Zukunft (2025-2030), wenn er sich zu industrialisieren beginnt, wird er wahrscheinlich wieder in der Technologie auftauchen, meist unter einem etwas anderen Namen. Wenn es um 3D-Druck geht, könnte man ein wenig warten und sich im Produktbereich engagieren oder viel länger warten, bis der "_Krieg_" in dieser Branche beginnt, und dann müsste man "_all in_" gehen +
+
+Zwei Punkte - Cloud Computing und 3D-Druck - an fast genau der gleichen Position des Hype-Zyklus erforderten radikal unterschiedliche Ansätze für Investitionen und Strategien. Der eine war "_all in_", der andere war "_abwarten und sehen_". Da es sich um eine aggregierte Meinung handelt, finde ich den Hype-Zyklus recht nützlich, solange ich zuerst herausfinde, in welchem Stadium der Entwicklung sich etwas befindet. Ich spreche oft mit CIOs, die mir sagen, dass sie investieren, wenn sich etwas in der Phase der Erleuchtung befindet. Das ist ein ziemlich vernünftiger Weg, um jeden größeren technologischen Krieg in der Wirtschaft zu verlieren +
+
+Für mich hat dieser Hype-Zyklus im Jahr 2008 dazu beigetragen, die Botschaft zu verstärken, dass wir "all in" gehen mussten, es war eine Landnahme für dieses Gebiet. Ich tröstete mich auch damit, dass viele meiner Konkurrenten wahrscheinlich genau denselben Hype-Zyklus lasen und dachten, sie hätten Zeit. Lassen Sie uns diesen Punkt betonen, ich bin "_all in_" gegangen, als die Konkurrenten dachten, sie hätten Zeit - es ist ein "help yourself to the future"-Buffet, bei dem niemand sagt, dass man nicht 7 Portionen haben kann, weil alle anderen das Datum falsch eingeschätzt haben. Danke, Gartner, Sie haben wahrscheinlich keine Ahnung, wie sehr Sie mir geholfen haben. Viel Glück beim nächsten Mal IBM, HP, Dell, RedHat ... vorausgesetzt, sie überleben, was kommen wird +
+
+Wie auch immer, das obige Gameplay war 2008 bis Anfang 2010. Mitte 2010, nachdem ich so ziemlich den gesamten Markt erobert hatte (ein Bereich, der seitdem massiv gewachsen ist, mit Ubuntu als "Platzhirsch" im Jahr 2016), ging ich dann zurück in die Forschung. Meine Arbeit war getan. Natürlich habe ich Mark und anderen eine Reihe von Spielereien hinterlassen, die sie nutzen können, zusammen mit einem speziellen Fokus auf den Plattformbereich. Ich bin nicht unbedingt mit allen Schritten einverstanden, die sie gemacht haben, aber ich respektiere ihre Entscheidungen und sie spielen ein gutes Spiel. Ich nehme an, das ist der eigentliche Punkt - sie spielen das Spiel, nicht ich, aber in irgendeiner kleinen Weise habe ich ihnen geholfen, sich zu verbessern. Bevor wir in den Strategiebereich eintauchen, sollten wir einen Blick auf einen anderen Teil meiner Reise in die Regierung werfen. Lassen Sie uns also mutig in das nächste Kapitel gehen.
+

@@ -1,0 +1,789 @@
+[#chapter-11-a-smorgasbord-of-the-slightly-useful]
+
+= Kapitel 11 - Ein Sammelsurium des leicht Nützlichen
+
+_"Hier ist eine, die ich vorhin gemacht habe"_ ist das Grundnahrungsmittel von Fernsehsendungen, wenn die Möglichkeit besteht, dass etwas schief gehen könnte. Vorführungen sind immer ein riskantes Geschäft. Im Fall dieses Buches ist es doppelt so riskant. Ich möchte Sie auf ein Szenario loslassen, aber leider bin ich nicht einmal da, um die Dinge zu korrigieren, wenn alles schief geht. Um die Chancen auf ein positives Ergebnis ein wenig zu meinen Gunsten zu manipulieren, werde ich, bevor wir zum Szenario kommen (Kapitel 12 und 13), einige Aspekte des Mappings etwas ausführlicher behandeln. Das ist etwas frech, weil diese Ideen, da sie noch frisch in Ihrem Kopf sind, wahrscheinlich eine Voreingenommenheit erzeugen, was genau das ist, was ich mir erhoffe. Ich weise auf die Antwort hin, bevor wir überhaupt dort angekommen sind. Das ist das Naheliegendste, was ich tun konnte, ohne die Antwort vorher aufzuschreiben +
+
+Um die Übung dennoch herausfordernd zu gestalten, habe ich mir die Freiheit genommen, die Hinweise in diesem Kapitel zu verstecken, das mit vielen nützlichen, aber nicht direkt relevanten Konzepten in einem Sammelsurium des wenig Nützlichen durchsetzt ist. Die Konzepte, die wir untersuchen werden, befassen sich mit der Chance des Wandels, dem Ärger mit Verträgen, häufigen Lügen, die wir uns selbst erzählen, und damit, wie man eine Strategie meistert.
+
+== Chance der Veränderung
+
+Aktivitäten, Praktiken, Daten und Wissen entwickeln sich und entwickeln sich gemeinsam in einem Prozess, der nicht immer glatt oder kontinuierlich verläuft. In Kapitel 10 haben wir den Friedens-, Kriegs- und Wunderzyklus behandelt und wie frühere Giganten in einer friedlichen Produktphase des Wettbewerbs von neuen Marktteilnehmern im "Krieg" überholt werden können. Diese neuen Marktteilnehmer werden sich wahrscheinlich zu den Titanen der jeweiligen Branche aufschwingen. Der interessanteste Aspekt dieses Zyklus liegt im Wechsel (*Punkt 1* in Abbildung 133) zwischen den beiden Zuständen "Frieden" und "Krieg", und genau darauf werden wir uns konzentrieren +
+
+Während die Handlung (z. B. das Computing) gut verstanden werden mag, verursacht dieser Übergang (z. B. die Verlagerung des Computing von Produkten wie Servern zu Utility-Services wie der Cloud) viel Verwirrung, weil sich die Natur der Handlung ändert - wir bewegen uns von einer Welt der konstanten Feature-Differenzierung zu einer Welt des Volumenbetriebs von "gut genug". Dieser Wandel wird durch mitentwickelte Praktiken (wie DevOps), unsere Trägheit gegenüber ihm, die überraschende Geschwindigkeit, mit der er stattfindet, und Eigeninteressen, die normalerweise alle Arten von Angst, Unsicherheit und Zweifel verbreiten, noch verstärkt +
+
+.Eine Zeit der Veränderung
+[#img-fig133-a-time-of-change] 
+[caption="Abbildung 133: ",link=https://cdn-images-1.medium.com/max/1600/1*_MdC3AnOSo8OQp39V8LE5Q.jpeg]
+image::1__MdC3AnOSo8OQp39V8LE5Q.jpeg[Abbildung 133 - Eine Zeit der Veränderung,900,600,align=center]
+
+Was sich hinter der Verwirrung verbirgt, ist im Grunde das Aufkommen neuer Standards, die faktische Optimierung eines Marktes und die Verlagerung in Richtung Commodity. Das bedeutet nicht, dass es keine Alternativen gibt, wir haben oft einen Kampf um Standards, z. B. Wechselstrom gegen Gleichstrom in den "Stromkriegen" oder VHS gegen Betamax bei den Videoaufzeichnungsstandards. Es sind jedoch die Marktakzeptanz und die Netzwerkeffekte, die den Gewinner bestimmen und die anderen in die Nische der Geschichte verbannen werden. Es ist wichtig zu verstehen, dass in der Anfangsphase alles zur Disposition steht.
+
+=== Alternativen im Cloud Computing
+
+Als Amazon im Jahr 2006 EC2 (seine Utility-Compute-Umgebung) einführte, rief ich eine Reihe von Führungskräften in traditionellen Hardware-Unternehmen an und bot ihnen an, ihnen bei der Einrichtung eines konkurrierenden Dienstes mit unserer Borg-Technologie zu helfen - einer Suite von Tools, die wir in meinem eigenen Unternehmen zur Bereitstellung von virtuellen Maschinen auf Abruf verwendet hatten. Ich war zuversichtlich, dass wir die APIs von Amazon leicht emulieren könnten, und obwohl wir in einigen Bereichen im Rückstand waren, waren wir in anderen voraus. Überwältigenderweise gab es kein Interesse und die paar (d. h. zwei) Meetings, die ich arrangieren konnte, endeten immer mit dem gleichen Ergebnis - "wie wird uns das helfen, mehr Server zu verkaufen?" +
+
+Ich würde gerne sagen, dass sich die Einstellung bis 2008 geändert hatte, aber das war nicht der Fall. Ende 2008 flog ich in der ersten von vielen solcher Reisen in die USA, traf eine Reihe von Führungskräften, sagte ihnen, dass ihr gesamtes Hardware-Geschäft verloren wäre, zeigte ihnen, wie sie durch die Schaffung eines Marktes von AWS-Klonen und die Schaffung eines Preiskriegs eine Einschränkung ausnutzen könnten, die Amazon beim Bau von Rechenzentren haben würde, und dies nutzen könnten, um den Markt zu fragmentieren, indem sie die Nachfrage über das Angebot hinaus drücken. Ich erklärte, warum sie dies aufgrund der bestehenden Trägheit nicht tun würden und warum sie den Krieg verlieren würden. Das Desinteresse war mehr als spürbar, es war abweisend. Amazon wurde nicht als Bedrohung betrachtet, sondern als Elritze und nur ein "Verrückter" würde anders denken. Um zu paraphrasieren, was mir gesagt wurde, würden diese Unternehmen "in der Zukunft etwas in diesem Markt machen, ihre eigenen Standards schaffen und diese Industrie Amazon wegnehmen, wenn es jemals ernst werden sollte", was sie mir versicherten, dass es nicht so sein würde. Die Botschaft lautete ganz klar: "Geh weg, kleiner Junge, und lass die Erwachsenen verantwortungsvoll damit umgehen". Die Luft war immer dick mit endlosen Prognosen ihrer eigenen zukünftigen Größe zusammen mit der alten Trope von "wie wird dein Zeug mehr Server verkaufen?" +
+
+Um ehrlich zu sein, fühlte ich mich wie der böse Junge, der auf den Kaiser zeigt und sagt: "Er hat keine Kleider an". Es war, als würde man Generälen ins Gesicht schauen und ihnen sagen, dass es keine gute Idee ist, Truppen zu befehlen, weiter nach Norden über eine Klippe zu laufen, und dann einen sanften Klaps auf den Kopf oder ein Zwicken in die Wangen mit dem freundlichen Lachen "Nach Norden laufen, das machen wir! +
+
+Das Problem mit der Evolution in der Wirtschaft ist, dass die Bedrohung aufgrund des punktuellen Gleichgewichts und der rasanten Geschwindigkeit des Wandels viel größer ist, als den meisten bewusst ist. Man kann entweder schnell ein großes Ökosystem schaffen, was eine sehr konzentrierte Anstrengung bedeutet, um einen Marktplatz zu schaffen, der auf einer Form von offenen Standards basiert, oder man kann kooptieren und schließlich versuchen, den Standard zu besitzen. Was Sie sich nicht leisten können, ist zu trödeln, sich auf Ihren Lorbeeren auszuruhen oder zu versuchen, eine weitere differenzierte Produktlösung zu entwickeln, um gegen die Evolution anzukommen. Leider ist genau das passiert. Die Unternehmen, die den Cloud-Krieg verloren haben, hatten alle Vorteile - sie hatten die Finanzen, die Fähigkeiten, das Talent, die Reichweite, die Marke und alles, was man sich wünschen kann, um ihn zu gewinnen. Sie waren wie Generäle, die für riesige moderne Armeen verantwortlich waren, die gegen einen David antraten, der mit einer Schleuder und einer Kartoffelkanone bewaffnet war. Zum Glück für David befahlen die Generäle ihren Truppen, nach Norden zu gehen, über die Klippe und ins Verderben +
+
+Der Cloud-Krieg in der Infrastruktur wurde nicht aufgrund magischer technischer Fähigkeiten von Amazon verloren, sondern aufgrund des Versagens der Führungskräfte der vergangenen Giganten. Jeder einzelne von ihnen hätte den Krieg mit Leichtigkeit gewinnen können. Als sie schließlich handelten, war es zu spät, mit zu geringen Investitionen und oft in die falsche Richtung, weil sie sich auf das konzentrierten, was sie wollten ("Server verkaufen") und nicht auf das, was ihre Benutzer brauchten. Aber auch bei den Anwendern gab es Trägheit gegenüber dieser Veränderung und in einem etwas tragischen Akt der Verzweiflung wurde dies ausgenutzt. Die Giganten der Vergangenheit hatten ihren Kodak-Moment gefunden.
+
+=== Der Kodak-Moment der Wolke
+
+Als Kodak endlich seine eigene Trägheit gegenüber der Umstellung auf digitale Bilder überwunden hatte, löste es den Konflikt mit seinem traditionellen Fulfillment-Geschäft, indem es die Idee des digitalen Fotodruckers vorantrieb. Sie würden das Fulfilment-Geschäft des Fotodrucks in diese digitale Welt bringen! Es ging in die Hose, weil die Benutzer einfach anfingen, Bilder zu teilen und den ganzen Sinn des traditionellen Fotos umgingen. In der Cloud-Welt wurde derselbe tragische Fehler mit der privaten Cloud gemacht. Wir bringen Ihnen alle Vorteile des Volumenbetriebs mit Commodity-Komponenten über einen öffentlichen Anbieter, aber mit unternehmensähnlicher Hardware, die auf Ihre Bedürfnisse zugeschnitten ist und in Ihrem eigenen Rechenzentrum läuft! Mit anderen Worten: Sie planten, "Server verkaufen" in diese Utility-Welt zu bringen +
+
+Sicherlich hat die Private Cloud einige Vorzüge, wenn es darum geht, mit Trägheit umzugehen (d. h. mit oft ungerechtfertigten Sicherheitsbedenken), aber dies ist bestenfalls ein Übergangsspiel. Es ist kurzlebig und nicht das Endspiel. Leider gibt es auch heute, im Jahr 2017, noch Leute, die behaupten, dass die Zukunft in einer hybriden Mischung aus Public und Private Cloud liegt. Das ist sie nicht, das war sie nie. Die Zukunft war schon immer ein Hybrid aus mehreren Public Clouds. Aber warum mehrere öffentliche Clouds? Die erste Sorge ist die Ausfallsicherheit, die durch diese mitentwickelten Praktiken wie verteilte Systeme und Design for Failure gelöst wird. Nun bedeuten mehrere öffentliche Clouds nicht unbedingt mehrere öffentliche Cloud-Anbieter. Sie könnten mehrere Amazon-Regionen oder Verfügbarkeitszonen verwenden und das ist ein hybrides Modell. Die Entscheidung, mehrere Provider zu nutzen, ist ein Kompromiss zwischen dem Risiko des Ausfalls eines einzelnen Providers, den Kosten für den Wechsel zwischen mehreren Providern und der Verhandlungsmacht, die dadurch entstehen könnte +
+
+Innerhalb des Amazon-Ökosystems sind dann die Kosten für den Wechsel zwischen den Regionen gering, Ihre Verhandlungsmacht ist relativ schwach, aber Sie können die Risiken mindern, indem Sie über viele Zonen hinweg entwerfen. Für viele ist das mehr als ausreichend. Wenn Sie jedoch den Schritt wagen und mehrere öffentliche Anbieter kombinieren müssen, entstehen Ihnen höhere Kosten für den Wechsel, nicht nur durch jede Datenverschiebung, sondern auch durch jede Änderung der syntaktischen oder semantischen Kompatibilität der APIs. Syntaktische Kompatibilität bedeutet einfach, dass die APIs die gleiche Struktur und Form haben. Semantisch bedeutet, dass sie auf dieselbe Weise funktionieren. Ohne diese Kompatibilität funktionieren Ihre Verwaltungstools, die mit dem einen arbeiten, möglicherweise nicht mit dem anderen, und das verursacht Kosten für den Übergang +
+
+Um diese Kosten zu reduzieren, braucht man entweder mehrere öffentliche Anbieter, die interoperabel sind, oder Management-Tools, die beide abdecken. Management-Tools können aber nur dann beides abdecken, wenn sie den kleinsten gemeinsamen Nenner anbieten, d.h. die gemeinsamen Faktoren zwischen beiden. Wenn Sie keine Möglichkeit haben, die Interoperabilität zu gewährleisten, verursacht der Wechsel zusätzliche Kosten, die über den Datentransfer hinausgehen, entweder durch Übergangskosten oder den Verlust nützlicher Funktionen. Dennoch ist ein Wechsel im Hinblick auf die Verhandlungsmacht und die Gewährleistung einer wettbewerbsfähigen Preisgestaltung in einem Markt wünschenswert. Dies sind die Kompromisse, die Sie in Betracht ziehen müssen. Nun, in der Praxis ist das nicht der Fall. Es gibt keinen interoperablen und wettbewerbsfähigen Markt zwischen mehreren Anbietern. Stattdessen gibt es einen Kontinent (Amazonas), einige beträchtliche Inseln und dann eine Menge kleiner Atolle, von denen die meisten schnell im Meer versinken. Aber das musste nicht so sein und wird auch nicht unbedingt so bleiben +
+
+Wenn ich zum Zimki-Plan zurückkehre (Abbildung 134), dann hatten wir neben der Schaffung eines Ökosystemmodells rund um eine serverlose Plattform auch die Absicht, einen Marktplatz für Plattformanbieter zu schaffen, und wir hofften auf einen Marktplatz für Infrastrukturanbieter. Es lohnt sich, hier eine Unterscheidung zu treffen. Es gibt ein Konsumenten-Ökosystem (im Sinne von Unternehmen oder Einzelpersonen, die Ihre Komponente nutzen), ein Anbieter-Ökosystem (im Sinne von Unternehmen oder Einzelpersonen, die Ihnen Komponenten zur Nutzung bereitstellen) und einen Marktplatz (von Konsumenten und Anbietern rund um eine Komponente). Diese sind nicht dasselbe +
+
+.Marktplatz oder Ökosystem oder beides?
+[#img-fig134-marketplace-or-ecosystem-or-both] 
+[caption="Abbildung 134: ",link=https://cdn-images-1.medium.com/max/1600/1*XLv85r9HLI3ObrXQgS1bRw.jpeg]
+image::1_XLv85r9HLI3ObrXQgS1bRw.jpeg[Abbildung 134 - Marktplatz oder Ökosystem oder beides?,900,600,align=center]
+
+Im obigen Fall zielten wir darauf ab, ein Verbraucher-Ökosystem um unsere Plattform als Dienstleistung herum aufzubauen, d. h. wir hofften, dass viele andere unsere Komponente konsumieren würden, was es uns ermöglichte, dieses "innovate-leverage-commoditise"-Modell zu betreiben und zukünftige Veränderungen zu spüren. Unser Ziel war es auch, einen Marktplatz von Anbietern zu schaffen (d.h. es anderen zu ermöglichen, sich als Plattformanbieter zu etablieren), um Bedenken wegen der Bindung an einen einzigen Anbieter zu überwinden. Um dies zu erreichen, hatten wir das Open Sourcing von Zimki zusammen mit Testdiensten angekündigt, um anderen zu ermöglichen, Zimki-Anbieter zu werden +
+
+In unserer Wertschöpfungskette verbrauchten wir jedoch auch Komponenten der Infrastruktur von anderen und daher war es für uns (aus Gründen des Preiswettbewerbs) von Vorteil, dass unser Ökosystem von Anbietern aus einem wettbewerbsfähigen Marktplatz mit Interoperabilität und einfachem Wechsel zwischen ihnen bestand. Wir wollten dies durch das Open-Sourcing von Borg (unserem Infrastrukturprodukt) erreichen, das die APIs jedes größeren Anbieters übernehmen würde, wenn dieser auftaucht. Daher meine frühen Anrufe bei diesen Führungskräften mit dem Angebot, ihnen einen Amazon-Konkurrenten zu liefern +
+
+Open Sourcing einer Technologie ermöglicht nicht nur eine schnelle Weiterentwicklung dieser Komponente, sondern kann auch dabei helfen, einen interoperablen Marktplatz mit Wechsel zwischen Anbietern zu schaffen, insbesondere in Kombination mit Testdiensten. Der letzte Teil ist von entscheidender Bedeutung, da immer die Gefahr besteht, dass Anbieter versuchen, sich mit Funktionen in einem Massenmarkt zu differenzieren, was zu einem so genannten kollektiven Gefangenendilemma führt - jeder schwächt seine eigene Position und die der anderen durch Eigeninteresse. Unglücklicherweise, während dies 2005 mein Plan war, wurde das gesamte Projekt 2007 abgetötet, weil es nicht "die Zukunft" war. Als die Hardware-Verantwortlichen 2010 endlich aufwachten und begannen, ein Open-Source-Spiel um OpenStack zu spielen, investierten sie viel zu wenig und viel zu spät. Sie versäumten es, zu kooptieren (mit dem Argument der Differenzierung) und konnten nicht verhindern, dass sich ein kollektives Gefangenendilemma bildete +
+
+Das ist Schnee von gestern, aber wenn die Konkurrenten rechtzeitig reagiert hätten, genügend Investitionen getätigt hätten, sich auf die Kooptierung von APIs konzentriert hätten, einen Preiskrieg entfacht hätten, um die Nachfrage über das Angebot hinaus zu steigern, dann hätten wir vielleicht einen lebendigen Marktplatz mit vielen Anbietern gesehen. Stattdessen haben wir nicht nur eine Industrialisierung der Computing-Infrastruktur hin zu Versorgungsunternehmen gesehen, sondern auch eine Zentralisierung in Richtung Amazon. Dies ist ein weiterer Punkt, der in dieser traurigen Geschichte hervorzuheben ist. Industrialisierung bedeutet nicht unbedingt Zentralisierung. Was es bedeutet, ist Standardisierung zu einem De-facto. Die Frage, ob etwas zentralisiert oder dezentralisiert wird, wird von anderen Faktoren jenseits der Evolution beeinflusst, einschließlich des Spiels der Führungskräfte +
+
+Der Grund, warum Amazon den Markt dominiert, ist, dass es das Spiel gut gespielt hat, während die meisten Konkurrenten trotz all ihrer Vorteile gescheitert sind. Auch dies ist kein Dauerzustand. Es kann sein, dass eine bessere Gruppe von Spielern auftaucht (z. B. aus China) und der Markt sich dezentralisiert. Das Spiel wird jedoch viel schwieriger, sobald sich ein Standard etabliert hat und die Sieger des Krieges feststehen. Der Zeitpunkt, um die Spieler zu wechseln und das Spiel gut zu spielen, liegt in der Überschneidung zwischen den Zuständen von Frieden und Krieg während des Wechsels vom Produkt zum Nutzen. Wenn man dies verpasst, dann erfordert ein erneuter Wechsel einen blutigen Zermürbungskampf, um einen Titanen zu stürzen, ein Spiel des letzten Mannes, der noch steht, und oft politische Intrigen. Es ist unwahrscheinlich, dass diejenigen, die diese Schlacht so spektakulär verloren haben, die Fähigkeit besitzen, einen solchen Zermürbungskrieg zu gewinnen +
+
+Für die Infrastruktur ist dieser Wechsel vom Frieden zum Krieg längst vollzogen und die Sieger sind hervorgegangen. Für die "serverlose" Plattformwelt befinden wir uns gerade mitten in diesem Wandel. Der Krieg tobt noch, aber er wird bald vorbei sein. Bis 2020 sollten wir wahrscheinlich wissen, wer die Gewinner und Verlierer sein werden +
+
+Eine Chance auf einer Landkarte kann an mehreren Stellen zu finden sein. Von der Entstehung der Neuheit oder der Bereitstellung von unbefriedigten Bedürfnissen oder der Differenzierung eines Produkts oder dem Zeitpunkt des Übergangs von einem Zustand (z. B. Frieden) in einen anderen (z. B. Krieg) - siehe Abbildung 135 +
+
+.Chance und Veränderung
+[#img-fig135-opportunity-and-change] 
+[caption="Abbildung 135: ",link=https://cdn-images-1.medium.com/max/1600/1*2Hkl4WkQUVotoCmRIW5H6Q.jpeg]
+image::1_2Hkl4WkQUVotoCmRIW5H6Q.jpeg[Abbildung 135 - Chance und Veränderung,900,600,align=center]
+
+Die Karten werden Ihnen nicht sagen, welchen Weg Sie einschlagen sollen, aber sie sind ein Leitfaden, der Ihnen hilft, zu diskutieren und zu entscheiden.
+
+== Das Problem mit Verträgen
+
+Verträge wie Pläne sind für mich oft der Fluch des Lebens. Es ist nicht so, dass sie keinen Nutzen hätten, sie haben einen, wenn es darum geht, Erwartungen zu setzen. Leider neigen Menschen aus irgendeinem Grund, den ich noch nicht ergründet habe, dazu, Verträgen mystische Eigenschaften zuzuschreiben. Sie neigen dazu, zu glauben, dass der Vertrag oder Plan eine Realität darstellt, die vorhergesagt wird - _"Wenn es im Vertrag steht, dann muss es so passieren, wie es geschrieben steht"_. Darauf folgen schnell Enttäuschung und Streitigkeiten, wenn es nicht so ist. Aber das ist doch der Sinn des Vertrages - _"wir wollen wissen, was geliefert wird!"_ +
+
+Um zu erklären, warum dieses Prinzip das Problem ist, werde ich ein Beispiel für eine Kommunikationsplattform für eine große Organisation mit einer verteilten Belegschaft verwenden, die oft auf Veranstaltungen arbeitete. Diese Organisation hatte einen detaillierten Plan für die Kommunikationsplattform, eine ausführliche Spezifikation (Hunderte von Seiten) und eine Aufteilung des Systems in Lose für die Auftragsvergabe. Das schien alles sehr vernünftig. Doch wie es mein üblicher Stil ist, stellte ich beim ersten Treffen mit dem Team die Frage - _"Was ist der Bedarf des Benutzers?"_ +
+
+Die Antworten waren etwas ausweichend und schwammig. Man hatte das Gefühl, dass die Antworten auf den Seiten der Spezifikation standen, aber sie waren nicht zur Hand. Niemand hatte sie zusammengetragen. Also nahmen wir uns ein paar Stunden Zeit und entwarfen das System (siehe Abbildung 136). Die grundlegenden Benutzerbedürfnisse waren die Kommunikation von Gerät zu Gerät (z. B. "Ich muss Joe sagen, dass er eine Kiste abholen soll"), von Punkt zu Punkt (z. B. "Ich muss meinem ganzen Team sagen, dass es nach Sheffield kommen soll"), Notfallfunktionen (z. B. "Wir brauchen mehr Personal bei dieser Veranstaltung"), Terminplanung (z. B. "Ich muss wissen, wohin ich als nächstes gehen soll") bis hin zu verschiedenen Anwendungen, Videoaufzeichnung und sogar einfacher Verwendung als Telefon +
+
+.Kommunikationsplattform
+[#img-fig136-communication-platform] 
+[caption="Abbildung 136: ",link=https://cdn-images-1.medium.com/max/1600/1*C-siQui7bm0P24Ew0KKMiQ.jpeg]
+image::1_C-siQui7bm0P24Ew0KKMiQ.jpeg[Abbildung 136 - Kommunikationsplattform,900,600,align=center]
+
+Um das System überschaubar zu machen, hatte die Organisation es in Verträge unterteilt, die sie für sinnvoll hielt und die im Wesentlichen auf dem finanziellen Wert und anderen Merkmalen basierten. Als ich diese "Lose" auf der Karte überlagerte, gab es jedoch ein offensichtliches Problem. Ein Los mit der Bezeichnung "C" war sehr breit gefächert und umfasste sowohl industriell gefertigte als auch hochspezialisierte, oft kundenspezifisch gefertigte Artikel (siehe Abbildung 137) +
+
+.Probleme mit Outsourcing
+[#img-fig137-trouble-with-outsourcing] 
+[caption="Abbildung 137: ",link=https://cdn-images-1.medium.com/max/1600/1*g3W9y9g9WbrBlGt5cgcAxQ.jpeg]
+image::1_g3W9y9g9WbrBlGt5cgcAxQ.jpeg[Abbildung 137 - Ärger mit Auslagerung,900,600,align=center]
+
+Warum ist das ein Problem? Nehmen wir an, dass wir einen Outsourcing-Vertrag für das Los "C" zur Lieferung gegen eine Spezifikation anwenden. Natürlich wollen wir wissen, was geliefert wird, daher haben wir uns die Mühe gemacht, die Spezifikation zu schreiben. Wir haben eine Art Ausschreibungsverfahren, auf das sich viele potenzielle Lieferanten bewerben +
+
+Wir hoffen, dass die Lieferanten natürlich versuchen werden, bei ihren Angeboten wettbewerbsfähig zu sein. Um dies zu tun, müssen die Lieferanten jedoch ihre eigenen Risiken managen. Eines der Risiken ist die Änderung der Spezifikation. Wenn Sie mich zum Beispiel bitten, ein Angebot für die Lieferung von 10 Tonnen Gold abzugeben, und ich den Zuschlag mit einem wettbewerbsfähigen Preis erhalte, dann gilt das für die Lieferung von 10 Tonnen Gold und nicht von 10 Tonnen Platin oder 10 Tonnen Diamanten. Wenn Sie die Spezifikation ändern, dann werde ich Ihnen das in Rechnung stellen +
+
+In jedem System, das durch solche Verträge und Spezifikationen geregelt wird, gibt es einen Änderungskontrollprozess, da es nur vernünftig ist, dass wir die Kosten dafür tragen, wenn wir unsere Meinung ändern. Diese Änderungskontrollprozesse sind in der Regel aufwändig und teuer, da sie darauf ausgelegt sind, Änderungen zu minimieren und die Spezifikation einzuhalten. Selbst eine einfache Änderung kann dazu führen, dass die Spezifikation neu geschrieben, die Auswirkungen analysiert und viele andere Schritte durchgeführt werden müssen, die sich zu erheblichen Kosten summieren +
+
+Aber schauen Sie sich noch einmal die Karte oben und insbesondere Los "C" an. Einige der Komponenten sind industrialisiert, was bedeutet, dass sie sich wahrscheinlich nicht ändern werden und für diesen Vertragsansatz geeignet sind. Wir können hier spezifizieren, was wir wollen. Einige der Komponenten befinden sich jedoch eher im unerforschten Raum. Wir wissen nicht, was wir hier wollen, niemand weiß es. Diese Komponenten werden sich ändern und wir werden die Kosten für die Änderungskontrolle tragen müssen. Das Problem ist, dass wir das Prinzip _"wir wollen wissen, was geliefert wird"_ auf Komponenten anwenden, von denen wir unmöglich wissen können, was geliefert werden wird. Die einzige Sache, die wir bei diesen benutzerdefinierten Aktivitäten garantieren können, ist, dass sie sich ändern werden. Wir sind dazu verdammt, den teuren Prozess der Änderungskontrolle zum Zeitpunkt der Vertragsunterzeichnung in Anspruch zu nehmen. Die Kosten werden in die Höhe schießen und es wird zu Streitigkeiten kommen +
+
+Lassen Sie mich das ganz klar sagen. Wir können Streitigkeiten vorhersehen, auch wenn wir noch nicht damit angefangen haben. Ich kann Ihnen auch sagen, dass irgendein Trottel von einem Took entscheiden wird, dass die Lösung für dieses Problem für zukünftige Projekte "bessere Spezifikation" ist. Das wird nicht nur die Kosten für den Versuch, das Unbekannte zu beschreiben, erhöhen, sondern wiederholt den gleichen Fehler der Änderungskontrollkosten durch den Versuch, das Unbekannte zu definieren. Unglücklicherweise werden Sie ohne die Abbildung der Umgebung und die Überlagerung der Vertragsstruktur nicht in der Lage sein, dieses Problem zu finden, bis Sie es treffen, d.h. nachdem die Verträge unterzeichnet sind. Spezifikationsdokumente und Geschäftsprozessdiagramme liefern Ihnen nicht das Situationsbewusstsein, das Sie für ein vernünftiges Contracting benötigen +
+
+Im Jahr 2008 würde ich dieses Problem häufig sehen. Outsourcing hatte bereits einen schlechten Ruf, aber in Wahrheit ist das Problem nicht das Outsourcing, es sind nicht einmal die Verträge, sondern die Art und Weise, wie wir solche Ansätze auf sehr breite Systeme anwenden, die sowohl industrialisierte als auch oft neuartige Komponenten enthalten. Es gibt einen viel besseren Weg, mit solchen Systemen umzugehen.
+
+=== FEUER
+
+Ein lobenswerter Fall in der Wirtschaft ist die wirklich wunderbare Arbeit von Lieutenant Colonel Dan Ward. Wenn Sie noch nie FIRE oder den Simplicity Cycle gelesen haben, dann hören Sie auf mit dem, was Sie gerade tun (d. h. mit dem Lesen dieses Artikels) und lesen Sie sie. Ich bin zum ersten Mal auf FIRE (schnell, preiswert, zurückhaltend und elegant) gestoßen, als es noch FIST (schnell, preiswert, einfach und winzig) hieß und in Militärkreisen verwendet wurde. Die Umbenennung ist eher ein Neustart, um es für den breiteren Markt anwendbar zu machen. Ich bevorzuge zufällig den alten Begriff (wahrscheinlich meine eigene Trägheit, weil ich ihn verwendet habe), weil er einfach ein bisschen aussagekräftiger ist +
+
+* Schnell* bedeutet, Dinge schnell zu bauen, d. h. in kurzen Zeiträumen. Es ist eine zeitliche Einschränkung und reduziert die Risiken von Änderungen, die mit langen Zeitplänen einhergehen. *Kostengünstig* ist mehr als eine Beschränkung des Budgets, es ist eine Denkweise der Sparsamkeit und Wiederverwendung. Einfach ist eine Einschränkung der Komplexität, aber auch eine Haltung für die angenehme *Eleganz* der Einfachheit. Es geht weniger darum, mehr hinzuzufügen, sondern Dinge wegzunehmen. Während die A10 Warthog ein Beispiel für elegante Einfachheit bei Bodenangriffsflugzeugen ist, ist die F35 das genaue Gegenteil. Winzig bedeutet klein, wie in eingeschränkt oder *beschränkt*, wie in kleinen Budgets, kurzen Zeitplänen, kleinen Dokumenten, kleinen Teams und kleinen Komponenten. Es geht wieder um die Denkweise, die Liebe zum Detail und die Selbstkontrolle. Es geht darum zu sagen: "Wollen wir wirklich unsere Bombenflugzeuge, Bodenangriffsflugzeuge, Luft-Luft-Kampfflugzeuge und Aufklärungsflugzeuge mit Kurzstart- und Senkrechtlandemöglichkeiten ausstatten?" +
+
+* Schnell* *Ungünstig* *Restriktiv* *Elegant* = FEUER +
+
+Ich habe diese FIRE-Prinzipien auf unsere obige Karte einer Kommunikationsplattform angewandt, die ich in kleine, diskrete Bereiche unterteilt habe, um breite Systeme zu vermeiden, d. h. keine Vermischung von Industriellem mit Unbekanntem. Jeder dieser Bereiche sollte mit kleinen Budgets und kurzen Zeitplänen verwaltet werden - siehe Abbildung 138 +
+
+.FEUER
+[#img-fig138-fire] 
+[caption="Abbildung 138: ",link=https://cdn-images-1.medium.com/max/1600/1*9kirvgc_iiRNWuyn5ch9rQ.jpeg]
+image::1_9kirvgc_iiRNWuyn5ch9rQ.jpeg[Abbildung 138 - FIRE,900,600,align=center]
+
+Mit einer solchen Karte können wir nun die Verwendung geeigneter Methoden und Techniken anwenden. Für die stärker industrialisierten Komponenten können wir Marktstandards oder Outsourcing-Vereinbarungen mit detaillierten Spezifikationen oder sogar Dienstanbieter wie Cloud-Dienste wiederverwenden. Für die eher neuartigen Komponenten können wir intern bauen oder Verträge auf Basis von Zeit und Material abschließen (siehe Abbildung 139) +
+
+.Verwendung von Standardkomponenten und geeigneten Methoden
+[#img-fig139-using-standard-components-and-appropriate-methods] 
+[caption="Abbildung 139: ",link=https://cdn-images-1.medium.com/max/1600/1*RkCpC8nysMaZtwL8ytuAXw.jpeg]
+image::1_RkCpC8nysMaZtwL8ytuAXw.jpeg[Abbildung 139 - Verwendung von Standardkomponenten und geeigneten Methoden,900,600,align=center]
+
+Es ist erwähnenswert, dass Sie bei neuartigen Artikeln dann eher versuchen werden, diese selbst zu bauen. Es gibt Alternativen. Sie könnten sie auf Zeit- und Materialbasis an eine Gruppe auslagern, die auf die erforderlichen Experimente spezialisiert ist, aber das ist eine andere Art von Vereinbarung als das Outsourcing im Rahmen einer Spezifikation oder eines Volumenbetriebs. Sie könnten sogar die Neuheit an den Markt auslagern, d.h. den Markt einfach weitermachen lassen, um zu entdecken, was es gibt, und sich zurückhalten, bis die Komponente weiter entwickelt ist. Prokrastination kann ein nützliches Werkzeug sein, wenn man es bewusst als solches einsetzt und ein gutes Verständnis für die Landschaft hat +
+
+Wir können die Karte auch nutzen, um uns mit kleinen Teams zu organisieren, um die Macht weg von einem zentralen Planungsbüro zu verteilen und denjenigen vor Ort, an der "Kohlefront", Autonomie und Kontrolle zu geben, die Entscheidungen schneller und mit einem größeren Verständnis für Details treffen können (siehe Abbildung 140) +
+
+.Leistung verteilen
+[#img-fig140-distribute-power] 
+[caption="Abbildung 140: ",link=https://cdn-images-1.medium.com/max/1600/1*RkCpC8nysMaZtwL8ytuAXw.jpeg]
+image::1_RkCpC8nysMaZtwL8ytuAXw.jpeg[Abbildung 140 - Leistung verteilen,900,600,align=center]
+
+Der Einsatz geeigneter Methoden, eine strengere Kontrolle über Zeitpläne und Budgets mit befähigten Mitarbeitern - was kann man daran nicht mögen? Tatsächlich gibt es oft großen Widerstand dagegen.
+
+=== Es ist alles zu schwierig
+
+Trotz all des verursachten Schreckens und der endlosen Flut von Katastrophen gibt es einen häufig zitierten Vorteil des allumfassenden Vertrags, der alles zu übertrumpfen scheint. Der Vorteil ist, dass er einfach zu verwalten ist. Die unangenehme alte Redewendung "eine Kehle zum Würgen" kommt einem in den Sinn. In der Praxis gibt es jemanden, dem man die Schuld geben kann, wenn etwas schief geht oder wenn die Kosten für die Änderungskontrolle in die Höhe schießen (wie es bei der ursprünglichen Vertragsstruktur der Fall gewesen wäre) +
+
+Natürlich wird der Anbieter Ihnen die Schuld dafür geben, dass Sie nicht wussten, was Sie wollten, was zu den endlosen Rufen nach einer besseren Spezifikation führt, die das Problem nur verschlimmert. Wir fallen in der Geschäftswelt unweigerlich darauf herein, weil wir Angst davor haben, das Risiko einzugehen, das zu managen, was wir managen müssen, die Komplexität und die Ungewissheit anzunehmen, die es gibt. Wir machen uns selbst etwas vor (trotz aller Beweise) und glauben, dass wir dieses Risiko durch massive, einheitliche Verträge mit detaillierten Spezifikationen auslagern können. Hinzu kommt, dass wir, wenn wir genug Zeit haben, sogar die Fähigkeiten auslagern, die wir brauchen, um effektiv "vernünftige" Bedingungen (wenn es so etwas gibt) für diese Verträge auszuhandeln. Diese Probleme sind in der Wirtschaft akut, werden aber im Allgemeinen unter den Teppich gekehrt. Bei Verträgen mit der öffentlichen Hand werden sie noch deutlicher sichtbar, da die IT der öffentlichen Hand und "horrendes, kostspieliges Versagen" in manchen Kreisen als Synonym gelten +
+
+Die normale Reaktion auf die Aufgliederung eines komplizierten (und möglicherweise komplexen) Systems ist, dass es dadurch schwer zu verwalten ist. Es werden viele zu berücksichtigende Bereiche, viele Teams und viele Schnittstellen sichtbar (siehe Abbildung 141). Die Realität ist, dass diese Bereiche und Schnittstellen schon vorher existierten und die Verwendung eines großen (und breiten) Vertrags ist nur ein Versuch, die Verantwortung für die Verwaltung jemand anderem zu übertragen. Wir sind oft bereitwillige Teilnehmer an einem Spiel, bei dem wir, um das Management der Umgebung zu vermeiden, übermäßige Kostenüberschreitungen, unangemessene Methoden, den Verlust der strategischen Kontrolle und letztlich ein größeres Risiko in Kauf nehmen, während wir behaupten, dass der Ansatz das Risiko reduziert. Outsourcing ist eine globale Praxis, die in der populären Presse aufgrund dieser Assoziationen oft verunglimpft wird +
+
+.Schnittstellen freilegen
+[#img-fig141-exposing-interfaces] 
+[caption="Abbildung 141: ",link=https://cdn-images-1.medium.com/max/1600/1*0fxmo1M-daM3TaL0PMOZJw.jpeg]
+image::1_0fxmo1M-daM3TaL0PMOZJw.jpeg[Abbildung 141 - Belichtung von Schnittstellen,900,600,align=center]
+
+Ich muss betonen, dass die Probleme nicht beim Outsourcing an sich liegen, sondern bei dem, was ausgelagert wird. Das Konzept des Outsourcings basiert auf der Prämisse, dass keine Organisation völlig autark ist und keine über unbegrenzte Ressourcen verfügt und dass einige Arbeiten von anderen zu geringeren Kosten durchgeführt werden können. Dies ist durchaus vernünftig. Der organisatorische Fokus sollte nicht auf dem Streben nach Fähigkeiten liegen, die Dritte aufgrund ihrer Fähigkeiten und Technologien besser erbringen können und die Größenvorteile bieten. Es muss nicht jeder Teeladen ein Stromerzeuger, eine Teeplantage, eine Milchviehherde und ein Wasserkocherhersteller sein. Diese Praxis kommt in reiferen Industrien sicher vor; der Maschinenhersteller muss seine Schrauben und Muttern nicht selbst herstellen und kann diese stattdessen von einem Zulieferer kaufen +
+
+Die IT ist leider keine solche Branche. Eine kürzlich durchgeführte Studie, die 5.4000 Projekte untersuchte, kam zu dem Schluss, dass über 66 % der großen (mehr als 15 Mio. $) Softwareprojekte "ihre Budgets massiv sprengen" und 17 % so schlecht liefen, dass sie die Existenz des Unternehmens bedrohten. Je größer das Projekt ist, desto höher ist die Misserfolgsrate. Lassen Sie uns auf diese Punkte konzentrieren. In dem Versuch, nicht zu managen, was wir managen sollten, setzen wir unter dem Banner der Risikoreduzierung in 1 von 6 Fällen die Existenz ganzer Unternehmen aufs Spiel und gehen in 4 von 6 Fällen katastrophal schief. Wenn das *Management* ist, dann, um Inigo Montoya aus "Die Braut des Prinzen" zu zitieren - _"Sie benutzen dieses Wort ständig, ich glaube nicht, dass es bedeutet, was Sie denken, dass es bedeutet"_ +
+
+Im Vergleich dazu ist der Ansatz des SOCOM (Special Operations Command) im US-Militär auf kleinere Projekte, kurze Beschaffungszyklen und Wiederverwendung ausgerichtet. Dan Ward weist darauf hin, dass 88 % der SOCOM-Projekte den FIRE-Prinzipien entsprechen, wobei über 60 % dieser Projekte innerhalb der Kosten- und Terminschätzungen bleiben und die restlichen 40 nur "bescheidene" Überschreitungen erfahren. Das Problem ist nicht das Outsourcing als Konzept, sondern die Größe und der Umfang der Projekte im Rahmen solcher Verträge. Es ist weitaus effektiver, klein zu denken - wie in kleinen Teams, kleinen Verträgen und kleinen Schwerpunktbereichen +
+
+Aber das Spiel hat noch mehr zu bieten. Es bieten sich auch Chancen. Innerhalb der Kommunikationsplattform gibt es eine Anforderung für einen Application Store (siehe *Punkt 1*, Abbildung 142). Selbst im Jahr 2017 mit der Fülle gut etablierter Application Stores wie Google Play ist es nicht ungewöhnlich, dass Unternehmen immer noch glauben, sie müssten einen eigenen aufbauen. Oft werden solche Maßnahmen aus Sorge um die Kontrolle ergriffen oder weil eine bereits existierende Bemühung im Gange oder in Produktion ist. Dies sind alles Formen von Trägheit. Aber wie geht man mit solcher Trägheit und bereits bestehenden Systemen um? Wie können Sie dies in eine Chance verwandeln? +
+
+.Umgang mit Altlasten
+[#img-fig142-dealing-with-legacy] 
+[caption="Abbildung 142: ",link=https://cdn-images-1.medium.com/max/1600/1*GV9QPiKKyChL6XLkVREmLA.jpeg]
+image::1_GV9QPiKKyChL6XLkVREmLA.jpeg[Abbildung 142 - Umgang mit Altlasten,900,600,align=center]
+
+Im Jahr 2008 war eine der großen Trägheitsbarrieren für die Einführung von Cloud-Diensten die Legacy-Umgebung. Diese Systeme basierten auf anderen Architekturprinzipien und waren für die Übernahme von Cloud-Infrastrukturen nicht geeignet. Viele Unternehmen beschlossen, dass sie einen Cloud-Service benötigen, der sich wie ihre "Unternehmens"-Umgebung verhält. Die Realität ist, dass solche Umgebungen einen Kompromiss zwischen den Kosten für eine neue Architektur und den Vorteilen von standardisierten Standardkomponenten darstellen. Das Auftauchen von Anbietern, die solche Enterprise-Clouds anbieten, ist zwar keine langfristige Zukunft, bietet aber eine Chance, die genutzt werden kann. Um dies zu erläutern, werde ich drei grundlegende Möglichkeiten des Umgangs mit Legacy skizzieren :-
+
+=== Ablösung der Haftung
+
+Der erste und naheliegendste Ansatz besteht darin, einfach anzuerkennen, dass eine Veränderung stattfindet, dass Sie eine Trägheit haben, die durch frühere Systeme verursacht wurde, und dass Sie in eine neue Architektur für die Veränderung investieren müssen. Alle Technologie-Investitionen sind im Laufe der Zeit toxisch und Sie müssen kontinuierlich Refactoring betreiben, um dies zu beseitigen. In vielen Fällen wird ein solches Refactoring nicht kontinuierlich durchgeführt, wodurch Probleme für die Zukunft aufgestaut werden, da eine große (toxische) Landschaft entsteht, die dann weiterentwickelt werden muss. Um riesige Projekte (in der Branche als "Todessterne" bekannt) zu vermeiden, die versuchen, dieses Chaos zu beseitigen (mit den üblichen katastrophalen Ergebnissen), werden solche Änderungen am besten stückweise mit kleinen Komponenten über die Zeit durchgeführt. Man entledigt sich der Haftung Stück für Stück, oft unter Verwendung von Techniken wie dem Strangulationsmuster. Sogar ein relativ neues Unternehmen wie Netflix hat sieben Jahre gebraucht, um seine Altlasten zu beseitigen und zu einem Rechenzentrum Null (alles Cloud) zu werden. Leider warten viele ab und versäumen es, kontinuierlich in Refactoring zu investieren. Sie lassen die Verbindlichkeit wachsen, bis es offensichtlich wird, dass sie sich ändern müssen, woraufhin sie zusammen mit vielen anderen Unternehmen, die dasselbe getan haben, einen "Todesstern" bauen. Dies führt unweigerlich zu einem Mangel an Fachkräften, der das Elend und die Kosten weiter ansteigen lässt. Fangen Sie also früh an und entsorgen Sie es nach und nach.
+
+=== Schwitzen und Kippen
+
+Eine Variante des Ansatzes besteht darin, das Alte bewusst zu vernachlässigen (d. h. die Investitionen zu minimieren), während man die neue Welt aufbaut. Im Falle der Cloud ist dies der Punkt, an dem Enterprise-Cloud-Services einen gewissen Nutzen haben können. Indem man eine Legacy-Umgebung mit minimalen architektonischen Änderungen zu einem "Enterprise Cloud"-Anbieter verlagert, verlagert man die Verantwortung für Investitionen auf den Anbieter. Sie schwitzen die Legacy-Umgebung aus, während Sie eine neue Umgebung mit Komponenten vorbereiten, die Sie selbst gebaut haben oder von Dritten nutzen. Was Sie wollen, ist, dass der "Enterprise Cloud"-Service eine nutzungsbasierte Abrechnung ohne langfristigen Vertrag bietet. Trotz der leeren Worte, die Sie dem Anbieter in Bezug auf eine langfristige Zukunft gegeben haben, beginnen Sie, wenn Sie bereit sind, kurzerhand damit, die Altlasten zu entsorgen. Mit einem solchen Ansatz verlagern Sie zukünftige Investitionskosten auf den Provider und reduzieren diese Kosten für sich selbst. Mit dieser Methode werden Sie sich wahrscheinlich keine Freunde beim Provider machen, also planen Sie entsprechend.
+
+=== Katze im Sack
+
+Der mit Abstand beste Ansatz ist, jemanden zu überzeugen, Sie für Ihr Vermächtnis zu bezahlen. Nur weil Sie wissen, dass sich das Umfeld verändert, heißt das noch lange nicht, dass alle anderen das auch wissen. Hier brauchen Sie ein wenig Irreführung, z. B. indem Sie eine Zukunftsgeschichte für das Vermächtnis entwickeln. Im Fall der oben genannten Kommunikationsplattform könnten Sie ein anderes Unternehmen davon überzeugen, dass Enterprise Application Stores die Zukunft sind. Wenn Sie einen bereits existierenden, selbst entwickelten Anwendungsspeicher haben, können Sie diesen einschließlich der zugrundeliegenden Umgebung (von der Infrastruktur bis zu den Mitarbeitern) als "zukünftiges Geschäft" verkaufen und gleichzeitig sicherstellen, dass Sie idealerweise auf einer Nutzungsbasis Zugriff darauf haben, was dem Käufer eine Einnahmequelle verschafft und den Deal "süßer" erscheinen lässt. Während dieser Zeit arbeiten Sie an Ihrer Ablösung (z. B. Umstellung auf Google Play), bevor Sie die Nutzung des alten Stores aufgeben. Dies kann ein überraschend effektiver Weg sein, um Legacy zu monetarisieren. Damit werden Sie sich sicherlich keine Freunde bei den Leuten machen, denen Sie es verkaufen, aber dann gilt: caveat emptor! +
+
+Wenn Sie über Verträge nachdenken, dann schauen Sie, dass Sie sie in kleine Komponenten zerlegen, scheuen Sie sich nicht, das Risiko zu managen und denken Sie auch darüber nach, wie Sie mit ein bisschen Taschenspielertrick sogar Ihre Altlasten in eine Chance verwandeln können.
+
+== Es wird mir Geld sparen und andere Lügen, die wir uns einreden.
+
+Es gibt viele Lügen, die wir uns im Geschäftsleben einreden: - die Umwelt verändert sich langsam, wir können das Ungewisse vorhersagen, wir können unser eigenes Risiko auslagern, Management kann einfach gemacht werden, der Schlüssel zum Erfolg ist die Implementierung dieser Kultur oder jener Innovation oder dieses Prinzips oder jener Methode. Wenn überhaupt, dann hoffe ich, dass das Mapping Sie lehrt, dass es keine einzelnen Methoden oder einfachen Antworten gibt, aber Sie können es trotzdem schaffen +
+
+Diese Maps helfen Ihnen, eine Umgebung zu beschreiben, die aus mehreren sich entwickelnden Komponenten besteht. Sie enthalten einfache Komponenten, die als bekannt, wohldefiniert und üblich wahrgenommen werden, wie z. B. die Mutter und die Schraube oder der Stecker. Sie enthalten auch chaotische Komponenten, die unsicher sind und die wir noch nicht verstehen, wie z. B. die Entstehung des Neuen. Die Umwelt selbst kann kompliziert sein mit vielen Komponenten und gleichzeitig komplex, da man dynamisch auf Veränderungen reagieren muss, die sowohl durch klimatische Muster als auch durch andere Aktionen von Konkurrenten verursacht werden. Diese Begriffe "einfach", "chaotisch", "komplex" und "kompliziert" haben recht präzise Bedeutungen und ich würde dem Leser empfehlen, einige Zeit damit zu verbringen, sich mit der Arbeit von Dave Snowden und dem Cynefin-Rahmenwerk vertraut zu machen +
+
+Trotz alledem versuchen wir, nach einfachen Wahrheiten zu greifen. Im Jahr 2008 war dies in der Welt des Cloud Computing vor allem aufgrund der bestehenden Verwirrung gang und gäbe. Ich dachte, ich benutze ein paar "einfache Wahrheiten", die sich weder als einfach noch als wahr herausstellen, um einige klimatische Muster zu veranschaulichen, über die es sich zu wissen lohnt.
+
+=== Effizienz wird unsere Budgets reduzieren
+
+Eine der häufigsten Vorstellungen war, dass Cloud Computing die IT-Budgetausgaben reduzieren würde. Es ist eine Vorstellung, dass, wenn Cloud Computing effizienter ist, wir dann weniger für IT ausgeben werden. Klingt einfach, klingt offensichtlich und ist doch so falsch +
+
+Ich habe bei IT@Cork (2008) einen Vortrag darüber gehalten, wie diese Annahme die Schaffung neuer Industrien, die Komponentisierung und Preiselastizitätseffekte ignorierte. Durch die Steigerung der Effizienz und die Senkung der Kosten für die Bereitstellung der Infrastruktur werden viele Aktivitäten, die bisher wirtschaftlich nicht machbar waren, möglich. Darüber hinaus erhöht der Self-Service-Charakter der Cloud nicht nur die Agilität durch eine schnellere Bereitstellung, sondern ermöglicht auch Benutzerinnovationen durch die Bereitstellung von standardisierten Komponenten (der Komponentisierungseffekt). Mit Ziegeln lässt sich ein Haus schneller bauen als mit einer Lehmgrube. Dies wiederum kann die Entstehung neuer Industrien fördern, so wie die Kommodifizierung elektronischer Schaltungen - von der Innovation des Flemming-Ventils bis hin zu komplexen Produkten mit Tausenden von Schaltern - zu digitalen Taschenrechnern und Computern führte. Als sich diese Industrien entwickelten, trieben sie die Nachfrage nach elektronischen Schaltungen weiter an +
+
+Der Effekt dieser Kräfte ist, dass die Bereitstellung der Infrastruktur zwar effizienter wird, aber die Gesamtnachfrage nach Infrastruktur diese Gewinne übersteigt, eben weil die Infrastruktur eine effizientere und standardisierte Komponente geworden ist. Am Ende verbrauchen wir sehr viel mehr von einer effizienteren Ressource. Dieser Effekt ist nicht neu. Er wurde von Willam Stanley Jevons in den 1850er Jahren festgestellt, als er "beobachtete, dass Englands Kohleverbrauch in die Höhe schnellte, nachdem James Watt seine kohlebefeuerte Dampfmaschine eingeführt hatte, die die Effizienz der früheren Konstruktion von Thomas Newcomen erheblich verbesserte" +
+
+In Abbildung 143 habe ich die Haupteffekte skizziert. Erstens (*Punkt 1*) haben Sie eine Tätigkeit, die sich von der Genese bis zum Produkt entwickelt hat und schließlich stärker industrialisiert wird, z. B. eine Ware oder ein Dienstprogramm. Dies ermöglicht eine effizientere Bereitstellung des Aktes durch Mengenoperationen +
+
+Die stärker industrialisierte Komponente kann jedoch eine größere Nutzung der Komponente ermöglichen, da zuvor unwirtschaftliche Handlungen rentabel werden (*Punkt 2*). Es kann einen langen Schwanz von Dingen geben, die wir gerne tun würden, und unbefriedigte Bedürfnisse, die durch die Effizienz der Bereitstellung ermöglicht werden. Der letzte Aspekt (*Punkt 3*) ist, dass der Verbrauch der Komponente zunehmen wird, wenn sich neue Industrien entwickeln, die sie ermöglicht +
+
+.Jevons'sches Paradoxon
+[#img-fig143-jevons-paradox] 
+[caption="Abbildung 143: ",link=https://cdn-images-1.medium.com/max/1600/1*YPv3dP0Op-q2m4UM4jajdw.jpeg]
+image::1_YPv3dP0Op-q2m4UM4jajdw.jpeg[Abbildung 143 - Jevons Paradox,900,600,align=center]
+
+Aber kann ich das nicht einfach ignorieren? Wir sprechen hier von Markteffekten? Wird es nicht mein Budget reduzieren, weil ich mich nur darum kümmere, was ich produziere, und nicht darum, welche neue ausgefallene Industrie entsteht oder welche unbefriedigten Bedürfnisse nun befriedigt werden können? +
+
+Wenn Sie sich die EDV anschauen, dann kann ich für das gleiche Geld eine Million Mal mehr Ressourcen kaufen als noch vor zwanzig Jahren. Das bedeutet nicht, dass die IT-Budgets in dieser Zeit um das Millionenfache gesunken sind, stattdessen haben wir am Ende mehr Sachen gemacht. Verwechseln Sie nicht Effizienz mit reduzierten IT-Ausgaben.
+
+=== Die Wolke wird grün sein
+
+Ein weiteres häufiges Gesprächsthema im Jahr 2008 war die Frage, ob Cloud Computing grün sein würde. Das reichte von der Substitution physischer durch digitale Güter über die Ineffizienz der bestehenden Industrie bis hin zur Materialverschwendung durch ungenutzte Kapazitäten und die Energieversorgung. Es gab zweifellos eine Menge Verschwendung und Verbesserungspotenzial, so dass man ein Argument dafür finden könnte, dass Cloud grün ist. Es gibt jedoch etwas Langfristiges, über das man hier nachdenken sollte +
+
+Wenn wir eine Wertschöpfungskette betrachten, industrialisieren wir ständig Komponenten und bauen neue Systeme darauf auf. Maschinen auf der Mutter und Schraube. Intelligente Software-Agenten auf Datenbanken auf Computern auf Strom. Wir schaffen ständig Systeme höherer Ordnung, die auf stärker industrialisierten und geordneten Komponenten aufbauen. Wir bauen Türme der Ordnung aus dem Chaos. Wie bei anderen biologischen Systemen verringern wir die lokale Entropie, und das erfordert Energie. Wir mögen heute weit davon entfernt sein, Energie effizient zu nutzen, aber unabhängig davon wird unser grundlegender Bedarf und Verbrauch an Energie steigen (siehe Abbildung 144). Damit der Fortschritt grün ist, müssen wir uns zwangsläufig den Mitteln der Energieerzeugung zuwenden +
+
+.Spüren Sie die Kraft
+[#img-fig144-feel-the-power] 
+[caption="Abbildung 144: ",link=https://cdn-images-1.medium.com/max/1600/1*0QC0y16ovSOAY2cDwfaqjg.jpeg]
+image::1_0QC0y16ovSOAY2cDwfaqjg.jpeg[Abbildung 144 - Spüren Sie die Kraft,900,600,align=center]
+
+=== Wir können uns später damit befassen.
+
+Wann immer wir eine Verlagerung von Produkten zu mehr industrialisierten Formen wie Versorgungsunternehmen sehen, dann werden die meisten großen Unternehmen (mit Ausnahme der aufgeklärten) dazu neigen, die Veränderung zu ignorieren. Das liegt an der Trägheit, die durch bereits bestehende Praktiken, Anlagen und Märkte verursacht wird. Die wichtigsten Anzeichen werden oft übersehen, bis es zu spät ist. Eines dieser Anzeichen ist der Fluss des Finanzkapitals. Wir neigen dazu, eine deutliche Bewegung des Kapitals weg von den bestehenden Industrien (der Vergangenheit) und hin zu den stärker industrialisierten Formen und den darauf aufbauenden neuen Aktivitäten zu sehen +
+
+Wenn ich die Abbildung 143 von oben nehme und diesen Kapitalfluss zusammen mit dem Friedens-, Kriegs- und Wunderkreislauf darüber lege, dann bekommen wir ein Gefühl dafür, was passiert. Zur gleichen Zeit, in der eine Leistung durch industrialisierte Formen effizienter erbracht wird und die Nachfrage aufgrund eines langen Schwanzes unbefriedigter Bedürfnisse und der Schaffung neuer Industrien steigt, fließt das Finanzkapital weg von den bisherigen Produktanbietern hin zu den neuen Anbietern und neuen Unternehmen, die diese neuen Märkte bedienen. Nimmt man nun noch die Koevolution neuer Praktiken hinzu, die durch das sich entwickelnde Gesetz verursacht wird, die neuen Organisationsformen, die entstehen, die Geschwindigkeit des Wandels, die durch ein interpunktiertes Gleichgewicht verursacht wird, die Unvermeidbarkeit des Wandels (z.B. die Rote Königin) und die Untätigkeit vergangener Giganten, die durch Trägheit verursacht wird, dann hat man die Zerstörung der Vergangenheit zur gleichen Zeit, in der die Zukunft geschaffen wird. Die Kombination von Wettbewerb mit klimatischen Grundmustern wie Trägheit und Koevolution erzeugt diesen ständigen Pulsschlag von neuen Verbraucherbedürfnissen, neuen Anbietern, neuen Produktionsmethoden, neuen Märkten und neuen Organisationsformen. Dieser Herzschlag wurde von Joseph Schumpeter als "schöpferische Zerstörung" beschrieben (siehe Abbildung 145), und wenn er offensichtlich wird, ist es meist zu spät, um zu reagieren +
+
+.Schöpferische Zerstörung
+[#img-fig145-creative-destruction] 
+[caption="Abbildung 145: ",link=https://cdn-images-1.medium.com/max/1600/1*kjxswmy53A0j-_v8AG_0bA.jpeg]
+image::1_kjxswmy53A0j-_v8AG_0bA.jpeg[Abbildung 145 - Kreative Zerstörung,900,600,align=center]
+
+Aber halt! Wenn wir über den Zyklus Bescheid wissen, wenn wir schwache Signale nutzen können, um ihn vorherzusehen, wenn wir die verschiedenen Formen der Trägheit verstehen, dann können wir uns doch sicher vorbereiten und anpassen, wenn er auftritt? Warum in aller Welt sollte irgendein Unternehmen dadurch benachteiligt oder eliminiert werden? Das Problem ist Blindheit, und das führt zur nächsten Lüge, die wir uns einreden.
+
+=== Ausführung zählt mehr als die Strategie
+
+Eine Sache, die mir auf meiner Reise durch die Unternehmen aufgefallen war, war, dass nur wenige Beispiele für Karten zu haben schienen. Sie hatten Dinge, die sie Maps nannten, aber diesen Diagrammen fehlten die wesentlichen Eigenschaften, z. B. visuell, kontextspezifisch, Position relativ zu einem Anker und Bewegung. Wenn ich darauf hinwies, bekam ich oft eine Menge Gegenwind, vor allem was den Aspekt der Bewegung betraf. Das passiert auch heute noch, also ist es wert, es zu betonen +
+
+Bei der Bewegung geht es nicht einfach darum, eine Linie auf einem Bild zu zeichnen, sondern um die Konsistenz der Bedeutung einer solchen Linie. Position, Anker und Bewegung sind wesentlich für die Navigation. Schauen Sie sich Abbildung 146 an. Es ist ein Bauernhof (das ist der Kontext), es ist visuell, es hat die Position der Felder relativ zu einem Anker (in diesem Fall der Kompass) und Sie können Bewegung darauf zeichnen. Sie würden wahrscheinlich zustimmen, dass Sie diese Karte jemand anderem geben können und er könnte das Gerstenfeld damit ganz gut finden +
+
+.Eine Karte eines Bauernhofs
+[#img-fig146-a-map-of-a-farm] 
+[caption="Abbildung 146: ",link=https://cdn-images-1.medium.com/max/1600/1*Ls468awzqH49IDszYl6bNg.jpeg]
+image::1_Ls468awzqH49IDszYl6bNg.jpeg[Abbildung 146 - Karte einer Farm,900,600,align=center]
+
+Ich habe die gleiche Karte genommen, die gleiche Anzahl von Feldern sowie deren Form und relative Flächen beibehalten, aber jedes Konzept der Position und des Ankers entfernt. Ich habe die Felder einfach in der Reihenfolge ihres Typs angeordnet - Obst, Vieh und Getreide. Ich habe auch eine Bewegungslinie hinzugefügt. Die Frage ist: Könnten Sie diese "Karte" (Abbildung 147) jemand anderem geben und von ihm erwarten, dass er das Gerstenfeld findet? +
+
+.Eine "Landkarte" eines Bauernhofs
+[#img-fig147-a-quote-map-quote-of-a-farm] 
+[caption="Abbildung 147: ",link=https://cdn-images-1.medium.com/max/1600/1*TYQIm0rQtowVuy6BajZNOQ.jpeg]
+image::1_TYQIm0rQtowVuy6BajZNOQ.jpeg[Abbildung 147 - Eine "Landkarte" einer Farm,900,600,align=center]
+
+Es sollte offensichtlich sein, dass die Antwort nein lautet. Bewegung und ihre Konsistenz - man kann diesem Weg folgen, um von A nach B zu gelangen - sind nicht nur wesentliche Eigenschaften einer Karte, sondern sie erweisen sich auch als wesentlich für die Kartenerstellung. Erforscher können nicht erkunden, indem sie einfach nur stillsitzen, etwas muss sich bewegen (ob das nun sie selbst, eine Drohne oder ein Satellit ist, ist unerheblich). Aktion ist eine Notwendigkeit für die Erkundung +
+
+Diese Navigationseigenschaften ermöglichen es uns, etwas über die Umgebung zu lernen, sei es durch eine visuelle Form oder ein entsprechendes verinnerlichtes mentales Modell. Nehmen Sie zum Beispiel den U-Bahn-Plan. Die Stationen sind vielleicht nicht genau an der richtigen geografischen Position, aber es ist trotzdem eine nützliche Karte. Sie hat die Position der Stationen (verankert durch das U-Bahn-Netz selbst) und eine konsistente Bewegung zwischen ihnen. Wenn ich in der Bond Street bin, gibt es mehrere Wege, um zur Cannon Street zu gelangen, aber es gibt eine Konsistenz. Wenn ich mit der Circle Line gegen den Uhrzeigersinn fahre, dann weiß ich, dass ich auf meiner Reise durch South Kensington, Sloane Square, Victoria, St James' Park und Westminster fahre (*Punkt 3*, Abbildung 148). Gäbe es keine Konsistenz, dann könnte die Circle Line mich an einem Tag über Victoria, St. James' Park und Westminster führen und am nächsten Tag über Victoria, Edgeware Road und Mornington Crescent. Ich wüsste nicht, wo ich am Ende landen würde, und es wäre unmöglich zu navigieren +
+
+.Ein U-Bahn-Plan
+[#img-fig148-a-tube-map] 
+[caption="Abbildung 148: ",link=https://cdn-images-1.medium.com/max/1600/1*jB8TWp3_BVK9wJ5ynRDg8g.jpeg]
+image::1_jB8TWp3_BVK9wJ5ynRDg8g.jpeg[Abbildung 148 - Eine Rohrkarte,900,600,align=center]
+
+Natürlich muss der U-Bahn-Plan nicht wie der obige aussehen. Sie könnten Ihre eigene Variante erstellen, indem Sie einfach mit den Zügen fahren und die Stationen aufzeichnen. Solange Sie die Bewegung konsistent beschreiben können, ist es eine Karte, die Sie mit anderen teilen können. Nun, U-Bahn-Karten sind derzeit in der Geschäftswelt en vogue. Verschiedene Unternehmen erstellen sie, um komplexe Umgebungen zu beschreiben. In Abbildung 149 sehen wir zum Beispiel eine "tube map" der digitalen Welt. Der Karte fehlt der Kontext, da sie lediglich eine Gruppierung von Technologien und digitalen Konzepten darstellt. Sie hat die Position von Komponenten, aber es ist nicht klar, welcher Anker verwendet wird. Um von Online-Werbenetzwerken zu Agentur-Holdinggesellschaften zu gelangen, muss man laut der "Karte" durch soziale Werbung, dann durch E-Mail-Marketing, dann durch digitale Agenturen, dann durch Unternehmensberater, dann durch Kampagnenmanagement, dann durch Medienmetriken und schließlich durch Mediaagenturen reisen, um das Ziel zu erreichen. Stimmt das? Auf welcher Grundlage ist diese Bewegung konsistent und gerechtfertigt? Ich vermute, dass sie es nicht ist. Dies ist keine Landkarte, sondern ein Diagramm mit lose verbundenen Konzepten und fragwürdigen Beziehungen +
+
+.Eine Rohr-"Landkarte" der digitalen Welt
+[#img-fig149-a-tube-map-of-the-digital-world] 
+[caption="Abbildung 149: ",link=https://cdn-images-1.medium.com/max/1600/1*DAB6uF4ll3ereKcG_ob9UA.jpeg]
+image::1_DAB6uF4ll3ereKcG_ob9UA.jpeg[Abbildung 149 - Eine Röhren-"Karte" der digitalen Welt,900,600,align=center]
+
+Warum ist das also wichtig und was hat das mit der Ausführung zu tun? Ohne Karten wird das Situationsbewusstsein schlecht sein. Im Jahr 2008 war ich noch der festen Überzeugung, dass die Leute ihre Karten nur vor mir geheim halten, aber die Zweifel wuchsen. Ich fing an, den Gedanken zu haben, dass einige Unternehmen tatsächlich blind für Veränderungen sein könnten, und wenn die Leute die Umgebung, in der sie arbeiten, nicht sehen konnten, wie konnten sie sich dann auf vorhersehbare Formen von Veränderungen vorbereiten? Zu dem Zeitpunkt, an dem solche Veränderungen offensichtlich werden würden, würden ihr Tempo und die ihnen innewohnende Trägheit sie unüberwindbar und sogar fatal machen. In Gesprächen mit anderen wurde mir jedoch oft gesagt, dass dies keine Rolle spiele, dass die Strategie ziemlich bedeutungslos sei, verglichen mit dem wirklichen Schlüssel, der die Ausführung sei. Ich hatte auch Zweifel daran, weil das schnelle Abfeuern einer Waffe nichts bringt, wenn man nicht weiß, wohin man sie abfeuern soll +
+
+Im Jahr 2010 hat Professor Roger L. Martin diese Vorstellung in "Die Ausführungsfalle" frontal herausgefordert. Wenn Sie es nicht gelesen haben, tun Sie es. Martins Argument war, dass es keine Unterscheidung zwischen Ausführung und Strategie gibt, sie sind Teil der gleichen Sache. Rein zufällig hatte ich dann 2012 im Rahmen eines LEF-Forschungsprojekts die Gelegenheit, dies zu testen +
+
+Jedes Unternehmen sagte mir, dass sie eine Strategie hätten, aber ich war mir sehr bewusst, dass es unterschiedliche Ebenen des Situationsbewusstseins gab. Ich hatte 160 Unternehmen aus dem Silicon Valley befragt und nach Beispielen für offenes Spiel gesucht, ob Open Source, offene Daten oder offene Standards. Ich verglich diese Unternehmen mit ihrem strategischen Spielniveau, basierend auf dem Situationsbewusstsein (d.h. mit ihrem Verständnis der eigenen Wertschöpfungsketten und der der Konkurrenten und wie diese sich entwickeln) im Vergleich zu ihrer Bereitschaft, Maßnahmen zu ergreifen (in diesem Fall, einen offenen Ansatz zu nutzen, um einen Markt zu verändern). Das Ergebnis ist in Abbildung 150 dargestellt +
+
+.Bewusstheit vs. Aktion
+[#img-fig150-awareness-vs-action] 
+[caption="Abbildung 150: ",link=https://cdn-images-1.medium.com/max/1600/1*fi_wQGoQaDbn9XmhLT1E8w.jpeg]
+image::1_fi_wQGoQaDbn9XmhLT1E8w.jpeg[Abbildung 150 - Awareness vs. Action,900,600,align=center]
+
+Leading Edge Forum 2012 Studie zu Situationsbewusstsein versus Handeln +
+
+Je größer die Blasen, desto mehr Unternehmen waren an diesem Punkt. Dies war das Silicon Valley, angeblich das obere Ende des Wettbewerbs, und selbst hier gab es Unternehmen, die strategische Spielzüge auf der Basis eines geringen Situationsbewusstseins und in einigen Fällen nahezu Blindheit gegenüber ihrer Umgebung entwickelten. Nicht wenige verstanden nicht nur die Evolution nicht, sie kannten auch ihre Wertschöpfungsketten nicht oder wussten nicht einmal, was ihre Anwender brauchten +
+Wenn nun die Ausführung regiert, dann sollten die Unternehmen auf der rechten Seite dieses Diagramms mit einer hohen Tendenz zum Handeln im Durchschnitt wahrscheinlich besser abschneiden. Natürlich, wenn strategisches Spiel basierend auf Situationsbewusstsein wichtig wäre, dann sollten die Unternehmen am oberen Rand der Grafik besser abschneiden. Aus Neugier habe ich beschlossen, die Veränderungen der Marktkapitalisierung dieser Unternehmen über die letzten 7 Jahre zu untersuchen. Die Ergebnisse sind in Abbildung 151 dargestellt +
+
+.Auswirkungen auf die Marktkapitalisierung
+[#img-fig151-market-capitalisation-impact] 
+[caption="Abbildung 151: ",link=https://cdn-images-1.medium.com/max/1600/1*GTPhHpsolMRfBGdnGTkHNQ.jpeg]
+image::1_GTPhHpsolMRfBGdnGTkHNQ.jpeg[Abbildung 151 - Auswirkungen der Marktkapitalisierung,900,600,align=center]
+
+Leading Edge Forum 2012 Studie zu Situationsbewusstsein versus Handeln +
+
+Ich kann nicht wiederholen, was meine erste Reaktion war, aber lassen Sie uns einfach sagen, dass ich sehr überrascht war. Was die Daten stark nahelegen, ist, dass Unternehmen mit einem hohen Maß an strategischem Spiel, das auf Situationsbewusstsein und einer Neigung zum Handeln basiert, besser abschneiden als solche, die das nicht tun. Es reicht nicht aus, nur den Fokus auf Aktion zu haben +
+
+Bei Unternehmen mit geringem Situationsbewusstsein (d. h. bei denen in der unteren Hälfte) kommt es auf das Handeln an (und darauf, wie gut man es umsetzt). Diejenigen mit schlechtem Situationsbewusstsein und geringer Neigung zum Handeln schnitten negativ ab, während diejenigen mit schlechtem Bewusstsein, aber hoher Tendenz zum Handeln eher neutral waren. Mit anderen Worten: Wenn Sie blind für die Umgebung sind, ist es besser, schneller und mit mehr Wucht zu schießen, nur für den Fall, dass Sie tatsächlich etwas treffen. Wenn Sie also gegen andere mit schlechtem Situationsbewusstsein antreten, dann kann ich verstehen, wie das Argument "Ausführung zählt mehr als Strategie" entstehen kann +
+
+Wenn Sie jedoch ein schlechtes Situationsbewusstsein haben und gegen jemanden mit einem hohen Situationsbewusstsein antreten, dann haben Sie vielleicht eine viel höhere Neigung zum Handeln und eine bessere Ausführung, aber sie werden trotzdem dazu neigen, Sie zu übertreffen. Ich stimme stark mit Professor Martin überein, dass Strategie und Ausführung Teil derselben Sache sind, aber ich füge auch hinzu, dass Situationsbewusstsein ein wichtiger Teil davon ist. Diese Studie fand jedoch im Silicon Valley statt und das Niveau des Situationsbewusstseins verschlechterte sich tendenziell außerhalb dieses Kessels der Kreativität. Ich hatte mehrere Jahre gebraucht, um einige schwache Beweise zu entdecken, die meinen anfänglichen Verdacht untermauerten, dass Unternehmensblindheit (d. h. ein sehr niedriges Niveau an Situationsbewusstsein) ein Problem ist. Aber wie weit ist das verbreitet?
+
+=== Wie häufig ist Betriebsblindheit?
+
+Im Jahr 2014 habe ich mit der Modellierung von Agenten in einem wettbewerbsintensiven Markt herumgespielt und verschiedene Auswirkungen auf die Langlebigkeit von Unternehmen untersucht. Das geschah zum Teil aus Neugierde, aus Lust am Lernen und aus allgemeinem Spieltrieb. Ich hatte nicht erwartet, etwas zu finden. Ich habe eine Simulation mit 1.000 Agenten (Unternehmen) erstellt, die gegeneinander konkurrieren, wobei jedes Unternehmen ein Startalter von 45 Jahren hat. Ich fügte einige Variablen für die Disruption durch Produkt-gegen-Produkt-Substitution hinzu, überlagerte einen Friedens-, Kriegs- und Wunder-Zyklus mit neuen Marktteilnehmern und der Disruption bisheriger Spieler. Dann fügte ich Schritte für die Beschleunigung der Evolution durch die Industrialisierung der Kommunikationsmechanismen hinzu. Ich habe eine Vielzahl von Szenarien durchgespielt und festgestellt, dass sich allmählich Muster herausbilden. Eines der interessantesten ist in Abbildung 152 dargestellt +
+
+.Agentenmodellierung des Wettbewerbs
+[#img-fig152-agent-modelling-of-competition] 
+[caption="Abbildung 152: ",link=https://cdn-images-1.medium.com/max/1600/1*Bmlsk_KnSIjROeItAvedDQ.jpeg]
+image::1_Bmlsk_KnSIjROeItAvedDQ.jpeg[Abbildung 152 - Agentenmodellierung des Wettbewerbs,900,600,align=center]
+
+Was in der obigen Darstellung passiert, ist eine konstante Wellenbewegung im durchschnittlichen Unternehmensalter der Top 400 in der Simulation. Das System versucht ständig, zu einem höheren Durchschnittsalter zurückzukehren, aber die ständigen Kriege und Unterbrechungen durch neue Marktteilnehmer (zusätzlich zur normalen Substitution von Produkt zu Produkt) halten dies in Schach. Die Beschleunigung der Evolution (durch die Industrialisierung der Kommunikationsmittel) bewirkt jedoch eine Verschiebung nach unten zu einem niedrigeren Alter und einem neuen stabilen Plateau, um das das Alter oszilliert. Das Interessante an diesem Muster ist, dass es Richard N. Fosters Untersuchung des durchschnittlichen Unternehmensalters im S and P 500 ziemlich genau nachahmt, obwohl es sich um ein Zufallsagentenmodell mit festgelegten Regeln und Parametern handelt, d. h. um Automaten in einer Variation von Conways Game of Life +
+
+Warum ist das interessant? Nun, die Agenten sind Automaten, die blind für die Umgebung sind. Das Muster wird in hohem Maße von der Anpassungsfähigkeit der Agenten beeinflusst, d.h. wenn wir ein hohes Maß an Situationsbewusstsein und die Fähigkeit der Unternehmen, sich weiterzuentwickeln, annehmen, dann tritt dieses Muster nicht auf und es entsteht ein völlig anderes Muster der Dominanz. Dies, in Kombination mit meinen eigenen Erfahrungen in der Industrie und früheren Experimenten zu Situationsbewusstsein versus Handeln, gab mir ein gewisses Vertrauen in das, was ich 2008 zu vermuten begann. Große Teile der Industrie sind blind für die Umgebung, in der sie konkurrieren.
+
+=== Wir sind nicht blind, wir haben Prinzipien!
+
+Eine häufige Entgegnung auf diese Idee, dass Unternehmen blind spielen, war, dass es keine Rolle spielt. Wenn wir die idealen Algorithmen, Regeln oder Prinzipien finden könnten, dann könnten wir diese tragende Organisation schaffen. Man kann sich das als eine Variation von Conways Spiel des Lebens vorstellen, aber mit der Einbildung, dass wir nur den richtigen Code finden müssen und das Problem mit meiner Simulation darin besteht, dass ich einfach die falschen Prinzipien hatte. Um dies herauszufordern, verwende ich ein wenig WoW +
+
+Ich habe oft festgestellt, dass World of Warcraft (ein Massive Multiplayer Online Role Playing Game, bekannt als WoW) ein nützliches Vehikel ist, um grundlegende Konzepte der Strategie zu erklären und zu erforschen, und dies ist keine Ausnahme. In diesem Beispiel möchte ich, dass Sie sich zwei Teams von Spielern vorstellen - die Horde und die Allianz - die sich darauf vorbereiten, zum ersten Mal auf einem Schlachtfeld namens Kriegshymnenschlucht zu kämpfen +
+
+Beide Teams haben eine kurze Zeit, um sich vorzubereiten, bevor die Schlacht beginnt. Der Gewinner ist das Team, das die gegnerische Flagge dreimal erobert. Gehen wir davon aus, dass keines der beiden Teams schon einmal in der Kriegshymnenschlucht war oder Erfahrung mit Kämpfen auf Schlachtfeldern hat. Nur zur Erinnerung: Wenn Ihr Charakter auf dem Schlachtfeld getötet wird, erwacht er ein paar Augenblicke später auf dem Friedhof Ihres Teams wieder zum Leben. Ein Team (die Allianz) skizziert seine Strategie, wie es die Schlacht gewinnen will. Sie besteht aus fünf Prinzipien, auf die sie sich geeinigt haben. Diese sind :- +
+
+* Fokus* : Erobere die Flagge und gewinne das Spiel! +
+
+* Doktrin* :
+
+* Mach das mit tollen Leuten! Wir werden die besten Kämpfer, Zauberer und Heiler sein.
+* Seien Sie bereit, Risiken einzugehen und schnell zu scheitern! Wir werden nicht einfach auf Nummer sicher gehen.
+* Eine unterstützende Kultur! Wir helfen uns gegenseitig, wenn wir gefragt werden.
+* Offen für Herausforderungen und das Stellen von schwierigen Fragen.
+
+Das Team ist enthusiastisch und bereit, loszulegen. Ihnen gegenüber steht das Team der Horde-Spieler. Sie haben auch ihre Zeit mit der Vorbereitung verbracht, aber das Ergebnis ist etwas anders. Dieses Team versteht die Bedeutung von Karten und nutzt sie für strategisches Spiel. Sie haben eine Karte der Kriegshymnenschlucht und haben eine "Strategie" entwickelt, die aus :- besteht +
+
+* Fokus* : Erobere die Flagge und gewinne das Spiel! +
+
+* Doktrin* :
+
+* Führen Sie Ihre Rolle so gut Sie können aus (Entwickeln Sie Meisterschaft).
+* Als eine Einheit (eine Zelle) agieren, d. h. gemeinsam kämpfen und sich bewegen.
+
+* Kontextspezifisches Spiel* :
+
+* Zu Beginn agiert das Team als eine Zelle in einem anfänglichen Rundumschlag. Die Gruppe bewegt sich schnell durch den zentralen Tunnel in Richtung der gegnerischen Basis und schaltet dabei gegnerische Spieler aus, die sich einmischen. Schalten Sie immer zuerst gegnerische Heiler, dann Zauberer und dann Kämpfer aus.
+* Sobald ihre Flagge von unserem Kämpfer erobert wurde, wird die Gruppe daran arbeiten, gegnerische Spieler auszuschalten und ein Lager auf dem gegnerischen Friedhof zu errichten - siehe Karte (Abbildung 153) - und deren Spieler zu töten, sobald sie wiederbelebt werden und bevor sie irgendeine Form von Gruppe bilden. Das Verspotten von Allianzspielern ist erwünscht.
+* Sobald ihr Friedhof eingedämmt ist, wird sich die Zelle in zwei Zellen aufteilen. Eine kleine Offensivgruppe, bestehend aus ein paar Zauberern, schaltet gegnerische Nachzügler aus, während die größere Zelle (einschließlich unseres Flaggenträgers) weiterhin auf dem Friedhof des gegnerischen Teams kampiert und alle Spieler tötet, die wieder auferstehen. Sobald die gegnerischen Spieler auf dem Friedhof eingeschlossen sind, wird sich die Zelle neu formieren und unser Kämpfer wird weiterhin die Flagge tragen. Wenn der Plan scheitert, formiert sich die Gruppe um unseren Flaggenträger.
+
+.Die Karte des Stücks
+[#img-fig153-the-map-of-the-play] 
+[caption="Abbildung 153: ",link=https://cdn-images-1.medium.com/max/1600/1*hI_HiEEL4UwPoZV5TUhR3g.jpeg]
+image::1_hI_HiEEL4UwPoZV5TUhR3g.jpeg[Abbildung 153 - Die Karte des Spiels,900,600,align=center]
+
+Kommentierte In-Game-Karte von Warsong Gluch, World of Warcraft +
+
+Jetzt hat das Horde-Team einen Fokus, Prinzipien und eine Form von kontextspezifischer Strategie, die auf einem Verständnis der Umgebung basiert. Es könnte sein, dass es nicht funktioniert, aber dann können die Horde-Spieler ihre Karten nutzen, um ihr Gameplay mit der Zeit zu verfeinern. Ich kann fast garantieren, dass, wenn die Schlacht losgeht, die ersten Fragen der Allianz-Spieler lauten werden: "Sollen wir angreifen oder verteidigen?" und "Wohin müssen wir gehen?" +
+
+Es wird schnell zu Streitigkeiten innerhalb des Allianz-Teams kommen und ehe sie sich versehen, ist die Horde über sie hergefallen. Die nächsten Schreie, die Sie von den Mitgliedern der Allianz hören werden, werden "Hilfe!" und "Warum hilft mir niemand, ich brauche hier Hilfe!" und "Wo bist du?" sein, gefolgt von endlosem Gezänk, dass dieser oder jener Spieler nicht gut genug ist, um Teil des Teams zu sein, kombiniert mit vielen Rufen nach "Was ist hier los?" oder "Wo sind alle?" oder "Soll ich mir ihre Flagge schnappen?". Aller Wahrscheinlichkeit nach wird das Team der Allianz schnell in ein panisches Getümmel zerfallen. Ich weiß es, ich war in diesem Team und habe das Chaos beobachtet +
+
+Der Punkt, den ich betonen möchte, ist, dass Prinzipien in Ordnung sind und ja, Strategie muss sich dem Spiel anpassen, aber verwechseln Sie die beiden nicht. Ein Satz von Prinzipien macht noch keine Strategie. Obwohl es sicherlich besser ist, eine Reihe von Prinzipien zu haben, als keine Prinzipien und keine Strategie zu haben. Das gilt auch für das Geschäft +
+
+Es gibt jedoch noch einen weiteren Aspekt zu berücksichtigen. In World of Warcraft gibt es viele Teams aus Horde- und Allianz-Spielern. Stellen Sie sich vor, die Allianz-Spieler haben nicht nur keine Karte, sie kennen nicht einmal das Konzept einer Karte. Alles, was sie tun können, ist, einige Prinzipien auszuprobieren und sie von einem Team zum anderen als "Geheimnisse des Erfolgs" weiterzugeben. Stellen Sie sich vor, die Horde-Spieler verstehen das Konzept von Karten, benutzen sie und tauschen sie untereinander aus. Ziemlich bald wird jedes Horde-Team mit einer Vielzahl von strategischen Spielzügen gewinnen. Die Allianz hat keine Chance, bis jeder Spieler der Allianz ein mentales Modell der Welt (eine interne Karte) aufgebaut hat. Natürlich reduziert jeder neue Spieler, der der Allianz beitritt, dieses gemeinsame Verständnis. Das Beste, was die Allianz tun kann, ist, dem neuen Spieler zu sagen: "Wende die Prinzipien an und folge Morgana, der Zauberin. Tu einfach, was sie tut", in der Hoffnung, dass der neue Spieler eine Art mentale Karte aufbaut +
+
+Prinzipien werden Sie nicht vor einem weitaus höheren Maß an Situationsbewusstsein bewahren. Fragen Sie sich nun, was wir in der Wirtschaft tun? Nutzen wir Karten für kontextspezifisches Spielen, Lernen und Kommunikation oder ist unsere Strategie eher das Kopieren von "Erfolgsgeheimnissen" und "anderen folgen", d. h. wir sollten wie Amazon, Netflix oder AirBnB sein? Spielen wir das Spiel wie die Allianz oder die Horde? So verlockend es auch ist, es gibt keine Geheimformel und kein magisches Erfolgsgeheimnis +
+
+Conways Game of Life bestand aus Automaten, die nicht von der Umwelt lernten. Das sind wir nicht. Das Bewusstsein für die Umwelt wird immer einen Vorteil gegenüber anderen schaffen, und ja, ich fürchte, das Wesen des Wettbewerbs (sogar des kooperativen Wettbewerbs) besteht darin, einen Vorteil zu schaffen. Wenn überhaupt, dann ist das Verstehen der Landschaft besser als die Konkurrenten der einzige Bereich, in dem ein kontinuierlicher, nachhaltiger Vorteil entsteht, weil sich die Landschaft des Geschäfts immer wieder verändert.
+
+=== Fokus auf Kern!
+
+Ein weiterer gemeinsamer Gegenpol, der angesprochen wurde, war die Bedeutung des Kerns, ein Ziel und einen klar definierten Zweck zu haben. Zur gleichen Zeit, als die Leute über das "Ziel" sprachen, schwärmte das Silicon Valley über den "Pivot". Kurz gesagt, man sollte ein Ziel haben, solange man nicht zu einem anderen Ziel schwenkt. Stellen Sie sich das vor! +
+
+Das Problem ist natürlich, dass Strategie kein langer linearer Weg ist, sondern ein ständig iterativer Prozess. Die Aktionen, die Sie oder andere unternehmen, können das Spiel verändern. Alles, was Sie hoffen können, ist, eine Richtung vorzugeben und sich auf dem Weg anzupassen oder wie Deng Xiaoping sagen würde _"überqueren Sie den Fluss, indem Sie die Steine fühlen"_. Core ist bestenfalls vergänglich, egal ob Sie ein Softwareunternehmen oder eine Anwaltskanzlei sind +
+
+Nehmen wir das Beispiel einer Anwaltskanzlei. Sie müssen nur in die 1980er Jahre zurückreisen, um eine Welt zu finden, in der das Schreiben von Testamenten eine ziemlich maßgeschneiderte Tätigkeit war und Anwaltskanzleien nicht unerhebliche Summen mit solchen Praktiken verdienten. Es gab einen Zwang in Bezug auf Anwälte, d.h. man brauchte einen Anwalt, um sein Testament zu schreiben. Natürlich kam die Industrialisierung, Testamente wurden durch Standardvorlagen und Online-Dienste immer mehr zu einer automatisierten Ware. Trotz des Zähneknirschens und der Trägheit, die durch den Erfolg der Vergangenheit entstanden ist (*Punkt* 1, Abbildung 154), musste sich die Industrie anpassen. Ich habe mir die Freiheit genommen und die Komponenten wie Templates und Computing zur Automatisierung vereinfacht. Was ich anmerken möchte, ist, dass der Zwang zwischen Anwälten und Testamenten gebrochen wurde. Glücklicherweise gab es eine große Vielfalt anderer Vertragsstrukturen, die von den Anwendern gefordert wurden +
+
+.Änderung des Testaments
+[#img-fig154-change-to-wills] 
+[caption="Abbildung 154: ",link=https://cdn-images-1.medium.com/max/1600/1*_bretg8HGLpCMHhys6hFaQ.jpeg]
+image::1__bretg8HGLpCMHhys6hFaQ.jpeg[Abbildung 154 - Willensänderung,900,600,align=center]
+
+Leider steht die Branche trotz der jüngsten Erfahrungen mit diesem Wandel wieder einmal vor einer Industrialisierung der allgemeinen Vertragserstellung durch den Einsatz von KI-Systemen. Natürlich gibt es die übliche Trägheit gegenüber solchen Veränderungen -_ es ist ein Beziehungsgeschäft, sie werden nicht gut genug sein_ - aber da wir diesen Zyklus in dieser Branche seit Menschengedenken durchlaufen haben, besteht die Hoffnung, dass sich dieses Mal mehr erfolgreich anpassen werden. Ich vermute nicht (siehe Abbildung 155). Wieder einmal wird der Zwang der Anwälte, aber dieses Mal zu Verträgen, gebrochen werden +
+
+.Ändern von Verträgen
+[#img-fig155-change-to-contracts] 
+[caption="Abbildung 155: ",link=https://cdn-images-1.medium.com/max/1600/1*JqBnjUrSYXo8RCJg2LDyWA.jpeg]
+image::1_JqBnjUrSYXo8RCJg2LDyWA.jpeg[Abbildung 155 - Wechsel zu Kontrakten,900,600,align=center]
+
+Der Punkt ist, dass, wenn Ihre Vision war, persönliche Testamente und Verträge zu schreiben, die auf dem Zugang zu Anwälten basieren, dann wird das, was in den 1980er Jahren funktionierte, im Jahr 2030 hauptsächlich irrelevant oder bestenfalls ein Nischenmarkt sein. Daran können Sie nichts ändern, denn Sie haben nicht die alleinige Kontrolle, es gibt andere Akteure auf dem Markt, und nur weil Sie nicht wollen, dass es zu einer Ware wird, hindert das andere nicht daran, es als solche auszubeuten +
+
+Diese Art von Veränderungen können Sie aus mehreren Richtungen treffen, auch von weiter unten in der Wertschöpfungskette, indem sie die Eintrittsbarrieren in Ihren Markt verringern. Ein aktuelles Beispiel dafür ist die Zeitungsbranche mit der Druckmaschine. In den 1980er Jahren musste man, wenn man Journalist werden wollte, für eine Zeitung arbeiten, die ein Vertriebsnetz und Druckmaschinen besaß oder Zugang zu diesen hatte. Diese kapitalintensiven Anlagen waren ein Hemmnis, das als Eintrittsbarriere fungierte. Sie waren auch ein Mechanismus der Kontrolle über Journalisten - es gab eine begrenzte Anzahl von Zeitungen, für die man arbeiten konnte +
+
+Die Industrialisierung der Massenkommunikationsmittel durch das Internet wurde zunächst als potenzieller Segen für die Medienbranche angesehen. Es hat jedoch den Zwang gebrochen, was dazu geführt hat, dass eine Flut von neuen Anbietern auf den Markt gekommen ist. Auch kann nun jeder Journalist seine eigene Online-Zeitung gründen. Diese Befreiung änderte den Hauptgrund, warum man für eine Zeitung arbeiten würde. Nicht mehr, weil sie die Vertriebsmittel kontrollieren, sondern wegen des sozialen Kapitals - ihres Netzwerks, ihrer Marke, ihres Rufs - und des Zugangs zu anderen Dienstleistungen. Die Medienindustrie musste sich anpassen oder in einigen Fällen scheitern +
+
+Aber selbst das Sammeln, Kuratieren und Schreiben von Nachrichten steht nun unter dem Druck der KI, da diese in der Wirtschafts- und Sportberichterstattung immer häufiger eingesetzt wird. Die 1977 gegründete National Society of Newspaper Columnists (Nationale Gesellschaft der Zeitungskolumnisten) hat es sich zur Aufgabe gemacht, Professionalität und Kameradschaft unter Kolumnisten und anderen Autoren zu fördern Ähnlich verhält es sich mit der Automobilindustrie, wo ein Kernfokus auf das menschliche Fahrerlebnis für die Vergangenheit relevant sein mag, aber irrelevant oder eine Nische in einer Zukunft mit selbstfahrenden Autos. Von allen Begriffen, die mir begegnen, ist der Fokus auf den Kern wahrscheinlich der destruktivste für die Langlebigkeit eines Unternehmens. Um ihn zu überwinden, muss man einfach die Wahrheit akzeptieren, dass es keinen Kern gibt, sondern nur einen vergänglichen Fokus.
+
+== Mastering-Strategie so einfach wie möglich
+
+Wir haben in diesen Kapiteln sehr viel behandelt, daher dachte ich, dass ich in diesen letzten Abschnitten einige der Grundlagen wiederholen würde, wie man die Strategie _beherrscht_. Sie werden das für das Szenario brauchen. Ich habe _beherrschen_ kursiv geschrieben, weil ich nicht wirklich eine Ahnung habe, wie man das macht. Ich lerne immer noch, und ich benutze Karten schon seit über einem Jahrzehnt. Im Moment kann ich nur sagen, dass Strategie eine Reise des ständigen Lernens zu sein scheint, und je mehr ich lerne, desto mehr wird mir klar, wie wenig ich weiß. Wenn jemand tatsächlich ein Meister wird, dann würde ich mich freuen, darüber zu lesen, wie er es geschafft hat. Vielleicht gibt es einen schnelleren Weg, eine Strategie zu meistern, als eine scheinbar endlose Reise des Lernens. Vielleicht gibt es sogar ein 2x2, das alles erklärt, aber bis jetzt habe ich es nicht gefunden. In Ermangelung einer wunderbaren Lösung gebe ich Ihnen daher einige grundlegende Schritte.
+
+=== Schritt 1 - Der Zyklus
+
+Verstehen Sie, dass Strategie ein kontinuierlicher Zyklus ist. Sie haben nicht alle Informationen, die Sie benötigen, Sie kennen nicht alle Muster und es gibt viele Aspekte des Lebens, die unsicher sind. Glücklicherweise ist nicht alles ungewiss. Beginnen Sie mit einer Richtung (d.h. einem Warum der Absicht, wie in "Ich möchte diese Schachpartie gewinnen"), aber seien Sie darauf vorbereitet, sich anzupassen, wenn sich das Spiel entfaltet (d.h. das Warum der Bewegung, wie in "Soll ich diese oder jene Schachfigur bewegen?"). Ihr erster Schritt auf der Reise ist es, den Zyklus der Strategie zu verstehen - Figur 156. Viele Leute können Ihnen hier helfen, von John Boyd (OODA-Schleifen) bis Sun Tzu (Kunst des Krieges) +
+
+.Der Strategiezyklus
+[#img-fig156-the-strategy-cycle] 
+[caption="Abbildung 156: ",link=https://cdn-images-1.medium.com/max/1600/1*GmZy2zqOWgyI6LMxD5IIrQ.jpeg]
+image::1_GmZy2zqOWgyI6LMxD5IIrQ.jpeg[Abbildung 156 - der Strategiezyklus,900,600,align=center]
+
+=== Schritt 2 - Lernen Sie die Landschaft kennen
+
+Ihr nächster Schritt ist die Beobachtung des Spiels, d. h. die Betrachtung der Landschaft - Abbildung 157. Dies ist wichtig, damit Sie etwas über das Spiel lernen, mit anderen kommunizieren und Veränderungen antizipieren können. Um die Landschaft zu beobachten, müssen Sie eine Karte ihres Kontextes haben. Jede Karte muss die folgenden grundlegenden Eigenschaften haben: Sie muss visuell sein, kontextspezifisch (d.h. auf das jeweilige Spiel und die beteiligten Figuren bezogen), die Position der Figuren relativ zu einem Anker (bei geografischen Karten ist dies der Kompass, beim Schach ist es das Brett selbst) und die Bewegung (d.h. wie sich die Dinge ändern können, die Beschränkung der Möglichkeiten). Im Geschäftsleben haben extrem wenige Unternehmen Landkarten und machen sich daher nicht zu viele Gedanken darüber, wohin andere gehen oder welche großen Ankündigungen sie machen könnten +
+
+.Erstellen einer Karte
+[#img-fig157-build-a-map] 
+[caption="Abbildung 157: ",link=https://cdn-images-1.medium.com/max/1600/1*dSUtviaj5TbcmK4JdYgPVw.jpeg]
+image::1_dSUtviaj5TbcmK4JdYgPVw.jpeg[Abbildung 157 - Erstellen einer Karte,900,600,align=center]
+
+=== Schritt 3 - Klimamuster lernen und nutzen
+
+Sobald Sie eine Karte haben, können Sie damit beginnen, den nächsten Teil des Strategiezyklus zu erlernen, nämlich die klimatischen Muster. In Business Maps sind dies die allgemeinen wirtschaftlichen Muster, die alle Spieler betreffen und als Spielregeln betrachtet werden können. Nutzen Sie diese Muster, um zu versuchen, vorauszusehen, wohin sich der Markt bewegt. Je mehr Sie spielen, desto mehr Regeln werden Sie entdecken. Es ist wirklich wichtig, dass Sie, bevor Sie versuchen, sich zu organisieren und zu strukturieren (d.h. eine Doktrin anzuwenden), darauf achten, wohin der Markt geht und nicht, wo er war. Niemand gewinnt jemals, indem er die perfekte Struktur für die Vergangenheit aufbaut. Wir haben eine ziemlich umfangreiche Anzahl der grundlegenden ökonomischen Muster abgedeckt, aber ich werde sie nach und nach auflisten und bei Bedarf ein paar weitere Schnörkel hinzufügen.
+
+=== Klimamuster
+
+_Alles entwickelt sich durch den Wettbewerb von Angebot und Nachfrage_ +
+
+Wenn die Bedingungen bestehen, dass eine Person oder eine Gruppe von Menschen danach strebt, eine Form von Vorteil oder Kontrolle über andere aufgrund einer Einschränkung (d. h. einer Begrenzung einer Ressource oder Zeit oder Geld oder Menschen) zu erlangen, dann haben wir Wettbewerb. Wenn Wettbewerb besteht, dann werden sich die betroffenen Komponenten bis zur Industrialisierung entwickeln. Dies wirkt sich auf alles aus, von Aktivitäten (was wir tun), Praktiken (wie wir etwas tun), Daten (wie wir etwas messen) bis hin zu Wissen (wie wir etwas verstehen). Die Landkarte ist nie statisch, sondern dynamisch. Es ist auch wichtig zu verstehen, dass man, wenn es Wettbewerb gibt, in Konflikt mit anderen gerät. Manchmal lässt sich dieser am besten durch Coopetition (d.h. kooperativen Wettbewerb) und den Aufbau von Allianzen lösen. In anderen Fällen, abhängig vom Kontext, muss man kämpfen, bis hin zu einem Spiel des letzten Mannes, der noch steht. In jeder bedeutenden Landschaft werden Sie sich dann wahrscheinlich dabei ertappen, wie Sie in einem Teil der Karte Allianzen aufbauen, während Sie gleichzeitig in einem anderen Teil gegen andere Unternehmen kämpfen und sich aus einem dritten zurückziehen. Wenn sich jedoch die Komponenten auf Ihrer Karte weiterentwickeln, können Ihre ehemaligen Verbündeten zu Feinden werden und umgekehrt. Microsoft und Open Source waren früher Todfeinde, heute sind sie oft beste Kumpel. Um eine solch dynamische und fließende Umgebung zu verwalten, müssen Sie in der Lage sein, sie zu beobachten +
+
+_Die Evolution besteht aus mehreren Wellen der Diffusion mit vielen Abgründen._ +
+
+Die Evolution besteht aus vielen Instanzen der gleichen Handlung, z. B. einem Telefon, einem besseren Telefon und einem noch besseren Telefon. Jede Instanz einer sich entwickelnden Handlung wird sich über den entsprechenden Markt verbreiten. Diese Märkte ändern sich, wenn sich die Handlung weiterentwickelt, d. h. der Markt für die ersten kundenspezifisch gefertigten Telefone ist nicht derselbe wie der Markt für stärker industrialisierte Telefone. Der Evolutionsprozess kann anhaltende, inkrementelle und diskontinuierliche Veränderungen beinhalten, z. B. Verbesserungen von Produkt zu Produkt oder Substitution von Produkt zu Produkt. Dieser Weg ist nicht glatt, er ist nicht linear, er hat viele Verzweigungen und Sackgassen (z. B. Telefone, die gescheitert sind). Außerdem sind die Aktionen der einzelnen Akteure unvorhersehbar. Daher kann man die Richtung kennen (z. B. Telefone werden sich im Laufe der Zeit industrialisieren), aber nicht die Schritte und den genauen Weg (dieses Telefon wird erfolgreicher sein als jenes), bis man ihn gegangen ist +
+
+_Sie können die Entwicklung über die Zeit oder die Übernahme nicht messen._ +
+
+Der einzige konsistente Mechanismus, den ich gefunden habe, um Evolution zu messen, ist Ubiquität und Gewissheit, d.h. wie gut verstanden, vollständig und / oder passend etwas für die Umgebung ist +
+
+_Je weniger entwickelt etwas ist, desto unsicherer ist es_ +
+
+Das Neue und Neuartige ist per Definition unsicherer als industrialisierte Komponenten wie Rohstoffe und Versorgungseinrichtungen. Der unerforschte Raum besteht aus dem Unbekannten, d. h. "Ere be dragons" +
+
+_Keine Wahl bei der Evolution_ +
+
+In einem konkurrierenden Ökosystem steigt dann der Druck zur Übernahme einer erfolgreichen Änderung, je mehr die Änderung übernehmen. Dies ist als "Red Queen"-Effekt bekannt, d. h. man muss sich ständig anpassen, um (in Bezug auf die relative Position zu anderen) still zu halten. Das Einzige, was Stillstand garantiert, ist, dass Sie überholt werden. Die "Rote Königin" hat einen sekundären Effekt, der darin besteht, dass die Konkurrenten durch Anpassung das Wachstum eines einzelnen Unternehmens begrenzen und einen Weglaufprozess verhindern +
+
+_Kommoditisierung ist nicht gleich Zentralisierung_ +
+
+Verwechseln Sie nicht die Entwicklung zu einer Ware mit Zentralisierung. Sie werden von unterschiedlichen Faktoren bestimmt und eine industrialisierte Komponente kann leicht zwischen zentralisierten und dezentralisierten Formen hin- und herwechseln. Das Spiel der Konkurrenten ist einer der Faktoren, die bestimmen, ob wir mit einer eher zentralisierten oder dezentralisierten Welt beginnen werden +
+
+_Merkmale ändern sich mit der Entwicklung der Komponenten_ +
+
+Die Eigenschaften einer Komponente im unerforschten Raum sind nicht die gleichen wie die Eigenschaften der gleichen Komponente, wenn sie industrialisiert wird. In jedem großen System haben Sie dann wahrscheinlich Komponenten an verschiedenen Enden der Evolutionsskala. Dies führt zu dem Innovationsparadoxon von Salaman und Storey aus dem Jahr 2002, d. h. die Notwendigkeit, innovativ zu sein, erfordert Fähigkeiten, die der Notwendigkeit, effizient zu sein, entgegengesetzt sind. Ein Wort der Weisheit: Ein Unternehmen muss beide Extreme und die Entwicklung dazwischen managen. Es ist wirklich wichtig, sich daran zu erinnern, dass es einen Übergang von der Unerschlossenheit zur Industrialisierung gibt. Organisieren Sie sich nicht allein nach den Extremen +
+
+_Keine einzige Methode passt für alle_ +
+
+Aufgrund dieser sich ändernden Eigenschaften gibt es keine einheitliche Methode oder Technik, die für eine ganze Landschaft geeignet ist. Man muss lernen, viele Ansätze zu verwenden und so die Tyrannei eines einzelnen zu vermeiden. Erwarten Sie jedoch, dass sich Stämme bilden und endlose sinnlose Debatten geführt werden, wie z. B. Agile versus Six Sigma oder Outsourcing versus Insourcing +
+
+_Komponenten können sich mitentwickeln_ +
+
+Alle Komponenten können sich weiterentwickeln, ob Aktivitäten, Praktiken, Daten oder Wissen, aber sie können sich auch gemeinsam weiterentwickeln. Dies wird häufig bei der Ko-Evolution der Praxis (wie wir etwas tun) mit der Evolution einer Aktivität (was wir tun) gesehen, insbesondere wenn wir von Produkten zu mehr industrialisierten Formen übergehen. Die Ursache dafür ist die Veränderung der Eigenschaften der Aktivität. DevOps ist ein solches Beispiel für Co-Evolution +
+
+_Effizienz ermöglicht Innovation_ +
+
+Die Genese zeugt die Evolution zeugt die Genese. Die Industrialisierung einer Komponente ermöglicht durch Komponentisierungseffekte das Entstehen neuartiger Systeme höherer Ordnung. Sie ermöglicht aber auch das Auftauchen neuer Funktionen für bestehende Produkte oder sogar die Evolution anderer Komponenten. Die Industrialisierung der Massenkommunikation zu einem standardisierten Gebrauchsgegenstand wie dem Internet ermöglichte die Industrialisierung der Computertechnik zu einem Gebrauchsgegenstand. Ich verwende das Wort Innovation, um all jene Veränderungen zu beschreiben, die aus der Entstehung eines neuen Akts, der Ausdifferenzierung eines bestehenden Akts oder der Änderung des Geschäftsmodells (z. B. Wechsel vom Produkt zum Dienstprogramm) entstehen. Die Entwicklung einer Komponente und ihre effiziente Bereitstellung ermöglicht die Innovation anderer +
+
+_Systeme höherer Ordnung schaffen neue Wertquellen_ +
+
+Es ist die Genese neuer Komponenten, die neue Benutzerbedürfnisse ermöglichen, die zukünftige Quellen für unterschiedliche Werte schaffen. Ich sage ausdrücklich "_ermöglichen_", denn in vielen Fällen sind sich die Benutzer nicht bewusst, welche zukünftigen Bedürfnisse sie haben könnten +
+
+_Der Wert der Zukunft ist umgekehrt proportional zu der Gewissheit, die wir über sie haben._ +
+
+Die Genese einer Komponente ist von Natur aus unsicher, aber es ist auch der Punkt, an dem eine Komponente ihren höchsten Zukunftswert hat. Sie müssen mit der Neuheit spielen, aber es gibt auch das Potenzial für enorme Belohnungen. Wenn sich die Komponente weiterentwickelt, sinkt ihr Potenzial für unterschiedliche Werte, da sie in ihrem anwendbaren Markt immer allgegenwärtiger wird. Das bedeutet auch, dass jede Komponente, die noch keine Ubiquität erreicht hat, eine gewisse Unsicherheit und ein gewisses Risikoelement behalten muss. Die einzigen Bedingungen, unter denen eine gut verstandene, nahezu risikofreie Komponente existiert, die nicht ubiquitär ist und einen hohen Wert hat, ist, wenn es eine Form der Wettbewerbsbeschränkung gibt, z. B. eine Beschränkung durch Patente oder ein Monopol. Es muss auch darauf geachtet werden, dass die Begriffe verbreitet wie in "jeder hat eins" nicht mit Ubiquität für den entsprechenden Markt verwechselt werden. Viele Komponenten haben Ressourcenbeschränkungen (z. B. Gold) oder der Marktbedarf ist spezifisch (z. B. Perücken für Anwälte und Richter) +
+
+_Effizienz bedeutet nicht weniger Ausgaben_ +
+
+Auch wenn die Evolution zu einer effizienteren Bereitstellung einer Komponente führt, sollte dies nicht mit einer Reduzierung der Ausgaben für diese Komponente verwechselt werden. In vielen Fällen gibt es einen langen Schwanz unbefriedigter Nachfrage, die durch Effizienz ermöglicht wird, oder zuvor unwirtschaftliche Handlungen, die machbar werden, oder sogar die Schaffung neuer Industrien, die zu einer größeren Nachfrage führen. Dies ist als Jevons Paradoxon bekannt +
+
+_Die Entwicklung zu Systemen höherer Ordnung führt zu einem steigenden Energieverbrauch_ +
+
+Die ständige Evolution von Komponenten und die Schaffung von Systemen höherer Ordnung, die sich dann weiterentwickeln, bedeutet, dass wir uns immer in Richtung einer geordneteren Umgebung bewegen, indem wir die lokale Entropie reduzieren. Dies erfordert den ständigen Einsatz größerer Energiemengen, obwohl dies in einigen Fällen aufgrund von Effizienzgewinnen aus früherem verschwenderischen Verbrauch verborgen werden kann +
+
+_Kapital fließt in neue Bereiche der Wertschöpfung_ +
+
+Die Linien auf der Karte stellen Kapitalflüsse dar, sei es zwischen zwei bestehenden Komponenten oder zwischen einer Komponente und ihrem zukünftigen, weiterentwickelten Selbst. Finanzielles Kapital wird nach dem Bereich mit der beständigsten Rendite suchen. In der Entwicklung vom Produkt zum Nutzen wird sich das Kapital also tendenziell von den bereits existierenden Produktformen wegbewegen und sich der stärker industrialisierten Komponente und den darauf aufbauenden neuen Industrien zuwenden +
+
+_Die Evolution der Kommunikation kann die Geschwindigkeit der Evolution insgesamt erhöhen_ +
+
+Die Evolution besteht aus vielen Diffusionskurven. Wenn sich ein Kommunikationsmittel zu einer stärker industrialisierten Form entwickelt - ob Druckerpresse, Briefmarke, Telefon, Internet - dann kann sich die Geschwindigkeit der Diffusionskurven erhöhen. Dies wiederum kann die Evolutionsgeschwindigkeit zukünftiger Komponenten beschleunigen. Hier ist Vorsicht geboten, um eine schnellere Evolution nicht damit zu verwechseln, dass wir als Volk innovativer werden. Sicherlich haben wir größere Möglichkeiten, neue Dinge zu bauen, aber gehen Sie nicht davon aus, dass wir schlauer werden +
+
+_Veränderung ist nicht immer linear_ +
+
+Es kann oft der Eindruck entstehen, dass die Veränderung allmählich verläuft, weil eine Instanz einer Komponente (z. B. ein Produkt) durch eine andere in der gleichen Evolutionsstufe ersetzt wird (d. h. ein Produkt mit mehr Funktionen). Diese Illusion einer sanften und allmählichen Veränderung lullt uns in ein falsches Gefühl der Sicherheit ein, dass alle Veränderungen so sind +
+
+_Verschiebungen vom Produkt zum Nutzen zeigen tendenziell ein punktuelles Gleichgewicht_ +
+
+Die Verschiebung über eine Grenze, z. B. von einem Kunden zu einem Produkt oder von einem Produkt zu einer Ware, neigt dazu, eine schnelle exponentielle Veränderung und eine Verschiebung von der Vergangenheit sichtbar zu machen. Dies wird als interpunktiertes Gleichgewicht bezeichnet +
+
+_Erfolg erzeugt Trägheit_ +
+
+Jeder vergangene Erfolg mit einer Komponente erzeugt tendenziell einen Widerstand gegen die Änderung dieser Komponente. Es gibt viele verschiedene Formen von Trägheit +
+
+_Die Trägheit nimmt zu, je erfolgreicher das bisherige Modell ist_ +
+
+Je mehr Erfolg wir mit einer Komponente hatten, desto mehr Widerstand und Voreingenommenheit haben wir gegen ihre Veränderung +
+
+_Trägheit kann eine Organisation töten_ +
+
+Entgegen der landläufigen Meinung ist es nicht ein Mangel an Innovation, der Unternehmen wie Blockbuster und Kodak geschadet hat, sondern die Trägheit gegenüber Veränderungen, die durch den Erfolg der Vergangenheit entstanden ist. Beide Unternehmen halfen bei der Entwicklung von Zukunftsindustrien, litten aber unter ihren vergangenen Geschäftsmodellen +
+
+_Kreative Zerstörung_ +
+
+Die Kombination aus Trägheit, einem punktuellen Gleichgewicht, der roten Königin und der Ko-Evolution der Praxis bedeutet, dass wir, wenn wir eine Grenze überschreiten, z. B. vom Produkt zum Nutzen, zu einer schnellen Zerstörung der Vergangenheit (von Geschäftsmodellen zur Praxis) zusammen mit der Schaffung des Neuen (Industrie und Praktiken) neigen. Dies wurde von Joseph Schumpeter als kreative Zerstörung beschrieben +
+
+_Aktionen der Wettbewerber werden das Spiel verändern_ +
+
+Klimamuster sind solche, die von aggregierten Markteffekten abhängen, z. B. von der Entwicklung durch den Wettbewerb von Angebot und Nachfrage. Das bedeutet, dass man sie nicht aufhalten kann, ohne den Wettbewerb auf dem Markt zu verhindern, und die Existenz von Wettbewerbern wird sie hervorrufen +
+
+_Die meisten Teilnehmer haben ein schlechtes Situationsbewusstsein_ +
+
+Aktionen der Mitbewerber sind ein wichtiger Teil der Antizipation. Im Allgemeinen ist dies jedoch nicht etwas, das Sie direkt kontrollieren oder sogar über aggregierte Effekte hinaus vorhersehen können. Glücklicherweise agieren die meisten Konkurrenten im heutigen Klima als blinde Spieler, so dass Sie sich nicht zu sehr mit ihren Aktionen beschäftigen müssen. Wenn Sie einen Zug machen, ist es unwahrscheinlich, dass sie den Grund dafür verstehen oder Ihnen entgegenwirken. In naher Zukunft werden sie angesichts des potenziellen Interesses an Geschäftsalgorithmen vielleicht sogar zu vorhersehbaren blinden Automaten, die verschlüsselten Erfolgsgeheimnissen folgen. Ähnlich wie Dan Mirvish feststellte, dass, als Anne Hathaway in den Nachrichten war, die Aktien von Warren Buffetts Berkshire Hathaway aufgrund der vermuteten Stimmungsanalyse von Roboter-Handelsplattformen nach oben gingen. Dies könnte das Spiel noch einfacher machen +
+
+_Nicht alles ist zufällig_ +
+
+Nicht alles ist innerhalb der Karte unsicher. Es gibt verschiedene Aspekte, die antizipiert werden können, obwohl der Grad der Vorhersagbarkeit nicht einheitlich ist. In einigen Fällen kann man sagen, was aufgrund von aggregierten Markteffekten passieren wird (z. B. diese Handlung wird sich weiterentwickeln), aber nicht genau, wann die nächste Iteration eines weiterentwickelten Produkts erscheinen wird (z. B. hängt es von der Aktion der Akteure ab). In anderen Fällen können Sie sowohl das Was als auch das Wann vorhersagen +
+
+_Wirtschaft hat Zyklen_ +
+
+Die Wirtschaft zeigt Zyklen wie den Friedens-, Kriegs- und Wunderzyklus. Wir beginnen mit dem Wunder einer neuen, ungewohnten und schlecht verstandenen Sache. Wenn wir mehr lernen, dann wächst der anwendbare Markt und Produkte werden produziert. Neue Giganten bilden sich und dominieren eine eher friedliche Zeit des anhaltenden Wettbewerbs. Es gibt einige Unterbrechungen (z.B. Produkt-zu-Produkt-Substitution) und der Wettbewerb ist immer noch heftig, aber die Giganten überstehen diese Stürme im Allgemeinen. Dann entwickelt sich der Akt zu mehr industrialisierten Formen, neue Marktteilnehmer werden zu den neuen Titanen, die bisherigen Giganten neigen dazu, hinter Trägheitsbarrieren, die durch ihren eigenen Erfolg entstanden sind, festzustecken. Dies ist die Zeit des Krieges, in der der Wettbewerb für die bisherigen Giganten lebensbedrohlich wird. Neue Industrien, die auf den industrialisierten Komponenten aufbauen, bilden sich und ein neuer Zustand des Wunders ist geboren +
+
+_Zwei verschiedene Formen der Unterbrechung_ +
+
+Es gibt mehr als eine Form der Unterbrechung, wie z. B. die unvorhersehbare Produkt-zu-Produkt-Substitution bis hin zur besser vorhersehbaren Produkt-zu-Nutzen-Substitution. Letztere kann durch schwache Signale antizipiert werden +
+
+_Ein "Krieg" (Punkt der Industrialisierung) bewirkt die Entwicklung von Organisationen_ +
+
+Die Industrialisierung einer Handlung führt tendenziell zu einer Ko-Evolution der Praxis und zu Veränderungen in der Arbeitsweise von Organisationen. Wenn die Komponente signifikant ist, kann dies zu einer neuen Form der Organisation führen +
+
+Sie müssen diese Muster auf Ihre Map anwenden, um zu lernen, wie sich die Dinge ändern könnten. Dann müssen Sie anderen erlauben, Ihre Annahmen und die von Ihnen erstellten Szenarien in Frage zu stellen - ein weiterer wichtiger Teil des Lernens - bis Sie eine Karte haben, mit der Sie alle einverstanden sind oder die Sie zumindest verstehen, z. B. Abbildung 158 +
+
+.Veränderung antizipieren
+[#img-fig158-anticipating-change] 
+[caption="Abbildung 158: ",link=https://cdn-images-1.medium.com/max/1600/1*IoTh2h9SPdXz20EtWGe5-w.jpeg]
+image::1_IoTh2h9SPdXz20EtWGe5-w.jpeg[Abbildung 158 - Antizipation von Veränderungen,900,600,align=center]
+
+=== Schritt 4 - Doktrin lernen und anwenden
+
+Jetzt, wo Sie eine Vorstellung von Ihrer Landschaft haben und wie sie sich verändern kann, werden Sie anfangen wollen, etwas dafür zu tun. Es gibt jedoch zwei Klassen von Entscheidungen; solche, die universell anwendbar sind und solche, die kontextspezifisch sind. Die allgemeingültigen Entscheidungen sind eine Reihe von Prinzipien, die wir alle anwenden sollten. Diese sind Ihre Doktrin +
+
+Zum Zeitpunkt des Schreibens ist dies meine Liste der grundlegenden Doktrin - also Wardleys Doktrin (ich bin wirklich so einfallslos). Sie basiert auf meinen Beobachtungen über viele Karten mit vielen Organisationen und enthält universelle Prinzipien, die ich für einigermaßen solide halte. Viele davon haben wir bereits behandelt
+
+=== Wardley's Doctrine
+
+_Transparent sein_ +
+
+Neigen Sie zu Offenheit innerhalb Ihrer Organisation. Wenn Sie effektiv etwas über die Landschaft lernen wollen, dann müssen Sie Ihre Karten mit anderen teilen und ihnen erlauben, ihre Weisheit und ihre Herausforderungen in den Prozess einzubringen. Das geheime Erstellen von Landkarten in Ihrer Organisation ist ein todsicherer Weg, um ein zukünftiges Meeting zu haben, in dem jemand auf das Offensichtliche hinweist, das Sie übersehen haben +
+
+_Fokus auf hohes Situationsbewusstsein_ +
+
+Es gibt eine ziemlich starke Korrelation zwischen Bekanntheit und Leistung, also konzentrieren Sie sich darauf. Versuchen Sie, die Landschaft zu verstehen, in der Sie konkurrieren, und verstehen Sie alle Vorschläge in dieser Hinsicht. Schauen Sie, bevor Sie springen +
+
+_Verwenden Sie eine gemeinsame Sprache_ +
+
+Eine Notwendigkeit für effektive Zusammenarbeit ist eine gemeinsame Sprache. Karten ermöglichen es vielen Menschen mit unterschiedlichen Fähigkeiten (z. B. Marketing, Betrieb, Finanzen und IT), zusammenzuarbeiten, um ein gemeinsames Verständnis zu schaffen. Kollaboration ohne eine gemeinsame Sprache ist nur Lärm vor dem Scheitern +
+
+_Annahmen in Frage stellen_ +
+
+Karten ermöglichen es, Annahmen visuell zu entlarven. Sie sollten dazu ermutigen, jede Karte in Frage zu stellen, mit dem Ziel, eine bessere Karte und ein besseres Verständnis zu schaffen. Haben Sie keine Angst vor Herausforderungen, es gibt keinen Platz für Ego, wenn Sie lernen wollen +
+
+_Kennen Sie Ihre Anwender_ +
+
+Wenn Sie eine Landschaft abbilden, dann wissen Sie, wer Ihre Benutzer sind, z. B. Kunden, Aktionäre, Regulierungsbehörden und Mitarbeiter +
+
+_Fokus auf Anwenderbedürfnisse_ +
+
+Ein wesentlicher Bestandteil des Mappings ist die Verankerung der Benutzerbedürfnisse. Idealerweise wollen Sie eine Umgebung schaffen, in der Ihre Bedürfnisse durch die Bedürfnisse Ihrer Benutzer erfüllt werden. Seien Sie sich darüber im Klaren, dass sich diese Bedürfnisse aufgrund des Wettbewerbs weiterentwickeln werden und im unerforschten Raum ungewiss sind. Seien Sie sich auch bewusst, dass Benutzer unterschiedliche und konkurrierende Bedürfnisse haben können, und seien Sie darauf vorbereitet, den Konflikt auszugleichen +
+
+_Denken Sie schnell, preiswert, elegant und zurückhaltend (FIRE)_ +
+
+Große Systeme in kleine Komponenten zerlegen, kostengünstige Komponenten verwenden und wiederverwenden, wo es möglich ist, Budgets und Zeit einschränken, so einfach und elegant wie möglich bauen +
+
+_Seien Sie pragmatisch_ +
+
+Es wird immer Randfälle geben oder eine Möglichkeit, etwas noch perfekter zu machen, aber wenn das, was Sie bauen, eine Komponente verwenden könnte, die bereits existiert, dann versuchen Sie, den Drang zu vermeiden, es neu zu erfinden. Wenn Sie ein Taxi-Unternehmen sind, dann wird es Ihrem Geschäft nicht helfen, Ihre Mittel in die Herstellung des perfekten Reifens zu investieren. Hinterfragen Sie immer, wenn Sie davon abweichen, etwas zu verwenden, das bereits existiert. Das alte Sprichwort "Es spielt keine Rolle, ob die Katze schwarz oder weiß ist, solange sie Mäuse fängt" ist hier relevant +
+
+_Verzerrungen und Überschneidungen beseitigen_ +
+
+Verwenden Sie mehrere Maps, um Doppelarbeit und Verzerrungen innerhalb einer Organisation zu beseitigen. In jeder großen Organisation werden Sie oft feststellen, dass es Leute gibt, die etwas, das an anderer Stelle existiert, nachbauen oder neu erstellen. Denken Sie daran, dass sie dies nicht tun, weil sie doof sind, sondern aufgrund von bereits bestehender Trägheit oder dem Fehlen eines effektiven Kommunikationsmechanismus, d.h. sie wissen einfach nicht, dass es anderswo existiert. Seien Sie gewarnt, der Grad der Duplizierung innerhalb der meisten Organisationen übersteigt bei weitem die Erwartungen, die sie haben könnten, und Sie treten oft auf die Zehen von jemandes Lieblingsprojekt. Große verteilte Unternehmen sprechen oft von Duplikationen im einstelligen Bereich, z.B. haben wir sechs Enterprise Content Management Systeme. Sie neigen dazu, entsetzt zu reagieren, wenn "entdeckt" wird, dass sie Hunderte oder sogar "Tausende" haben. Die Leute können in diesem Bereich sehr defensiv werden und wollen Sie ausschalten +
+
+_Geeignete Methoden und Werkzeuge verwenden_ +
+
+Versuchen Sie, die Tyrannei des Einen zu vermeiden. Verstehen Sie, dass es keine magische Lösung gibt und dass Sie je nach Bedarf mehrere Methoden (z. B. agil oder lean oder six sigma) anwenden müssen. In jedem großen System können mehrere Methoden gleichzeitig eingesetzt werden. Achten Sie hier auf Ihr Ego, Stämme können sich mit fast religiösem Eifer über die Rechtschaffenheit ihrer Methode bilden. Seien Sie standhaft, Sie werden oft feststellen, dass Sie gegen alle diese Stämme gleichzeitig argumentieren +
+
+_Fokus auf das Ergebnis, nicht auf einen Vertrag_ +
+
+Versuchen Sie, sich auf das Ergebnis und das, was Sie erreichen wollen, zu konzentrieren. Seien Sie sich bewusst, dass verschiedene Vertragsarten erforderlich sein werden, z. B. ausgelagerte, zeit- und materialbasierte oder wertbasierte Entwicklung. Neben der Ergebnisorientierung sollten Sie versuchen, die Verträge zeitlich und finanziell zu begrenzen +
+
+_Normen verwenden, wo es sinnvoll ist_ +
+
+Wenn etwas industrialisiert ist und wenn Standards existieren, dann versuchen Sie, diese zu verwenden. Es gibt immer eine Versuchung, einen besseren Standard zu bauen, aber vermeiden Sie dies oder bauen Sie Abstraktionsschichten auf andere "Standards" auf, es sei denn, Sie haben einen extrem zwingenden Grund dafür, dies zu tun. Wenn Sie einen Toaster brauchen, kaufen Sie einen Toaster und versuchen Sie nicht, einen von Grund auf zu bauen +
+
+_Durchfluss optimieren_ +
+
+Innerhalb einer Map wird es viele Kapitalflüsse geben - ob Information, Risiko, sozial oder finanziell. Versuchen Sie, diese zu optimieren und Engpässe zu beseitigen +
+
+_Effektivität vor Effizienz_ +
+
+Während die Optimierung des Durchflusses wichtig ist, sollten Sie darauf achten, dass Sie keine wertvolle Zeit damit verschwenden, das Ineffektive effizienter zu machen. Verstehen Sie die Landschaft und wie sie sich verändert, bevor Sie versuchen, den Durchfluss zu optimieren +
+
+_Trägheit bewältigen_ +
+
+Irgendwann werden Sie mit Trägheit gegenüber Veränderungen konfrontiert sein, z. B. durch bestehende Praktiken, politisches Kapital oder frühere Investitionen. Versuchen Sie, die Ursache zu verstehen. Idealerweise verwenden Sie eine Landkarte, um dies zu antizipieren, bevor Sie darauf stoßen, und haben somit Lösungen und Gegenargumente vorbereitet. Wenn möglich, nutzen Sie die Landkarten, um den Mitarbeitern zu ermöglichen, ihre eigene Trägheit zu entdecken +
+
+_Fehler verwalten_ +
+
+In jedem System gibt es Risiken. Verwenden Sie die Karten, wo immer es möglich ist, um zu verstehen, was schiefgehen kann und welche Auswirkungen der Ausfall einer Komponente haben wird. Versuchen Sie, wo immer möglich, die Risiken zu mindern, indem Sie Systeme verteilen, für den Fall von Fehlern entwerfen und ständig Fehler einführen (Verwendung von Chaos-Engines wie dem Chaos-Affen von Netflix). Vermeiden Sie bekannte Fehlermodi, wie z. B. den Aufbau von Großprojekten (Todesstern) +
+
+_Klein denken_ +
+
+Kennen Sie die Details, nutzen Sie kleine Teams und brechen Sie große Landschaften in kleine Aufträge auf. Lassen Sie sich nicht von Ängsten vor der Komplexität des Managements verscheuchen +
+
+_Verteilen Sie Macht und Entscheidungsgewalt_ +
+
+Neigen Sie dazu, die Macht aus der Mitte heraus zu verteilen, einschließlich Ihrer selbst. Legen Sie die Macht in die Hände derjenigen, die den Entscheidungen, die getroffen werden müssen, am nächsten sind +
+
+_Zweck, Beherrschung und Autonomie bieten_ +
+
+Geben Sie den Menschen einen Zweck (einschließlich eines moralischen Imperativs und eines Handlungsspielraums) für ihr Handeln. Ermöglichen Sie ihnen, in ihrem gewählten Bereich Meisterschaft aufzubauen und geben Sie ihnen die Freiheit (und Autonomie) zu handeln +
+
+_Denken Sie an Eignung und Einstellung_ +
+
+Verstehen Sie, dass Menschen nicht nur Begabungen haben (z. B. Finanzen, Technik, Betrieb und Marketing), sondern auch unterschiedliche Einstellungen (Pionier, Siedler und Stadtplaner). Die Mentalitäten sind unterschiedlich +
+
+_Es gibt nicht die eine Kultur_ +
+
+Verstehen Sie, dass ein Unternehmen, das auf Langlebigkeit plant, nicht nur mit der Entdeckung von unbekannten Komponenten, sondern auch mit der Verwendung von industrialisierten und dem Übergang zwischen diesen beiden Extremen umgehen muss. Sie werden unterschiedliche Haltungen brauchen. Sie werden daher viele Kulturen in Ihrer Organisation schaffen, z. B. haben Pioniere, Siedler und Stadtplaner unterschiedliche Kulturen. Das ist nichts Negatives und versuchen Sie nicht, alle in eine einzige fade Kultur zu pressen. Das wird sie nicht glücklich machen +
+
+_Suchen Sie das Beste_ +
+
+Versuchen Sie, die besten Mitarbeiter mit der besten Eignung und Einstellung für ihre Aufgaben zu finden und zu fördern. Investieren Sie darin, sie zu halten. Zwingen Sie sie nicht dazu, etwas zu werden, was sie nicht sind. Es ist vollkommen angemessen, dass ein wirklich begabter Systemtester, der sich in einer Stadtplanungswelt mit massiv komplizierten und automatisierten Systemen auszeichnet, mehr bezahlt wird als der Projektmanager. Was Sie vermeiden wollen, ist, außergewöhnliche Menschen aus ihrer Rolle herauszunehmen und sie in etwas zu stecken, für das sie nicht geeignet sind, nur weil sie denken, dass dies der einzige Weg ist, um weiterzukommen. Führung, Management und Technik sind allesamt Fähigkeiten, sie sind alle wertvoll und sie müssen zusammenarbeiten. Wenn die Hierarchie Ihrer Organisation einheitlich Ihre Gehaltstabellen widerspiegelt, dann werden Sie wahrscheinlich Talente von dort abziehen, wo sie sein sollten, und sie in Rollen stecken, für die sie nicht geeignet sind. Dies geschieht oft mit den Argumenten "Verantwortung" oder "Leitung größerer Teams" (was auch dazu führt, dass die Leute versuchen, Imperien anzuhäufen) oder "Verbreitung von Erfahrung" oder "Karrierepfad", aber es gibt alternative Wege, dies zu erreichen. Einen begabten Ingenieur zu nehmen und ihn in einen mittelmäßigen Projektmanager zu verwandeln, ist nicht klug. Dies ist wahrscheinlich einer der schwierigsten Bereiche, da man schnell auf Ego stößt +
+
+_Design für ständige Weiterentwicklung_ +
+
+Schaffen Sie ein Organisationssystem, das mit der ständigen Ebbe und Flut in der Landschaft zurechtkommt. Im Idealfall sollten Veränderungen durch Ihre Organisation fließen, ohne dass eine ständige Umstrukturierung erforderlich ist. Eine zellenbasierte Struktur, die ein Diebstahlsystem mit Pionieren, Siedlern und Stadtplanern verwendet, ist ein solches System +
+
+_Verwenden Sie einen systematischen Mechanismus des Lernens_ +
+
+Der Zweck des Mappings ist nicht nur die Erstellung einer Karte und ein gemeinsames Verständnis, sondern auch das Erlernen von klimatischen Mustern, Lehrmeinungen und kontextspezifischen Spielen. Karten bieten eine systematische Möglichkeit, dies zu tun, solange man sie sammelt, überprüft und daraus lernt. Haben Sie eine Vorliebe für solches Lernen und die Nutzung von Daten +
+
+_Eine Tendenz zum Handeln_ +
+
+Dies wird am besten durch das Wort oder Rimmer's Study Habit (eine Episode von Red Dwarf) erklärt +
+
+_"Die ersten Wochen des Studiums widmete er immer der Erstellung eines Revisionsfahrplans. Wochen der geduldigen Anstrengung würden damit verbracht werden, einen Revisionsplan zu planen, zu entwerfen und zu erstellen, die, wenn sie fertig waren, kleine Kunstwerke waren._ +
+
+_Jede Stunde eines jeden Tages war in verschiedene Studienperioden unterteilt, jede mit seiner schönen, winzigen Kupferstich-Handschrift beschriftet; dann mit Aquarellfarben übermalt, eine andere Farbe für jedes Thema, wobei die Farben allmählich kühner und drängendere Schattierungen wurden, je näher die Prüfungszeit kam. Der Effekt war, als ob sich unzählige winzige Regenbögen über das postergroße Blatt cremefarbenen Kartons verteilten und verstreuten._ +
+
+_Das einzige Problem war folgendes: Da die Stundenpläne oft sieben oder acht Wochen, manchmal auch mehr, in Anspruch nahmen, war die Prüfung für Rimmer schon fast vorbei, wenn er sie fertig hatte. Er musste dann drei Monate Astronavigation in eine einzige Woche packen. Von einer fast wahnsinnigen Panik ergriffen, beschloss er dann, die ersten beiden Tage dieser letzten Woche der Erstellung eines weiteren Stundenplans zu opfern. Diesmal für jemanden, der drei Monate Lernstoff in fünf Tage packen musste_ +
+
+Versuchen Sie nicht, die perfekte Karte zu erstellen. Haben Sie eine Vorliebe für Action, denn die Landschaft wird sich verändern und Sie werden durch Action mehr entdecken. Sie lernen, indem Sie das Spiel spielen +
+
+_Hören Sie auf Ihre Ökosysteme_ +
+
+Es gibt viele verschiedene Formen von Ökosystemen und Möglichkeiten, sie zu nutzen. Man kann mächtige Sensormaschinen (z.B. das ILC-Modell) für zukünftige Veränderungen bauen, Quellen der Zusammenarbeit mit anderen, defensive und offensive Allianzen. Aber Ökosysteme brauchen Management, sie müssen gepflegt werden, wie ein Gärtner einen Garten pflegt - manchmal lassen Sie sie wild wachsen, manchmal ernten Sie, manchmal helfen Sie, sie zu lenken oder einzuschränken. Dies sind besondere Fähigkeiten, die Sie entwickeln können, aber am wichtigsten ist das Prinzip - hören Sie ihnen zu +
+
+_Eine Vorliebe für das Neue_ +
+
+Was immer Sie tun, wird sich weiterentwickeln. Haben Sie also eine Vorliebe für das Neue, seien Sie neugierig und gehen Sie entsprechende Risiken ein. Seien Sie bereit zu experimentieren +
+
+_Seien Sie der Besitzer_ +
+
+Übernehmen Sie die Verantwortung für Ihre Umgebung, Ihre Handlungen darin und wie Sie das Spiel spielen. Sie könnten dies an einen Dritten auslagern, so wie ein Schachspieler sein Spiel an einen anderen auslagern könnte, aber Sie werden nicht lernen und es sind immer noch Sie, der verliert +
+
+_Die Strategie ist iterativ und nicht linear_ +
+
+Verstehen Sie, dass Strategie iterativ ist. Sie müssen sich in schnellen Zyklen entsprechend der sich ändernden Umgebung anpassen. Das Beste, was Sie sich erhoffen können, ist eine Richtung, ein ständiger Prozess des Lernens und der Verbesserung Ihres Gameplays auf dem Weg dorthin +
+
+_Mit weniger mehr erreichen_ +
+
+Sie haben eine Neigung zur kontinuierlichen Verbesserung +
+
+_Außergewöhnliche Standards setzen_ +
+
+Geben Sie sich nicht mit "so gut wie" oder "etwas besser" als die Konkurrenz zufrieden. Streben Sie immer nach dem Allerbesten, das erreicht werden kann +
+
+_Strategie ist komplex_ +
+
+Auf dem Weg dorthin wird es Unsicherheiten, sich abzeichnende Muster und Überraschungen geben. Das ist die eigentliche Natur des Wettbewerbs durch die Beteiligung anderer Akteure. Umarmen Sie dies, verfallen Sie nicht der Versuchung, die Zukunft planen zu können. Was zählt, ist nicht der Plan, sondern die Vorbereitung und Ihre Fähigkeit, sich anzupassen +
+
+_Verpflichten Sie sich zur Richtung, seien Sie anpassungsfähig auf dem Weg_ +
+
+Sobald Sie eine Richtung festgelegt haben, halten Sie daran fest. Es wird oft Hürden und Hindernisse geben, aber geben Sie nicht einfach eine Richtung auf, nur weil ein einzelner Schritt schwierig ist. Versuchen Sie, Wege um die Hindernisse herum zu finden. Wenn Sie ein System aufbauen und eine gemeinsame Komponente nicht so ist wie erwartet, dann kann das oft eine Marktchance sein +
+
+_Schnell bewegen_ +
+
+Die Geschwindigkeit, mit der Sie sich im Zyklus bewegen, ist wichtig. Es hat wenig Sinn, FIRE-ähnliche Prinzipien bei der Entwicklung eines Systems zu implementieren, wenn Sie ein Jahr brauchen, um die Entscheidung zum Handeln zu treffen. Ein unvollkommener Plan, der heute ausgeführt wird, ist besser als ein perfekter Plan, der morgen ausgeführt wird +
+
+_Es gibt keinen Kern_ +
+
+Alles ist vergänglich. Was immer Sie für den Kern Ihres Unternehmens halten, wird es irgendwann in der Zukunft nicht mehr sein. Die einzigen Dinge, die wirklich statisch sind, sind tot +
+
+_Die Landschaft ausnutzen_ +
+
+Nutzen Sie die Landschaft zu Ihrem Vorteil, oft gibt es starke Kraftmultiplikatoren. Sie könnten sich entscheiden, einen Konkurrenten oder eine Veränderung im Markt nicht auszunutzen, aber das sollte eine bewusste Entscheidung sein +
+
+_Groß denken_ +
+
+Während die Aktionen, die Sie durchführen, die Art und Weise, wie Sie organisieren, und der Fokus auf Details Sie dazu zwingen, klein zu denken, wenn es darum geht, andere zu inspirieren, die Richtung vorzugeben und den moralischen Imperativ zu erfüllen, denken Sie dann groß. Ihr Ziel ist es nicht, den engen Pass der Thermopylen zu verteidigen, sondern die persische Armee zu besiegen und die griechischen Staaten zu retten +
+
+_Demütig sein_ +
+
+Hören Sie anderen zu, seien Sie selbstlos, haben Sie Standhaftigkeit und seien Sie bescheiden. Inspirieren Sie andere durch das, was Sie sind und was Sie tun. Es gibt viele Möglichkeiten, die Landschaft zu manipulieren, z. B. mit Marketing, indem man anderen vorgaukelt, dass das, was eine Ware ist, irgendwie anders ist oder dass ein Produkt einzigartig für sie ist. Aber diese Manipulationen haben ihren Preis, nicht nur äußerlich, sondern auch innerlich. Wir können anfangen, unseren eigenen Hype, unsere eigene Unfehlbarkeit und unser "Recht" auf den Markt zu glauben. Vermeiden Sie diese Arroganz um jeden Preis +
+
+Wie bei den klimatischen Mustern gilt: Je mehr Sie das Spiel spielen, desto mehr Formen der Lehre werden Sie entdecken. Es ist wichtig, diese kontinuierlich zu lernen, also gewöhnen Sie sich an, Karten als Retrospektive zu verwenden. Achten Sie darauf, was sich verändert hat und fragen Sie immer, warum? Natürlich reicht es nicht aus, die Doktrin zu kennen - Sie wollen sie auch anwenden. Wählen Sie nicht aus, sondern wenden Sie sie alle an. Wenn es um die Anwendung der Doktrin geht, gibt es drei grundlegende Fälle:-
+
+* die Karte löst die Doktrin für Sie (z. B. eine gemeinsame Sprache haben)
+* sie können viele Maps verwenden, um die Doktrin anzuwenden (z. B. Verwendung mehrerer Maps für verschiedene Geschäftsbereiche, um Doppelarbeit und Verzerrungen zu reduzieren)
+* können Sie die Doktrin direkt auf eine Karte anwenden (z. B. zellenbasierte Strukturen, Kulturformen wie Pionier - Siedler - Stadtplaner), wie in Abbildung 159 gezeigt.
+
+.Doktrin anwenden
+[#img-fig159-apply-doctrine] 
+[caption="Abbildung 159: ",link=https://cdn-images-1.medium.com/max/1600/1*krb6I8pe7JTRT0FE3udW8g.jpeg]
+image::1_krb6I8pe7JTRT0FE3udW8g.jpeg[Abbildung 159 - Doktrin anwenden,900,600,align=center]
+
+=== Schritt 5 - Gameplay lernen und anwenden
+
+Die andere Klasse der Wahl ist kontextspezifisch. Sie werden lernen, dass es viele Ansätze gibt, die Sie einsetzen können, um die Map zu beeinflussen. Diese Ansätze hängen von der Karte und der Position der Figuren darin ab, d.h. sie sind nicht universell und Sie müssen lernen, wann und wo Sie sie einsetzen. Um Ihnen den Einstieg zu erleichtern, sind einige grundlegende Spielweisen (oft Strategeme genannt) :-
+
+=== Spielablauf
+
+_Offene Ansätze_ +
+
+Ob Quellcode, Daten oder Verfahren, der Akt, etwas offen zu machen, reduziert die Barrieren für die Übernahme, fördert die Zusammenarbeit und beschleunigt die Entwicklung der Komponente +
+
+_IPR_ +
+
+Geistige Eigentumsrechte (IPR) können zur Verlangsamung der Evolution eingesetzt werden, indem sie den Wettbewerb einschränken, bis hin zur Umzäunung einer Komponente, die es anderen erschwert, diese weiterzuentwickeln +
+
+_Angst, Unsicherheit und Zweifel_ +
+
+Wird oft verwendet, um die Evolution zu verlangsamen, indem die Trägheit der Kunden gegenüber Veränderungen ausgenutzt wird und neue Marktteilnehmer gezwungen werden, ihre Energie von den Komponenten weg und in die Bekämpfung der Vorwürfe zu lenken +
+
+_Zwang ausnutzen_ +
+
+Eine bestehende Beschränkung kann ausgenutzt werden, um einen einzelnen Akteur zu fragmentieren, indem die Nachfrage über seine Lieferfähigkeit hinaus gesteigert wird (z. B. durch einen Preiskrieg) +
+
+_Schwitzen und Kippen_ +
+
+Ein Mechanismus zur Abwälzung der Altlasten auf einen Dritten durch Ausnutzung der eigenen Trägheit zur Veränderung +
+
+_Katze im Sack_ +
+
+Ein Mechanismus, bei dem eine Verbindlichkeit als eine Art zukünftiges Geschäft verkleidet wird, bevor sie an eine dritte Partei veräußert wird +
+
+_Zwei-Faktor-Märkte_ +
+
+Ein Mechanismus, der Anbieter und Verbraucher zusammenbringt und Netzwerkeffekte und aggregierte Daten ausnutzt +
+_Abtastmotoren (ILC)_ +
+
+Ein Mechanismus, bei dem man der erste ist, der eine Komponente industrialisiert, anderen (dem Ökosystem) erlaubt, neue Industrien darauf aufzubauen und dann anhand von Verbrauchsdaten zukünftige Kandidaten für die Industrialisierung zu bestimmen +
+
+Wie bei den klimatischen Mustern und der Doktrin gilt auch hier, je mehr Sie das Spiel spielen, desto mehr kontextspezifische Muster werden Sie entdecken. Mit dem Verständnis der Landschaft, der Fähigkeit, Veränderungen aufgrund klimatischer Muster zu antizipieren, und dem Wissen über kontextspezifisches Spiel, mit dem Sie die Karte manipulieren können, sollten Sie in der Lage sein, zu bestimmen, wo Sie angreifen könnten und wie Sie das Spiel nutzen können, um Ihre Erfolgschancen zu erhöhen. Zumindest sollten Sie in der Lage sein, innerhalb des Unternehmens ein gemeinsames Verständnis darüber zu schaffen, wohin Sie gehen und warum Sie bestimmte Ansätze verfolgen - siehe Abbildung 160 +
+
+.Spielverlauf anwenden
+[#img-fig160-applying-gameplay] 
+[caption="Abbildung 160: ",link=https://cdn-images-1.medium.com/max/1600/1*v4AelceAffaJ3PAwKb5VCg.jpeg]
+image::1_v4AelceAffaJ3PAwKb5VCg.jpeg[Abbildung 160 - Anwendung von Gameplay,900,600,align=center]
+
+Dann entscheiden Sie sich zu handeln. Sie drehen den Kreislauf und wiederholen diese ganze Übung. Zögern Sie nicht mit dem Handeln, machen Sie Ihre Pläne und lassen Sie die Würfel rollen. Es lohnt sich, daran zu denken, dass eine Ihrer Handlungen vielleicht die Richtung des Unternehmens selbst ändert, Ihren eigentlichen Zweck verändert. Vielleicht fangen Sie als Papierfabrik an, vielleicht werden Sie aber auch ein Telekommunikationsunternehmen. Gewöhnen Sie sich daran, dass es keinen "Kern" eines Unternehmens gibt, der über den kurzfristigen, unmittelbaren Fokus hinausgeht.
+
+== Ein paar Dinge zu beachten
+
+=== Zur Biologie
+
+Begriffe wie Evolution, Co-Evolution, Anpassung, Rote Königin, Wettbewerb, adaptive Erneuerungssysteme, zellbasierte Strukturen, Ökosystem, Fluss und Bewusstsein lassen Sie vielleicht denken, dass ich über irgendeine Form von biologischem System spreche. Das ist so, weil ich das tue. Ein Unternehmen ist ein lebendiges Wesen und keine physikalische Maschine. Die eher klassische Sichtweise der Maschine hat Vorteile im Managementdenken, da sie impliziert, dass es einfach ist und nur durch das Ziehen der richtigen Hebel oder das Hinzufügen des richtigen Algorithmus gemanagt werden kann. Das funktioniert gut, wenn man im Wettbewerb mit anderen steht, die genauso denken, aber gehen Sie nicht davon aus, dass das jeder tut +
+
+Biologische Systeme sind insgesamt sehr widerstandsfähig gegenüber Veränderungen. Einzelne Mitglieder oder Arten könnten durch eine Krankheit oder ein katastrophales Ereignis ausfallen, aber das System des Lebens selbst passt sich an und entwickelt sich durch Mutationen in der gesamten Population oder Exaptation (Wiederverwendung von Komponenten für einen anderen Zweck) weiter. Eine klassische Maschine hat einen weitaus begrenzteren Umfang an Widerstandsfähigkeit, egal wie gut sie konstruiert ist oder welche Szenarien sie durchdacht hat, und sie entwickelt sich nicht auf die gleiche Weise mit ihrer Umgebung weiter. CS Holling unterschied zwischen diesen beiden Arten von Resilienz als technische versus ökologische. Während es bei der technischen Resilienz vor allem um die Effizienz der Funktion geht, ist die ökologische Resilienz auf die Existenz der Funktion ausgerichtet +
+
+Ein *fragiles* System ist ein System mit geringer technischer und ökologischer Widerstandsfähigkeit. Es hat sehr begrenzte Einschränkungen des physikalischen Betriebs und kann sich nicht gut anpassen oder mit Veränderungen umgehen. Es bricht leicht und hört auf zu funktionieren +
+
+Ein *robustes* System ist eines mit hoher technischer, aber geringer ökologischer Belastbarkeit. Es hat eine größere Bandbreite an physikalischen Einschränkungen, mit denen es umgehen kann, aber auch hier kann es sich nicht an unerwartete Ereignisse anpassen. Viele klassische Systeme sind so konzipiert, dass sie die Effizienz der Funktion bei einer Reihe von weitreichenden Einschränkungen oder definierten Änderungen aufrechterhalten, z. B. beim Ausfall eines einzelnen Motors in einem Flugzeug +
+
+Ein *flüssiges* System ist ein System mit geringer technischer Belastbarkeit, aber hoher ökologischer Belastbarkeit. Obwohl Elemente des Systems als zerbrechlich angesehen werden können (sie arbeiten innerhalb begrenzter Einschränkungen oder besetzen eine Nische), passt sich das System selbst schnell an sich ändernde Umstände an, d. h. die Effizienz der Funktion kann aufgrund einer Änderung schnell abnehmen, aber die Funktion bleibt bestehen. Viele biologische Ökosysteme können als fließend betrachtet werden, und der Prozess der Veränderung wird als Evolution bezeichnet, z. B. die Anpassung einer Art an einen neuen Räuber oder eine Umweltkatastrophe +
+
+Ein *resilientes* System ist eines mit hoher technischer und ökologischer Widerstandsfähigkeit. Das System ist nicht nur in der Lage, mit einer Vielzahl von physikalischen Extremen umzugehen, sondern das gesamte System passt sich schnell an eine sich verändernde Umwelt an, um zu existieren. Die Natur in ihrer Gesamtheit kann als resilient bezeichnet werden, und sie ist durch den Prozess der Evolution so geworden. Die Natur besteht aus vielen biologischen Ökosystemen, die Nischen besetzen, und jede Änderung der physikalischen Bedingungen ermöglicht es einem biologischen Ökosystem, in den Raum eines anderen einzudringen. Die Effizienz und das Überleben des Lebens wird auch bei den katastrophalsten Schocks erhalten +
+
+Dieser letzte Punkt ist entscheidend. Es ist die Evolution durch Wettbewerb und eine sich verändernde Umwelt, die die Natur selbst widerstandsfähig gemacht hat. Die Evolution wird durch Wettbewerb angetrieben und ist weit entfernt von dem allmählichen und friedlichen Konzept, das in der Literatur zu finden ist, sie beinhaltet die gesamte Auslöschung von Arten und einzelnen biologischen Ökosystemen in einer gewaltsamen Todesorgie im Laufe der Geschichte. Die Arten haben Mechanismen entwickelt, um diese Orgie des Todes zu überleben. Ihr Körper baut durch ständiges Training Muskeln auf, verbrennt aber dieselben Muskeln beim Hungern - das ist alles Teil des Energiemanagements unseres Körpers, das sich entwickelt hat, um mit Veränderungen fertig zu werden. Sogar der Tod selbst ist eine Notwendigkeit für die Evolution und die Selbstreplikation mit begrenzten Ressourcen +
+
+Eine Folge dieser Orgie ist jedoch die Diversität, und ob es sich nun um die Diversität zwischen oder innerhalb von Arten handelt, diese ist ein kritisches Element der ökologischen Resilienz. Fehlende Vielfalt ist oft eine große Schwäche klassischer technischer Systeme durch systemisches Versagen. Wenn Sie ein System schaffen wollen, das in der Lage ist, sich an ständige Veränderungen anzupassen, das gegenüber Unbekanntem resilient ist und das als Ganzes die besten Chancen auf Langlebigkeit hat, dann ist die Natur darin ein Meister der Vergangenheit. Lernen Sie vom Leben selbst.
+
+=== Auf Karten
+
+Bei Karten geht es um Bewusstsein. Sie sollten immer daran denken :-) +
+
+1. Die Karte ändert sich ständig. Es handelt sich um lebende Dokumente. Mit etwas Übung sollte es ein paar Stunden dauern, ein Unternehmen von Grund auf neu abzubilden, und diese müssen sich anpassen, wenn Sie mehr entdecken. Dies ist relativ einfach, wenn sie als Kommunikationsmittel eingebettet werden +
+2. Karten sind ein Mittel, um etwas über die Umgebung zu lernen und dies zu kommunizieren. Es ist ein iterativer Prozess und es wird Jahre dauern, bis man gut darin wird. Die wirklich wichtige Lektion über Karten ist nicht, wie genau oder perfekt sie sind, sondern wie man sie nutzt, um kontinuierlich zu lernen. Karten sind nicht die "Wahrheit", sondern ein Leitfaden, um den herum eine ganze Armee zusammenarbeiten und kommunizieren kann +
+3. Alle Modelle sind falsch, einige sind lediglich nützlich. Jemand wird eine nützlichere Methode der Abbildung, eine bessere Liste von Lehren, eine aufschlussreichere Reihe von Mustern erstellen. Da es so etwas wie die "richtige" Karte nicht gibt, dann fühlen Sie sich frei, die Karte in einer Weise zu verändern, die sie für Sie nützlicher macht +
+4. Wenn Sie das Gefühl haben, dass dies eine Menge zu verkraften ist, dann ist es das auch. Strategie ist kein einfaches Thema, trotz unserer Versuche, es als solches zu verkleiden +
+
+Sie sind jetzt bereit. Nun, Sie waren vielleicht schon längst bereit, aber ich wollte mir selbst die beste Chance geben, also bin ich jetzt eher bereit. Vorwärts Freunde und lasst uns nun das Spiel mit einem Szenario im nächsten Kapitel spielen.
+

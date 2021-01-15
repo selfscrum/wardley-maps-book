@@ -1,0 +1,150 @@
+[#chapter-12-the-scenario]
+= Kapitel 12 - Das Szenario
+
+Sie sind Mitglied der Geschäftsleitung eines großen Mischkonzerns mit Schwerpunkt Facility Management. Sie nehmen an einem Treffen einer hundertprozentigen Tochtergesellschaft mit deren Führungskräften teil. Sie sind auf einer Fact Finding Mission und versuchen, die Zukunft dieser Tochtergesellschaft zu bestimmen +
+
+In letzter Zeit gab es einige positive Geräusche über die Tochtergesellschaft von Analysten und auch ein gewisses Interesse von Dritten an einer möglichen Übernahme. Dieses Unternehmen bietet ein einziges Produkt an, nämlich ein Softwaresystem, das den Stromverbrauch eines Rechenzentrums überwacht, um festzustellen, ob er effektiv genutzt wird. Das Produkt ist bekannt als *Phoenix*.
+
+== Das Unternehmen
+
+Der CEO stellt das Unternehmen und seine Vision vor, den Kunden das beste Werkzeug auf dem Markt zur Reduzierung des Stromverbrauchs und zur Verbesserung der Umweltleistung zu bieten. Der CEO spricht über ihre Mission, _"dabei zu helfen, die Auswirkungen der IT auf den Planeten zu reduzieren"_, und es ist spürbar, dass innerhalb der Gruppe ein großes Gefühl des Stolzes und der Selbstüberzeugung herrscht. Der CEO bekräftigt in einer Präsentation die Grundwerte des Unternehmens. Die Werte werden als entscheidend für den Erfolg des Unternehmens beschrieben und umfassen _Verantwortung, Integrität, Transparenz, Mitgefühl, Empathie, Anpassungsfähigkeit_ und _Entscheidungsfähigkeit_. Der CEO gibt dann einige Hintergrundinformationen, mehr zu Ihrem Nutzen als zu dem der anderen.
+
+=== Was ist Phoenix
+
+Das System beinhaltet ein proprietäres Softwarepaket, das Analysen über Daten durchführt, die von einem Sensor gesammelt werden, der im Rechenzentrum des Kunden installiert ist. Der Sensor ist ein sehr teures Gerät, das von Drittanbietern hergestellt wird. Der Sensor überwacht sowohl die Stromzufuhr als auch die Temperatur und den Luftstrom innerhalb des Gebäudes +
+
+Die Analysesoftware basiert auf einem Jahrzehnt an Best-Practice-Erfahrung für den Einsatz dieser Sensoren. Die im Softwarepaket enthaltenen Algorithmen gelten als das wesentliche Kern-IP der Tochtergesellschaft und sie unterscheiden dieses Produkt von allem anderen auf dem Markt. Diese Algorithmen sind ein sorgfältig gehütetes Geheimnis. Das Softwarepaket konsumiert auch einen Satz von Umgebungsdaten (der vom Unternehmen zur Verfügung gestellt wird), der Leistungsinformationen über gängige Hardware enthält.
+
+=== Betrieb von Phoenix
+
+Die Einrichtung auf einer Client-Seite erfordert
+
+* einbau des Sensors
+* aufstellen eines hochredundanten Servers, der das Softwarepaket enthält
+* installation von Agenten auf jedem Rechner im Rechenzentrum, um Leistungsinformationen über das Netzwerk an das Analysetool zu liefern
+* beschreibung des anfänglichen Layouts des Rechenzentrums für das Analysetool
+* das System mehrere Tage lang laufen lassen, um Daten zu sammeln
+
+Das System enthält eine lernende KI, die im Laufe der Zeit Empfehlungen zur Verbesserung der Effizienz des Stromverbrauchs von Klimaanlagen, des Luftstroms, der Positionierung der Geräte, der Art der Geräte und der Betriebsarten entwickelt. Es hat sich gezeigt, dass bei ständiger aktiver Überwachung 10 % des Energieverbrauchs innerhalb der Kundenstandorte reduziert werden können. Der Prozess der Einrichtung eines neuen Kunden umfasst eine zweitägige Installation von Geräten und Software vor Ort. Der Service wird auf Basis der anfänglichen Hardware- und Einrichtungskosten berechnet, gefolgt von einer zweijährigen erneuerbaren Softwarelizenz. Sie stellen fest, dass die Gruppe sichtlich stolz auf ihre Leistungen ist, auf das technologische Wunderwerk, das sie geschaffen hat, und auf ihre Fähigkeit, ihre Vision zu verwirklichen. Als Nächstes spricht der Leiter des Marketings.
+
+== Marketing und Geschäftsentwicklung
+
+Der Name Phoenix inspiriert die Ideen des Nachwachsens, der Natur und der Kraft und dies wird stark im Branding und in den Marketingmaterialien verwendet. Das Unternehmen ist der größte Anbieter solcher Energieeffizienzsysteme in Europa und bietet einen kompletten Service vom Softwarepaket vor Ort bis zur Sensorinstallation. Ihre Systeme machen derzeit 43 % des Marktes von 2016 aus, der nach den neuesten Analystenzahlen auf 301 Millionen Pfund pro Jahr geschätzt wird. Der Marketingleiter spricht über mehrere erfolgreiche Online-Kampagnen, seine starke Marke in der europäischen Branche und eine kürzlich durchgeführte Kundenumfrage, die eine gute bis hohe Zufriedenheit bei über 90 % des Kundenstamms ergeben hat +
+
+Die Tochtergesellschaft hat zwar einige Konkurrenten in Europa, aber die meisten von ihnen bieten sehr kundenspezifische Lösungen an, die extrem teuer sind. Der Marketingleiter verweist auch auf Daten, die zeigen, dass der derzeitige europäische Markt nur einen Bruchteil des anwendbaren Marktes von 3 Mrd. £ p.a. ausmacht und Chancen in der Vergrößerung des Marktanteils, dem Wachstum des derzeitigen Marktes und auch der Expansion in Übersee bestehen. In Bezug auf die Vergrößerung des Marktanteils wurde ein aggressiver Vertriebs- und Marketingplan entwickelt, um MaSh von 43% auf 65 y 2021 zu erhöhen. Phoenix gilt nach neuesten Analystenberichten als die führende europäische Technologie in diesem Bereich +
+
+In Bezug auf die internationale Expansion gibt es Anreize, das Wachstum in Märkten wie Brasilien zu fördern, in denen derzeit kein Unternehmen eine gut entwickelte Produktlösung anbietet. Der Leiter der Strategie stimmt dem zu und wirft ein: _"Wir halten dies für einen sehr attraktiven Zukunftsmarkt, den das Unternehmen nutzen will"_. Sie bemerken, dass der Vertriebsleiter zustimmend nickt +
+
+Der US-Markt ist größer und gilt als reifer. In den letzten sieben Jahren gab es in den USA ein Software-as-a-Service-Angebot, das dieselbe Sensortechnologie verwendet, bei dem das Hauptsoftwarepaket jedoch über eine öffentliche Cloud bereitgestellt und auf einer Utility-Basis statt über eine Lizenzgebühr verkauft wird, d. h. der Kunde zahlt nur, wenn es aktiv ist und läuft. Dies wurde als erfolgreich angesehen und beherrscht nun fast 40 % des US-Marktes. Allerdings war das betreffende US-Unternehmen in den letzten fünf Jahren auch in Europa tätig. Der Wettbewerber machte 2015 weniger als 3 % des europäischen Marktes aus, aber ihr CEO hat in der Presse behauptet, dass sie schnell wachsen und ihre Größe jedes Jahr fast verdoppeln, mit einem Umsatz von 15 Mio. £ im Jahr 2015. Obwohl der Wettbewerber seine endgültigen Zahlen für 2016 noch nicht bekannt gegeben hat, wird er in einigen Berichten auf etwa 25 Mio. £ geschätzt. Der Vertriebsleiter fügt hinzu, dass es sich nicht um ein wirklich digitales Geschäft handelt, da es immer noch die Installation des Sensors (entweder durch den Kunden oder durch ein Beratungsunternehmen) und die Anbindung des Sensors an den öffentlichen Dienst erfordert. Sie sagen _"der US-Wettbewerber hat vielleicht eine cloudbasierte Lösung, aber ihm fehlen unsere Beziehungen"_ +
+
+Der CIO kommentiert, dass die US-Lösung einige Funktionen bietet, die Phoenix nicht hat, darunter unternehmensübergreifendes Reporting, Branchenanalysen und eine öffentliche API. Es gibt auch eine Reihe anderer Unternehmen, die Produkte auf der öffentlichen API dieses Wettbewerbers aufbauen, und ihr CEO beschreibt eine _"ziemlich aktive Entwicklungsgemeinschaft, die sich darum herum entwickelt"_. Der Chief Digital Officer (der auch die Produktgruppe leitet) fügt hinzu, dass wir einen Cloud-Service aufbauen werden. Sie spüren hier eine gewisse Spannung. Sie wissen, dass die Organisation kürzlich umstrukturiert wurde und ein jüngerer und dynamischerer CDO ins Unternehmen geholt wurde. Der CIO (das letzte verbliebene Mitglied des ursprünglichen Teams, das das Unternehmen gegründet hat) hat sich mehr auf die interne IT und Datenverwaltung beschränkt +
+
+Der CDO kommentiert, dass es in letzter Zeit auch in den sozialen Medien Geschichten darüber gab, dass der US-Wettbewerber die Geschäftsmodelle einiger Produktunternehmen _"auffrisst"_, die auf ihrer API aufgebaut haben, indem sie ähnliche Funktionen in ihr eigenes System aufgenommen haben. Der Vertriebschef deutet an, dass der Mitbewerber Schwierigkeiten hat, seinen Weg zu finden und zu solchen kannibalistischen Aktionen gezwungen ist. Er fügt hinzu, dass _"wir die US-Firma nur selten in Ausschreibungen antreffen, und auf jeden Fall gibt es Sicherheitsbedenken, die von einigen Kunden aufgrund ihres Cloud-Ansatzes angeführt werden"_.
+
+== Verkäufe
+
+Der Vertriebsleiter übernimmt die Präsentation und beginnt, das Wachstum des Unternehmens durchzugehen. Es ist offensichtlich, dass es eine Menge Koordination zwischen Marketing, Vertrieb und Digital gibt und dieses Team scheint gut zusammenzuarbeiten. Im Jahr 2016 hatte das Unternehmen ein Rekordjahr mit 123 Millionen Pfund Umsatz und über 6.277 Kunden, darunter 690 Neukunden, 600 Kunden vor der Schwelle (installiert und in Betrieb, aber innerhalb der ersten zwei Jahre vor Beginn der Erneuerung) und 4.987 Kunden mit zweijähriger Erneuerung. Die digitale Gruppe hat dazu beigetragen, mobile Tools, Kommunikations- und andere Möglichkeiten für das Vertriebsteam zusammen mit Marketing-Tools für gezieltere Werbung bereitzustellen. Das erwartete Wachstum an Kunden ist in Abbildung 161 dargestellt +
+
+.Zuwachs an Kunden
+[#img-fig161-growth-in-clients] 
+[caption="Abbildung 161: ",link=https://cdn-images-1.medium.com/max/1600/1*M941mQ2Ty5GH_NBCe-LJ7w.jpeg]
+image::1_M941mQ2Ty5GH_NBCe-LJ7w.jpeg[Abbildung 161 - Wachstum bei Kunden,900,600,align=center]
+
+Die Fluktuationsrate war in den letzten Jahren mit 9 % hoch. Das Vertriebsteam glaubt, dass dies auf einen Mangel an neuen Funktionen und hohe Kosten für die Erneuerung der Softwarelizenzen zurückzuführen ist. Um dem entgegenzuwirken, wird das Digital- und Produktteam erweitert, wobei der Schwerpunkt auf neuen Funktionen liegt, und der Preis für die Erneuerung der Softwarelizenzen wird für die nächsten zwei Jahre eingefroren (was zu einem realen Preisrückgang führt), wobei weitere Senkungen aufgrund einer Effizienzsteigerung möglich sind. Es wird angenommen, dass diese Kombination das Unternehmen in die Lage versetzen sollte, die Fluktuationsrate auf 5 % oder weniger zu senken.
+
+== Digital- und Produktentwicklung
+
+Im letzten Jahr hat das Digitalteam daran gearbeitet, sowohl die Social-Media-Reichweite, die Website als auch die im Unternehmen verwendeten Tools zu verbessern. Der Fokus liegt nun auf Produktverbesserungen und der Entwicklung eines Cloud-Dienstes.
+
+=== Cloud-Dienst
+
+Es handelt sich dabei um eine der bedeutendsten Investitionen in der Geschichte des Unternehmens, die im Jahr 2018 beginnt und mit einem Investitionsvolumen von 45 Millionen Pfund gegen Ende 2020 starten soll. Der Dienst wird auf Lizenzbasis angeboten, um keinen Konflikt mit dem bestehenden Modell zu erzeugen, und wird als Gegenmaßnahme für eine zukünftige Bedrohung durch den US-Wettbewerber sowie als Notwendigkeit für ein modernes Technologieunternehmen betrachtet. Es wird erwartet, dass der Cloud-Service bis 2023 (drei Jahre nach dem Start) fast 50 Mio. £ p.a. beitragen und mehr als 10 % des Unternehmensumsatzes ausmachen wird, siehe Abbildung 162 +
+
+.Umsatz mit Cloud-Diensten
+[#img-fig162-cloud-service-revenue] 
+[caption="Abbildung 162: ",link=https://cdn-images-1.medium.com/max/1600/1*7XDDPncm63QH-QEDUmxV4Q.jpeg]
+image::1_7XDDPncm63QH-QEDUmxV4Q.jpeg[Abbildung 162 - Cloud Service Umsatz,900,600,align=center]
+
+Der Phoenix-Cloud-Service wird unternehmensübergreifendes Reporting und erweiterte Analysen bieten. Diese Funktionen werden auch im On-Premise-Service enthalten sein und das Unternehmen wird dieses hybride Modell von öffentlichen oder privaten Alternativen fördern. Der öffentliche Dienst wird bei einem großen Cloud-Anbieter laufen, wobei neue DevOps-Praktiken zum Einsatz kommen. Die Kernalgorithmen und die Logik von Phoenix werden beibehalten, aber an diese neue Welt angepasst. Anschließend wurde das Geschäftsmodell untersucht, einschließlich eines Business Model Canvas (Abbildung 163), der den neuen Service skizziert +
+
+.Business Model Canvas
+[#img-fig163-business-model-canvas] 
+[caption="Abbildung 163: ",link=https://cdn-images-1.medium.com/max/1600/1*Buj--Xrbf6WtiUk_Crim4g.jpeg]
+image::1_Buj--Xrbf6WtiUk_Crim4g.jpeg[Abbildung 163 - Business Model Canvas,900,600,align=center]
+
+Business Model Canvas Rahmen von Strategyzer
+
+=== Technologieänderungen
+
+Trotz des Nutzens für die Kunden in Bezug auf Energieeinsparungen durch Effizienz, den Phoenix schafft, besteht eine gewisse Besorgnis über die hohen Kosten des Systems auf dem Markt, wie in der Kundenbefragung festgestellt wurde. Es gibt zwei potenzielle Wege zur Reduzierung der Kosten - die Sensortechnologie und die Datenkosten +
+
+_Sensorik_ +
+
+Die Sensortechnologie macht 73 % der Installationskosten von 67.000 £ aus. Es gibt eine Reihe von neuen, eher handelsüblichen Sensoren, die in China von einem extrem großen Hersteller auf den Markt gebracht wurden. Diese sind viel einfacher, wesentlich billiger (etwa ein Hundertstel des Preises der vorhandenen Sensoren) und hoch standardisiert. Allerdings sind sie auch extrem einfach und haben nicht die Empfindlichkeit und Leistungsfähigkeit des Sensors, den Phoenix verwendet. Der CDO weist darauf hin, dass das Produktteam versucht hat, den teuren Sensor durch eine dieser billigeren Versionen zu ersetzen, aber die Leistung und die Analyse waren stark beeinträchtigt, was das System fast unbrauchbar machte. Der CIO unterbricht und sagt, dass _"eine mögliche Lösung darin bestehen könnte, viele der billigeren Sensoren zu verwenden"_ +
+
+Der CDO weist darauf hin, dass ein solcher Ansatz bereits mehrfach diskutiert wurde und eine komplette Neuschreibung von Phoenix und die Entwicklung eines völlig neuen Satzes von Algorithmen und Techniken erfordern würde, die ein neues Forschungs- und Entwicklungsprogramm erfordern. Der Betriebsleiter, der die Installationen verwaltet, fügt hinzu, dass dies eine komplette Überarbeitung der Prozesse und einen umfangreichen Upgrade-Pfad für über 6.000 bestehende Installationen erfordern würde. Der CEO fügt hinzu, dass dies auch das in Phoenix entwickelte geistige Eigentum untergraben würde. Schließlich fügen die Marketing- und Vertriebsleiter hinzu, dass dies ein Marketing-Albtraum wäre, während man gerade ein neues Geschäft in Brasilien und einen Cloud-Service aufbaut. Man spürt, dass es bei der Gruppe und dem CIO Frustration über dieses Thema gibt, das offenbar schon oft angesprochen wurde +
+
+Der Betriebsleiter, der CDO und der Vertriebsleiter sind sich jedoch einig, dass diese billigeren Sensoren zwar nicht gut genug für die vom Kunden erwartete Aufgabe sind, sie aber dennoch denken, dass es sich lohnt, den Markt im Auge zu behalten. Sie sind sich des Konzepts der disruptiven Innovation bewusst und wissen, wie sich diese billigeren Sensoren entwickeln könnten. Der CDO wendet sich nun einer anderen Gelegenheit zu +
+
+_Datensatz_ +
+
+Einer der Kostenpunkte für das Unternehmen liegt in den Umweltdaten, die in Phoenix bereitgestellt werden. Diese Daten erfordern umfangreiche Tests und Modellierungen verschiedener Ausrüstungsgegenstände, die üblicherweise in Rechenzentren verwendet werden. Während dies von der IT-Abteilung intern durchgeführt wird, gibt es jetzt einen Datensatz auf dem Markt, der dies bietet. Das Produktteam ist der Meinung, dass es gut genug ist und wesentlich billiger als die Lösung der internen IT-Abteilung. Der CDO schätzt, dass das Unternehmen durch den Zukauf des externen Datensatzes die Kosten für Phoenix um 3 - 4 % senken könnte und wir sollten mit dieser Idee weitermachen. Die Vertriebs- und Marketingleiter sind sich einig, dass sich das Unternehmen nicht nur auf die Verbesserung des bestehenden Softwarepakets konzentrieren, sondern auch die Kosten senken sollte, wo es möglich ist. Der CIO stimmt dieser Einschätzung trotz der offensichtlichen Auswirkungen auf die IT zu.
+
+== Strategie
+
+Der Leiter der Strategie bespricht nun die zukünftige Richtung für das Unternehmen. In einer kürzlichen Sitzung wurden mit dem gesamten Führungsteam eine Reihe von Richtungen diskutiert. Diese konzentrierten sich auf die Stärken des Unternehmens, die Schwächen in der bestehenden Produktlinie, die potenziellen Chancen in aufstrebenden Märkten und zukünftige Bedrohungen wie den US-Player. Obwohl die Diskussionen "_herausfordernd_" waren, entwickelte das Team eine Schlüsselzahl von Maßnahmen, die als dringend für das Unternehmen angesehen wurden. Diese wurden in ein neues Visionsdokument mit dem Titel _"Wachstum und Nachhaltigkeit für Phoenix"_ destilliert. Diese Optionen wurden dann in Zusammenarbeit mit dem breiteren Managementteam des Unternehmens untersucht, um eine Prioritätenliste zu erstellen (siehe Abbildung 164), die dann mit dem CEO abgestimmt wurde, um eine endgültige Richtung vorzugeben +
+
+.Prioritätsreihenfolge der Verwaltung
+[#img-fig164-management-priority-order] 
+[caption="Abbildung 164: ",link=https://cdn-images-1.medium.com/max/1600/1*UrRmm7EcKQ5cTKRC1PoK7w.jpeg]
+image::1_UrRmm7EcKQ5cTKRC1PoK7w.jpeg[Abbildung 164 - Reihenfolge der Managementprioritäten,900,600,align=center]
+
+Der Fokus und die Prioritäten des Unternehmens sind :-
+
+.Erstellung eines digitalen "*wolkenbasierten*" Dienstes zur Bereitstellung der Software.
+.Untersuchung des Einsatzes des verfügbaren Datenkonvertierungsprodukts, um die *Effizienz* zu verbessern und die Kosten zu senken.
+.*Expansion* des bestehenden Produkts in Überseemärkte wie Brasilien.
+.Erhöhung des *Entwicklungsaufwands* für unsere bestehende Produktlinie, einschließlich eines erweiterten Berichtswesens und anderer innovativer Funktionen.
+.Durchführung einer umfangreichen *Marketing*-Kampagne, um unsere Lösung auf dem bestehenden Markt zu bewerben.
+
+== Finanzen
+
+Der CFO gibt einen Überblick über die Unternehmensleistung, einschließlich einer grundlegenden P und L für das Unternehmen mit Schätzungen für zukünftige Jahre (Abbildung 165), die das Programm der durch die Strategie hervorgehobenen Änderungen kostet +
+
+.P und L
+[#img-fig165-p-and-l] 
+[caption="Abbildung 165: ",link=https://cdn-images-1.medium.com/max/1600/1*2RVBPDV_G3skdEfSHCqAaQ.jpeg]
+image::1_2RVBPDV_G3skdEfSHCqAaQ.jpeg[Abbildung 165 - P und L,900,600,align=center]
+
+Der CFO hebt die folgenden Punkte hervor:
+
+* Das Unternehmen ist profitabel mit einem Umsatz von über 120 Mio. £ p.a., einem Wachstum von 10 % gegenüber dem Vorjahr und einem EBITDA von 26 %. Das Unternehmen verfügt über einen gesunden Cashflow und Reserven.
+* Im Jahr 2016 gab es eine Neuorganisation, bei der der Bereich "Digital" mit der Produktentwicklung zusammengelegt wurde (vorher unter dem CIO) und nun unter dem CDO läuft. Es wurde in diesen Bereich investiert, insbesondere in neue Technologiebereiche innerhalb des Unternehmens, wie z. B. die Nutzung von Social Media und cloudbasierten Tools. Es wurde auch in Funktionen innerhalb von Phoenix investiert und eine Rekrutierungskampagne für Talente durchgeführt.
+* Es wird erwartet, dass die digitale Gruppe in den nächsten zwei Jahren mit der Entwicklung des Cloud-Dienstes, dessen Einführung für Ende 2020 erwartet wird, erheblich expandieren wird. Obwohl das Unternehmen wächst, wird sich die Investition in den Jahren 2017 und 2018 wesentlich auf das EBITDA auswirken. Außerdem wird es ab 2020 eine große Marketingkampagne rund um den Cloud-Service geben.
+* Die IT-Funktion betreibt nun interne Systeme und das Datenmanagement. Es wird erwartet, dass Effizienzeinsparungen bei den zentralen Altsystemen erzielt werden können und dass die Verlagerung auf einen externen Datensatz die IT-Kosten 2018 deutlich senken wird. Dies wird durch einen gewissen Anstieg aufgrund der Kosten für den Aufbau des Betriebs in Brasilien ausgeglichen.
+* Die Markteinführung von Brasilien ist für 2018 geplant. Dies wird eine erhebliche Marketingoffensive, einige zusätzliche Verwaltungs- (HR), Finanz- und IT-Kosten zusammen mit erhöhten Vertriebskosten beinhalten.
+* Bis 2021 wird erwartet, dass die Einführung von Brasilien, der Cloud-Service und die Effizienzsteigerung in der IT das Umsatzwachstum und das EBITDA erheblich beeinflussen werden. Das Unternehmen wird sich bis 2021 zu einer stärker vertriebs-, marketing- und digital geführten Organisation gewandelt haben.
+
+Der CEO beendet das Meeting und entschuldigt sich anschließend privat für die Reaktion des CIOs. Er erklärt _"es war schwierig wegen der Veränderungen. Aber diese Organisation ist kein Startup mehr und einigen Leuten ist die Anpassung an diese neue Welt nicht so leicht gefallen"_. Auf die Frage, was er mit dem CIO vorhat, antwortet er mit einem schiefen Lächeln: _"Nun, Sarah hat zwar ihr Interesse bekundet, den Betrieb in Brasilien aufzubauen, aber ich denke, sie weiß, dass man manchmal einfach weiterziehen muss"
+
+== Aufgabe
+
+Sie haben in 45 Minuten ein Gespräch mit dem Vorstand. So lange haben Sie Zeit, Ihre Entscheidungen zu treffen. Die Uhr tickt. Suchen Sie also eine Stoppuhr und starten Sie sie +
+
+Ihre erste Aufgabe ist es, festzustellen, ob sich das Unternehmen in die richtige Richtung bewegt. Sie sollten feststellen, ob Sie mit der in Abbildung 166 angegebenen Prioritätenreihenfolge einverstanden sind. Wenn nicht, schreiben Sie auf, wie Ihre Prioritätsreihenfolge aussehen würde. Wenn Sie sich für "andere" entscheiden, dann schreiben Sie auf, was diese anderen sind +
+
+.Vorrangige Reihenfolge
+[#img-fig166-priority-order] 
+[caption="Abbildung 166: ",link=https://cdn-images-1.medium.com/max/1600/1*EgVhf-sVxcyx2t_HO7lHPQ.jpeg]
+image::1_EgVhf-sVxcyx2t_HO7lHPQ.jpeg[Abbildung 166 - Prioritätsreihenfolge,900,600,align=center]
+
+Sobald Sie Ihre Prioritätenreihenfolge festgelegt haben, besteht Ihre nächste Aufgabe darin, zu bestimmen, was Sie dem Vorstand sagen werden.
+
+== Ein Hinweis an den Leser
+
+Versuchen Sie die Übung und nehmen Sie sich die fünfundvierzig Minuten Zeit dafür. Die Versuchung ist immer, zum nächsten Kapitel zu springen und die "_Antwort_" zu finden - wenn es so etwas gibt. Das geht jedoch am Kern der Sache vorbei. In diesem Szenario geht es darum, dass Sie lernen, das Spiel zu spielen, und um das zu tun, müssen Sie sich in die unbequeme Lage versetzen, Dinge vielleicht falsch oder vielleicht richtig zu machen. Versuchen Sie, nicht zu raten, sondern herauszufinden, warum Sie das Gefühl haben, das Richtige oder das Falsche zu tun. Wenn Sie verwirrt sind, geben Sie sich etwas mehr Zeit, vielleicht maximal anderthalb Stunden, aber zwingen Sie sich, die Entscheidung zu treffen +
+
+Sie spielen mit der Zukunft eines Tochterunternehmens und all den Leben, die es beeinflusst. Es gibt Menschen, deren Träume und Lebensgrundlagen sich durch das, was Sie sagen und was Sie wählen, verändern werden, zusammen mit einem Vermögen, das gewonnen oder verschleudert werden kann. Sie müssen diesen Druck spüren, das Unbehagen, nicht lange entscheiden zu können und nur unvollkommene Informationen zur Verfügung zu haben. Sie brauchen auch eine Möglichkeit, Ihre Ergebnisse dem Rest des Vorstandes mitzuteilen. Diese Herausforderung soll nicht einfach oder bequem sein +
+
+Wenn Sie sich verloren oder überfordert fühlen, denken Sie daran, dass wir diese Reise mit "xref:chapter-1-on-being-lost[Being lost]" begonnen haben. Jede Führungskraft fühlt dies, ob sie es zugeben möchte oder nicht. Sie werden ins kalte Wasser geworfen, denn schließlich müssen Sie das Spiel mitspielen, und es gibt nur so viel, wie Sie mit Lesen erreichen können. Lassen Sie sich nicht entmutigen, das ist alles Teil des Lernens.
+
